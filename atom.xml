@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Yuriy Dybskiy]]></title>
+  <link href="http://dybskiy.github.com/atom.xml" rel="self"/>
+  <link href="http://dybskiy.github.com/"/>
+  <updated>2012-09-03T16:07:41-07:00</updated>
+  <id>http://dybskiy.github.com/</id>
+  <author>
+    <name><![CDATA[Yuriy Dybskiy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Build your next HTML5 web app using Meteor]]></title>
+    <link href="http://dybskiy.github.com/blog/2012/08/30/build-your-next-html5-web-app-using-meteor/"/>
+    <updated>2012-08-30T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2012/08/30/build-your-next-html5-web-app-using-meteor</id>
+    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="http://dybskiy.github.com//speakerdeck.com/assets/embed.js"></script>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why most mobile apps suck or 'What mobile web devs can learn from game devs']]></title>
+    <link href="http://dybskiy.github.com/blog/2012/07/26/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
+    <updated>2012-07-26T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2012/07/26/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs</id>
+    <content type="html"><![CDATA[<em>Thanks for all the attention this post got on reddit! You guys rock! <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em>
+
+I&#8217;ve been arguing recently with a few folks that the reason Facebook mobile apps suck isn&#8217;t because they chose HTML5 blend over pure native but rather due to poor execution on their side.
+
+There were a bunch of articles written to support both sides but arguing about it isn&#8217;t really productive, is it? Last night I read an amazing article by <a title="Patrick Wyatt" href="http://www.codeofhonor.com/blog/author/patrick-wyatt">Patrick Wyatt</a> – <a title="The making of Warcraft part 1" href="http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1" rel="bookmark">The making of Warcraft part 1</a>. I hope you played Warcraft or at least Warcraft 2.
+
+The problems outlined there make our today&#8217;s hurtles laughable. Fitting a game into 640Kb of memory, code versioning via &#8220;remembering which files are changed on that floppy disk&#8221;, huge multiplayer latencies.
+
+We are spoiled these days and some of us got too comfy thinking 3G and LTE can solve all those latency problems for you. The real answer to the problems with most mobile apps these days (including Facebook&#8217;s) is Patrick&#8217;s another great article – <a title="Reducing perceived latency" href="http://www.codeofhonor.com/blog/reducing-perceived-latency" rel="bookmark">Reducing perceived latency</a> and Mike Krieger&#8217;s (Instagram) – <a href="https://speakerdeck.com/u/mikeyk/p/secrets-to-lightning-fast-mobile-design?slide=1">Secrets to Lightning Fast Mobile Design</a> slide deck.
+
+Slide 25 sums it up nicely in three &#8216;easy&#8217; steps:
+<blockquote>
+<ol>
+	<li>perform actions optimistically</li>
+	<li>adaptively pre-load content</li>
+	<li>move bits when no-one&#8217;s watching</li>
+</ol>
+</blockquote>
+The later two are pretty self-explanatory, but I&#8217;d like to elaborate a bit more on the first one. First time I saw it I assumed it ment optimizations, but what it really means is optimism.
+
+Be optimistic about the and make the user feel productive. Here&#8217;s one of the slides:
+<p style="text-align: center;"><img class="aligncenter  wp-image-318" title="Secrets to Lightning Fast Mobile Design – Slide 34" src="http://dybskiy.com/wp-content/uploads/2012/07/Instagram-slide-34.png" alt="" width="789" height="760" /></p>
+Just like Ogre in Warcraft would say “Daboo” once you command to move, it didn&#8217;t really mean that all the requests had finished. It was a simple acknowledgment for the user that we got your command.
+
+What if the request fails? Notify user unobtrusively:
+<p style="text-align: center;"><img class="aligncenter  wp-image-320" title="Slide 38" src="http://dybskiy.com/wp-content/uploads/2012/07/Slide-38.png" alt="" width="272" height="381" /></p>
+At the end of the day, choosing tools you use is important but much more important is how you use them.
+
+In light of some Vancouver game studios shutting down I don&#8217;t think people need to be worried – it could be great for many companies if a game dev joined them.
+
+So if you are a dev looking for work in Vancouver – get in touch with <a href="http://twitter.com/bmann/">Boris Mann</a> or <a href="http://twitter.com/igorskee/">Igor Faletski</a>. They helped me find <a href="https://twitter.com/unbounce">Unbounce</a> team and I can&#8217;t recommend them enough.
+
+If you read this far, follow me on twitter – <a href="http://twitter.com/dybskiy/">@dybskiy</a>
+
+Thanks to sidcool1234 for submitting to <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">reddit</a>.
+
+<strong>Update 1:</strong> reddit reader <a href="http://www.reddit.com/user/barsoap">barsoap</a> pointed out the following:
+<blockquote>There&#8217;s one keyword here: <em>Immersion</em>.
+
+Immersion breakers kill every game, and while break of workflow might not kill an application, it&#8217;s definitely going to make it suck.
+
+The difference in game vs. app developers here is that game developers focus on immersion from the get-go, even design their games around it, while app developers start off with a set of functionality and, at least hopefully, consider immersion as an afterthought.
+
+Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? Those were designed around immersion, not functionality.</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nexus 7 field testing]]></title>
+    <link href="http://dybskiy.github.com/blog/2012/07/24/nexus-7-field-testing/"/>
+    <updated>2012-07-24T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2012/07/24/nexus-7-field-testing</id>
+    <content type="html"><![CDATA[[caption id=&#8221;attachment_286&#8221; align=&#8221;aligncenter&#8221; width=&#8221;584&#8221;]<a href="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o.jpeg"><img class="size-large wp-image-286" title="Nexus 7 Field Test Part 1" src="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o-1024x682.jpeg" alt="" width="584" height="388" /></a> Nexus 7 and Joffre lake (c) Anton Bielousov[/caption]
+
+[caption id=&#8221;attachment_287&#8221; align=&#8221;aligncenter&#8221; width=&#8221;640&#8221;]<a href="http://dybskiy.com/wp-content/uploads/2012/07/376328_10151043797211037_1014366157_n.jpeg"><img class="size-full wp-image-287" title="Nexus 7 Field Test Part 2" src="http://dybskiy.com/wp-content/uploads/2012/07/376328_10151043797211037_1014366157_n.jpeg" alt="" width="640" height="960" /></a> Nexus 7 on the rocks (c) juliedoro.com[/caption]
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Some thoughts on Nexus 7]]></title>
+    <link href="http://dybskiy.github.com/blog/2012/07/23/some-thoughts-on-nexus7/"/>
+    <updated>2012-07-23T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2012/07/23/some-thoughts-on-nexus7</id>
+    <content type="html"><![CDATA[I&#8217;m writing this post from my nexus in a sushi bar.
+
+&nbsp;
+<p style="text-align: center;"><a href="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49.jpg"><img class="aligncenter  wp-image-282" title="Nexus 7 in a sushi bar" src="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49-768x1024.jpg" alt="" width="292" height="389" /></a></p>
+Is it more convenient than writing on an iPhone? Not really. I still need to have one — for tethering.
+
+The size is amazingly pleasant though. 7 inch narrow screen is very convenient.
+
+It&#8217;s a fun experiment — immersing yourself into a new ecosystem.
+Being surrounded by Apple all the time, having an Android OS is nice for change.
+
+I wanted to have an android device ever since they came out, but iPhone was always superior to Google counterparts. Main reason is Google maps. I bike a lot so having a bike paths layer always appealed to me.
+
+Is nexus 7 superior to Apple&#8217;s iPad? Nope, built quality and screen quality are much lower. Price doesn&#8217;t really justify it.
+
+What&#8217;s interesting is that Apple now has to defend the 7 inch niche and trust me, it&#8217;s here to stay.
+
+Jelly Bean is fast. Most apps aren&#8217;t though. Chrome is a bit of a disappointment too — browsing in Firefox is much smoother.
+
+Gmail lacks unified inbox. I wonder for how long can Google pretend that people have only one account?
+
+Google maps aren&#8217;t very snappy either — apple is still unbeatable here, but the ability to cache certain part of the map really comes handy. I wish they could cache bike path too.
+
+I&#8217;ll post the list of nice apps to have later, but for now I must say its a really comfortable form-factor so I&#8217;m looking forward to what apple will respond with.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Think different]]></title>
+    <link href="http://dybskiy.github.com/blog/2011/10/13/think-different/"/>
+    <updated>2011-10-13T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2011/10/13/think-different</id>
+    <content type="html"><![CDATA[[caption id=&#8221;attachment_256&#8221; align=&#8221;aligncenter&#8221; width=&#8221;584&#8221; caption=&#8221;Think different, Toronto Subway. My small tribute to Steve&#8221;]<a href="http://500px.com/photo/2553180" target="_blank"><img class="size-large wp-image-256  " title="Think different" src="http://dybskiy.com/wp-content/uploads/2011/10/DSC_3014-1024x680.jpg" alt="" width="584" height="387" /></a>[/caption]
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Hired Like a Boss (draft, updates coming)]]></title>
+    <link href="http://dybskiy.github.com/blog/2011/08/25/getting-hired/"/>
+    <updated>2011-08-25T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2011/08/25/getting-hired</id>
+    <content type="html"><![CDATA[The last two weeks have been super exciting for me so I&#8217;d love to share my experience with you. But first of all if you haven&#8217;t gotten yourself a <a title="GitHub" href="http://github.com" target="_blank">GitHub</a> account yet – do yourself a favour and get it right now. You&#8217;ll thank me later, or you can send me 10% of your yearly salary once you get hired by one of the best companies in the Bay area (50% off standard recruiters&#8217; fee). Got it? Good, continue to the cave of wonders&#8230;<!--more-->
+
+Another favour you can do yourself is grab a ticket to San Francisco and just come down here for a week or two right away. Stay at your friend&#8217;s place or use <a title="airbnb.com" href="http://airbnb.com" target="_blank">Airbnb</a>. Again, thank me later – you&#8217;ll meet enormous amount of interesting and smart people and you&#8217;ll learn a lot. Chances are you&#8217;ll get an idea for your next startup here too, the atmosphere is just so refreshing here.
+
+A few G+ Photo Albums of the recent tech events:
+<ul>
+	<li><a title="Google HTML5 hackathon G+ Album" href="https://plus.google.com/photos/107290594765463806793/albums/5642024053132599665" target="_blank">Google HTML5 hackathon</a>, event page <a title="Google HTML5 Hackathon" href="http://www.eventbrite.com/event/1910202467" target="_blank">here</a></li>
+	<li><a title="HAPIHACK G+ Album" href="https://plus.google.com/photos/107290594765463806793/albums/5641555427035191585" target="_blank">HAPIHACK</a>, event website <a title="hAPIhack page" href="http://hapihack.com" target="_blank">here</a></li>
+	<li><a title="SF Tech Talks G+ Album" href="https://plus.google.com/photos/107290594765463806793/albums/5641932617440079953" target="_blank">SF Tech Talks</a>, official website with archive <a title="sftechtalks.com" href="http://sftechtalks.com/" target="_blank">here</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[San Francisco]]></title>
+    <link href="http://dybskiy.github.com/blog/2011/08/05/san-francisco/"/>
+    <updated>2011-08-05T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2011/08/05/san-francisco</id>
+    <content type="html"><![CDATA[I&#8217;ve started planning a trip to SF and I want to gather a list of places to see, companies to visit and useful links here.
+
+Places:
+<ul>
+	<li>Yoshi&#8217;s</li>
+	<li>Baker Beach</li>
+	<li>Marina district / Fort Point</li>
+	<li>Embarcadero and Market Street</li>
+	<li>Union Square</li>
+	<li>Lombard Street – the winding bit</li>
+	<li>Marin County – just North over Golden Gate</li>
+	<li>Sausalito –  ferry from here back to the city</li>
+	<li>Marin Headlands – Great shots of city</li>
+	<li>Exploratorium</li>
+</ul>
+Companies:
+<ul>
+	<li>Google</li>
+	<li>Github</li>
+	<li>Twitter</li>
+	<li>Facebook</li>
+</ul>
+Links:
+<ul>
+	<li>Tango in Bay area: <a href="http://tangomango.org/" target="_blank">tangomango.org</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 2]]></title>
+    <link href="http://dybskiy.github.com/blog/2011/07/08/ipad-vs-ipad-2-vs-kindle-3g-part-2/"/>
+    <updated>2011-07-08T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2011/07/08/ipad-vs-ipad-2-vs-kindle-3g-part-2</id>
+    <content type="html"><![CDATA[<h2>iPad Wi-Fi + 3G 64GB – $550</h2>
+Right after the release of iPad 2, as expected, the used market for the original iPads got pretty crowded and the prices started to drop. Sure, there were still sellers asking $450 for the Wi-Fi only 16 Gb iPad which was selling at Apple store for $399. But there are always more adequate sellers and I got the top of the line first generation iPad 3G for just $550 including a nice red cover case and Apple warranty. Could not be more happy, right?<!--more-->
+<h3>One month later&#8230;</h3>
+After using iPad extensively for one month I came to a sad realisation that it is not a substitute for the three main needs I chose it for:
+<ul>
+	<li>Email on the go</li>
+	<li>Video calls (mostly Skype)</li>
+	<li>Reading</li>
+</ul>
+<strong>Email</strong> is nice to read, especially in lanscape orientation but a pain to write. God forbid you want to copy and paste some of the text from the other email. Good luck doing that. A lot has been said about typing on the virtual keyboard. Some users even get an external bluetooth keyboard for that matter practically ruining the whole purpose of compactness. iPhone on the other hand offers almost the same email experience but is always with you.
+
+<strong>Video calls</strong> you are much better off with the iPhone 4.
+
+[caption id=&#8221;attachment_192&#8221; align=&#8221;alignright&#8221; width=&#8221;560&#8221; caption=&#8221;Video call using an iPad 2&#8221;]<img class="size-full wp-image-192  " title="Taking photo using iPad" src="http://dybskiy.com/wp-content/uploads/2011/05/iPad-Обама-фото.jpeg" alt="Taking photo using iPad" width="560" height="374" />[/caption]
+
+<strong>Reading </strong>really sucks on the iPad. I&#8217;m a huge fan of antiglare screens and unfortunately iPad&#8217;s screen is as glossy as it gets. Meaning that it is only readable inside with no direct light on it, otherwise you can use at as a mirror but definitely not as a reading device. Not to mention all the finger-trails you get directly on the screen from using it.
+<h3>Verdict</h3>
+Sold via craigslist. Don&#8217;t get me wrong, it&#8217;s a great device for showing photos, twitter and casual browsing. Just definitely not a reading device.
+<h2>Kindle 3G – $189</h2>
+Frankly speaking it&#8217;s not a direct comparison of these devices. It is more a combination comparison: &#8220;Macbook Pro and iPad&#8221; vs. &#8220;Macbook Air and Kindle&#8221;. There&#8217;s actually a third element involved – the iPhone, which is present in both setups by default which takes most of the potential iPad responsibilities.
+
+I needed a mobile setup for work and reading, and in the end I realized that Macbook Air is what I need for mobile office and for reading I&#8217;d just get a dedicated device. My eyes are very happy I made that choice.
+
+Two applications I use to send content to my Kindle:
+<ol>
+	<li><a title="Send to Kindle" href="https://chrome.google.com/webstore/detail/ipkfnchcgalnafehpglfbommidgmalan" target="_blank">Send to Kindle</a> Chrome extension</li>
+	<li><a title="Calibre App" href="http://calibre-ebook.com/" target="_blank">Calibre</a> – free and open source e-book library management application</li>
+</ol>
+<h3>verdict</h3>
+After three month of using it I realized one more thing. Having a dedicated reading device not only makes the reading experience great, it also increases the time you spend reading. You are now not distracted by emails, tweets, facebook updates – it&#8217;s just you and the book.
+
+Available at Amazon: <a title="Amazon Store Kindle 3G Wireless Reading Device, Free 3G + Wi-Fi" href="http://amzn.to/hOruFm" target="_blank">Kindle 3G </a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 1]]></title>
+    <link href="http://dybskiy.github.com/blog/2011/05/04/ipad-vs-ipad-2-vs-kindle-3g-part-1/"/>
+    <updated>2011-05-04T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2011/05/04/ipad-vs-ipad-2-vs-kindle-3g-part-1</id>
+    <content type="html"><![CDATA[For the last couple of months I&#8217;ve been using iPads quite extensively and a week ago I sold them all switching to Kindle. But first things first. Here is the chronology of the events:<!--more-->
+<h2>iPad Wi-Fi 16GB ~ $650</h2>
+[caption id=&#8221;attachment_163&#8221; align=&#8221;alignright&#8221; width=&#8221;358&#8221; caption=&#8221;Apple iPad Wi-Fi 16Gb&#8221;]<img class="size-full wp-image-163" title="iPad Wi-Fi 16Gb" src="http://dybskiy.com/wp-content/uploads/2011/04/iPad-Wi-Fi-16Gb.jpeg" alt="Apple iPad Wi-Fi 16Gb" width="358" height="268" />[/caption]
+
+This device was the first tablet I bought, few days before the launch of iPad 2. I&#8217;ve been thinking about it for quite a while and since there was a really low chance of getting an-oh-so-wanted iPad 2 within the first month after Canadian debut I decided to give it a go. Futureshop has a nice two week return policy so it&#8217;s always safe to buy there to test things out. I also didn&#8217;t really care about the cameras of the new iPad, nor about the 15% weight loss.
+
+The total bill came to $643.79 which included the iPad, Apple Case, Screen Protector and <abbr title="Harmonized Sales Tax">HST</abbr>. Happy owner of the new device walked home not knowing what awaits him.
+<h3>Setup</h3>
+Quiz for you:
+<blockquote>Would you like to restore the iPad from iPhone backup or setup as new iPad?</blockquote>
+Frankly speaking this was an unexpected question. Usually Apple tries to make any choices easy for the user (a.k.a. <a title="Book by Steve Krug, Don't Make Me Think: A Common Sense Approach to Web Usability" href="http://amzn.to/hOy8nI" target="_blank">Don&#8217;t make me think</a>), but this time only Google could solve this mystery. Details aside, appears it is better to set it up as new. Maybe because it *is* new? Apart from that strange question the rest is an easy Apple setup as usual – up and running in no time.
+<h3>Initial Impressions</h3>
+Cool, this this thing is really cool! Just a big iPhone? You bet it is. By the way, iPhone starts to feel really tiny after using iPad.
+
+Applications that I&#8217;ve used mostly included the following: Safari, Mail, iBooks, Skype, Twitter and Facebook. Speaking of the later one, there is no official app yet and the third party ones just style the touch.facebook.com site which makes them quite unpleasant to use. The touch version of facebook deserves a separate post. So far iPhone App looks like the best mobile options, regardless to all its faults.
+
+<strong>Safari</strong> – generally nice feeling of browsing and scrolling with swiping, but switching between the tabs really takes a while. Three or four finger swipe would be a better option. Very nice experience nonetheless.
+
+<strong>Mail</strong> – absolutely unusable in portrait orientation and nice in landscape.
+
+[caption id=&#8221;attachment_166&#8221; align=&#8221;alignright&#8221; width=&#8221;300&#8221; caption=&#8221;iPad mail app in lanscape and portrait orientation&#8221;]<img class="size-medium wp-image-166" title="iPad Mail" src="http://dybskiy.com/wp-content/uploads/2011/04/iPad-Mail-300x189.png" alt="Apple iPad mail application in lanscape and portrait orientation" width="300" height="189" />[/caption]
+
+<strong>iBooks</strong> – books can be downloaded from one source, you know which. Sure, you can upload PDFs, but you&#8217;ll get quite irritated by having to zoom again and again every time you flip the page.
+
+<strong>Skype</strong> – for the lack of video cameras and native app for the iPad is better off using on the iPhone or laptop.
+
+<strong>Twitter</strong> – now Twitter for iPad is something. It&#8217;s better then safari for browsing. Probably one of the best iOS apps I&#8217;ve ever seen. Pure pleasure to use.
+<h3>Summary</h3>
+Wi-Fi is great when you have it, but if you are on the go you would really want to have 3G with it. Not every café in Toronto has Wi-Fi. Apple Case is good if you want to rest your iPad on the table but if you want to hand hold it I&#8217;d get one where you can easily take it off. Naked iPad feels so much better.
+
+If you are looking for this model, I would get it refurbished from Apple for $350+tax <a title="Refurbished iPad 16Gb at Apple Store" href="http://store.apple.com/us/product/FB292LL/A" target="_blank">here</a>.
+<h2>iPad 2 Wi-Fi + 3G 16GB ~ $800</h2>
+Surprisingly enough I managed to get a grip on the iPad 2 the day it came out in Canada. Whilst the line in the Eaton Centre Apple store was huge the lineup in the Futureshop was very manageable.
+
+[caption id=&#8221;&#8221; align=&#8221;alignright&#8221; width=&#8221;300&#8221; caption=&#8221;The lineup in Eaton centre. Follow the link to Flickr to see where Apple store actually is on this photo&#8221;]<a href="http://www.flickr.com/photos/imuttoo/5561367012/"><img class=" " title="Apple Store lineup on iPad 2 launch" src="http://farm6.static.flickr.com/5100/5561367012_0b0d1901e6.jpg" alt="Photo of the Eaton Centre Apple Store lineup on iPad 2 launch in Toronto, Canada" width="300" height="268" /></a>[/caption]
+
+The total for the iPad 2 3G 16gb, Smart Cover, screen protector and taxes was $800.85.
+<h3>Key Differences vs. iPad</h3>
+iPad 2 is noticeably thinner, lighter and faster if you hold it right next with the original iPad. You don&#8217;t really notice these differences right away if you only hold one of the iPads at a time.
+
+iPad 2 has two cameras and Smart Cover comes very handy. 3G is definitely a useful feature as well and after a little negotiation with Rogers I was all set.
+<h3>Is it useful?</h3>
+Short answer – no more than original iPad. Longer version – weight, thickness and added cameras don&#8217;t shift the iPad into different category, neither does the speed increase. It still does not fit into any of your current pockets.
+
+The price tag, however reaches the lower boundary of Macbook Air which is a completely different piece of electronics.
+
+My two reasons to get the iPad 2 were cameras and speed. Skyping on iPad appeared to be absolutely unpleasant. I think you are much better off with the iPhone 4 for video chats. The speed increase is definitely noticeable but for the current possible tasks I don&#8217;t think it matters that much. Scrolling through a bunch of photos is much faster, but are you usually looking at photos at that speed?
+<h3>Summary</h3>
+With the price of $800 you can add another couple of hundred dollars and get an 11&#8221; or even a 13&#8221; Macbook Air not sacrificing much in terms of size but gaining a lot of functionality. The iPad 2 was returned to Futureshop and here comes the next purchase.
+
+<em>To be continued&#8230;</em>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Summer in Toronto]]></title>
+    <link href="http://dybskiy.github.com/blog/2010/07/27/summer-in-toronto/"/>
+    <updated>2010-07-27T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2010/07/27/summer-in-toronto</id>
+    <content type="html"><![CDATA[[nggallery id=1]
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Inception]]></title>
+    <link href="http://dybskiy.github.com/blog/2010/07/25/hello-world/"/>
+    <updated>2010-07-25T00:00:00-07:00</updated>
+    <id>http://dybskiy.github.com/blog/2010/07/25/hello-world</id>
+    <content type="html"><![CDATA[Hi everyone, it is finally time to remove some dust from this domain and bring it to life.
+
+What will I post here? First of all, everything related to Photography. I really love it and would like to share my experience as much as possible.  Photos will be posted here obviously, some technical reviews.
+
+Mobile development is another huge topic I would cover.
+
+You are very welcome to leave comments if you want to suggest something or just to say &#8220;hi&#8221;!
+
+どぞよろしくおねがいたします。
+
+P.s.: Here is how my first site looked like in 1998 – <a href="http://dybskiy.com/TokyoKaraKonnitiva/index.htm" target="_blank">turn on time machine</a>.
+
+P.p.s.: Inception was a nice movie indeed.
+]]></content>
+  </entry>
+  
+</feed>
