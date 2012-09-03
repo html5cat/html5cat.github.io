@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Who is Yuriy Dybskiy]]></title>
+  <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.github.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.github.com/"/>
-  <updated>2012-09-03T15:04:13-07:00</updated>
+  <updated>2012-09-03T15:54:22-07:00</updated>
   <id>http://dybskiy.github.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
