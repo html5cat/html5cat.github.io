@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Who is Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.github.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.github.com/"/>
-  <updated>2012-09-02T19:40:14-07:00</updated>
+  <updated>2012-09-02T20:26:45-07:00</updated>
   <id>http://dybskiy.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Yuriy Dybskiy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
