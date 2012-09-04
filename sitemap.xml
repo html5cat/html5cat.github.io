@@ -1,55 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://dybskiy.github.com/hello-world/</loc>
+        <loc>http://dybskiy.com/hello-world/</loc>
         <lastmod>2012-09-03T16:37:58-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/summer-in-toronto/</loc>
+        <loc>http://dybskiy.com/summer-in-toronto/</loc>
         <lastmod>2012-09-03T16:37:58-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/</loc>
+        <loc>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/</loc>
         <lastmod>2012-09-03T16:37:58-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/</loc>
+        <loc>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/</loc>
         <lastmod>2012-09-03T16:37:58-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/san-francisco/</loc>
+        <loc>http://dybskiy.com/san-francisco/</loc>
         <lastmod>2012-09-03T16:37:58-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/think-different/</loc>
+        <loc>http://dybskiy.com/think-different/</loc>
         <lastmod>2012-09-03T16:37:58-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/some-thoughts-on-nexus7/</loc>
+        <loc>http://dybskiy.com/some-thoughts-on-nexus7/</loc>
         <lastmod>2012-09-03T16:37:58-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/nexus-7-field-testing/</loc>
+        <loc>http://dybskiy.com/nexus-7-field-testing/</loc>
         <lastmod>2012-09-03T16:37:58-07:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dybskiy.github.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/
+            http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/
         </loc>
         <lastmod>2012-09-03T17:30:17-07:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://dybskiy.github.com/technology/build-your-next-html5-web-app-using-meteor/
-        </loc>
+        <loc>http://dybskiy.com/technology/build-your-next-html5-web-app-using-meteor/</loc>
         <lastmod>2012-09-03T17:30:08-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/blog/archives/</loc>
+        <loc>http://dybskiy.com/blog/archives/</loc>
         <lastmod>2012-09-03T17:30:17-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.github.com/</loc>
+        <loc>http://dybskiy.com/</loc>
         <lastmod>2012-09-03T17:30:17-07:00</lastmod>
     </url>
 </urlset>
