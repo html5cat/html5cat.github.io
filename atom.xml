@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.github.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.github.com/"/>
-  <updated>2012-09-03T16:34:00-07:00</updated>
+  <updated>2012-09-03T17:32:18-07:00</updated>
   <id>http://dybskiy.github.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Build your next HTML5 web app using Meteor]]></title>
-    <link href="http://dybskiy.github.com/blog/2012/08/30/build-your-next-html5-web-app-using-meteor/"/>
+    <link href="http://dybskiy.github.com/technology/build-your-next-html5-web-app-using-meteor/"/>
     <updated>2012-08-30T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2012/08/30/build-your-next-html5-web-app-using-meteor</id>
+    <id>http://dybskiy.github.com/technology/build-your-next-html5-web-app-using-meteor</id>
     <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="http://dybskiy.github.com//speakerdeck.com/assets/embed.js"></script>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Why most mobile apps suck or 'What mobile web devs can learn from game devs']]></title>
-    <link href="http://dybskiy.github.com/blog/2012/07/26/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
+    <link href="http://dybskiy.github.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
     <updated>2012-07-26T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2012/07/26/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs</id>
+    <id>http://dybskiy.github.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs</id>
     <content type="html"><![CDATA[<em>Thanks for all the attention this post got on reddit! You guys rock! <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em>
 
 I&#8217;ve been arguing recently with a few folks that the reason Facebook mobile apps suck isn&#8217;t because they chose HTML5 blend over pure native but rather due to poor execution on their side.
@@ -76,9 +76,9 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   
   <entry>
     <title type="html"><![CDATA[Nexus 7 field testing]]></title>
-    <link href="http://dybskiy.github.com/blog/2012/07/24/nexus-7-field-testing/"/>
+    <link href="http://dybskiy.github.com/nexus-7-field-testing/"/>
     <updated>2012-07-24T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2012/07/24/nexus-7-field-testing</id>
+    <id>http://dybskiy.github.com/nexus-7-field-testing</id>
     <content type="html"><![CDATA[[caption id=&#8221;attachment_286&#8221; align=&#8221;aligncenter&#8221; width=&#8221;584&#8221;]<a href="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o.jpeg"><img class="size-large wp-image-286" title="Nexus 7 Field Test Part 1" src="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o-1024x682.jpeg" alt="" width="584" height="388" /></a> Nexus 7 and Joffre lake (c) Anton Bielousov[/caption]
 
 [caption id=&#8221;attachment_287&#8221; align=&#8221;aligncenter&#8221; width=&#8221;640&#8221;]<a href="http://dybskiy.com/wp-content/uploads/2012/07/376328_10151043797211037_1014366157_n.jpeg"><img class="size-full wp-image-287" title="Nexus 7 Field Test Part 2" src="http://dybskiy.com/wp-content/uploads/2012/07/376328_10151043797211037_1014366157_n.jpeg" alt="" width="640" height="960" /></a> Nexus 7 on the rocks (c) juliedoro.com[/caption]
@@ -87,9 +87,9 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   
   <entry>
     <title type="html"><![CDATA[Some thoughts on Nexus 7]]></title>
-    <link href="http://dybskiy.github.com/blog/2012/07/23/some-thoughts-on-nexus7/"/>
+    <link href="http://dybskiy.github.com/some-thoughts-on-nexus7/"/>
     <updated>2012-07-23T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2012/07/23/some-thoughts-on-nexus7</id>
+    <id>http://dybskiy.github.com/some-thoughts-on-nexus7</id>
     <content type="html"><![CDATA[I&#8217;m writing this post from my nexus in a sushi bar.
 
 &nbsp;
@@ -119,36 +119,18 @@ I&#8217;ll post the list of nice apps to have later, but for now I must say its 
   
   <entry>
     <title type="html"><![CDATA[Think different]]></title>
-    <link href="http://dybskiy.github.com/blog/2011/10/13/think-different/"/>
+    <link href="http://dybskiy.github.com/think-different/"/>
     <updated>2011-10-13T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2011/10/13/think-different</id>
+    <id>http://dybskiy.github.com/think-different</id>
     <content type="html"><![CDATA[[caption id=&#8221;attachment_256&#8221; align=&#8221;aligncenter&#8221; width=&#8221;584&#8221; caption=&#8221;Think different, Toronto Subway. My small tribute to Steve&#8221;]<a href="http://500px.com/photo/2553180" target="_blank"><img class="size-large wp-image-256  " title="Think different" src="http://dybskiy.com/wp-content/uploads/2011/10/DSC_3014-1024x680.jpg" alt="" width="584" height="387" /></a>[/caption]
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Getting Hired Like a Boss (draft, updates coming)]]></title>
-    <link href="http://dybskiy.github.com/blog/2011/08/25/getting-hired/"/>
-    <updated>2011-08-25T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2011/08/25/getting-hired</id>
-    <content type="html"><![CDATA[The last two weeks have been super exciting for me so I&#8217;d love to share my experience with you. But first of all if you haven&#8217;t gotten yourself a <a title="GitHub" href="http://github.com" target="_blank">GitHub</a> account yet – do yourself a favour and get it right now. You&#8217;ll thank me later, or you can send me 10% of your yearly salary once you get hired by one of the best companies in the Bay area (50% off standard recruiters&#8217; fee). Got it? Good, continue to the cave of wonders&#8230;<!--more-->
-
-Another favour you can do yourself is grab a ticket to San Francisco and just come down here for a week or two right away. Stay at your friend&#8217;s place or use <a title="airbnb.com" href="http://airbnb.com" target="_blank">Airbnb</a>. Again, thank me later – you&#8217;ll meet enormous amount of interesting and smart people and you&#8217;ll learn a lot. Chances are you&#8217;ll get an idea for your next startup here too, the atmosphere is just so refreshing here.
-
-A few G+ Photo Albums of the recent tech events:
-<ul>
-	<li><a title="Google HTML5 hackathon G+ Album" href="https://plus.google.com/photos/107290594765463806793/albums/5642024053132599665" target="_blank">Google HTML5 hackathon</a>, event page <a title="Google HTML5 Hackathon" href="http://www.eventbrite.com/event/1910202467" target="_blank">here</a></li>
-	<li><a title="HAPIHACK G+ Album" href="https://plus.google.com/photos/107290594765463806793/albums/5641555427035191585" target="_blank">HAPIHACK</a>, event website <a title="hAPIhack page" href="http://hapihack.com" target="_blank">here</a></li>
-	<li><a title="SF Tech Talks G+ Album" href="https://plus.google.com/photos/107290594765463806793/albums/5641932617440079953" target="_blank">SF Tech Talks</a>, official website with archive <a title="sftechtalks.com" href="http://sftechtalks.com/" target="_blank">here</a></li>
-</ul>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[San Francisco]]></title>
-    <link href="http://dybskiy.github.com/blog/2011/08/05/san-francisco/"/>
+    <link href="http://dybskiy.github.com/san-francisco/"/>
     <updated>2011-08-05T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2011/08/05/san-francisco</id>
+    <id>http://dybskiy.github.com/san-francisco</id>
     <content type="html"><![CDATA[I&#8217;ve started planning a trip to SF and I want to gather a list of places to see, companies to visit and useful links here.
 
 Places:
@@ -180,9 +162,9 @@ Links:
   
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 2]]></title>
-    <link href="http://dybskiy.github.com/blog/2011/07/08/ipad-vs-ipad-2-vs-kindle-3g-part-2/"/>
+    <link href="http://dybskiy.github.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/"/>
     <updated>2011-07-08T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2011/07/08/ipad-vs-ipad-2-vs-kindle-3g-part-2</id>
+    <id>http://dybskiy.github.com/ipad-vs-ipad-2-vs-kindle-3g-part-2</id>
     <content type="html"><![CDATA[<h2>iPad Wi-Fi + 3G 64GB – $550</h2>
 Right after the release of iPad 2, as expected, the used market for the original iPads got pretty crowded and the prices started to drop. Sure, there were still sellers asking $450 for the Wi-Fi only 16 Gb iPad which was selling at Apple store for $399. But there are always more adequate sellers and I got the top of the line first generation iPad 3G for just $550 including a nice red cover case and Apple warranty. Could not be more happy, right?<!--more-->
 <h3>One month later&#8230;</h3>
@@ -220,9 +202,9 @@ Available at Amazon: <a title="Amazon Store Kindle 3G Wireless Reading Device, 
   
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 1]]></title>
-    <link href="http://dybskiy.github.com/blog/2011/05/04/ipad-vs-ipad-2-vs-kindle-3g-part-1/"/>
+    <link href="http://dybskiy.github.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/"/>
     <updated>2011-05-04T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2011/05/04/ipad-vs-ipad-2-vs-kindle-3g-part-1</id>
+    <id>http://dybskiy.github.com/ipad-vs-ipad-2-vs-kindle-3g-part-1</id>
     <content type="html"><![CDATA[For the last couple of months I&#8217;ve been using iPads quite extensively and a week ago I sold them all switching to Kindle. But first things first. Here is the chronology of the events:<!--more-->
 <h2>iPad Wi-Fi 16GB ~ $650</h2>
 [caption id=&#8221;attachment_163&#8221; align=&#8221;alignright&#8221; width=&#8221;358&#8221; caption=&#8221;Apple iPad Wi-Fi 16Gb&#8221;]<img class="size-full wp-image-163" title="iPad Wi-Fi 16Gb" src="http://dybskiy.com/wp-content/uploads/2011/04/iPad-Wi-Fi-16Gb.jpeg" alt="Apple iPad Wi-Fi 16Gb" width="358" height="268" />[/caption]
@@ -279,18 +261,18 @@ With the price of $800 you can add another couple of hundred dollars and get an 
   
   <entry>
     <title type="html"><![CDATA[Summer in Toronto]]></title>
-    <link href="http://dybskiy.github.com/blog/2010/07/27/summer-in-toronto/"/>
+    <link href="http://dybskiy.github.com/summer-in-toronto/"/>
     <updated>2010-07-27T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2010/07/27/summer-in-toronto</id>
+    <id>http://dybskiy.github.com/summer-in-toronto</id>
     <content type="html"><![CDATA[[nggallery id=1]
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Inception]]></title>
-    <link href="http://dybskiy.github.com/blog/2010/07/25/hello-world/"/>
+    <link href="http://dybskiy.github.com/hello-world/"/>
     <updated>2010-07-25T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2010/07/25/hello-world</id>
+    <id>http://dybskiy.github.com/hello-world</id>
     <content type="html"><![CDATA[Hi everyone, it is finally time to remove some dust from this domain and bring it to life.
 
 What will I post here? First of all, everything related to Photography. I really love it and would like to share my experience as much as possible.  Photos will be posted here obviously, some technical reviews.
