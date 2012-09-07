@@ -2,48 +2,44 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://dybskiy.com/hello-world/</loc>
-        <lastmod>2012-09-03T16:37:58-07:00</lastmod>
+        <lastmod>2012-09-03T18:37:58-05:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/</loc>
-        <lastmod>2012-09-03T16:37:58-07:00</lastmod>
+        <lastmod>2012-09-03T18:37:58-05:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/</loc>
-        <lastmod>2012-09-03T16:37:58-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dybskiy.com/san-francisco/</loc>
-        <lastmod>2012-09-03T16:37:58-07:00</lastmod>
+        <lastmod>2012-09-06T23:02:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/think-different/</loc>
-        <lastmod>2012-09-03T16:37:58-07:00</lastmod>
+        <lastmod>2012-09-06T22:59:50-05:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/some-thoughts-on-nexus7/</loc>
-        <lastmod>2012-09-03T16:37:58-07:00</lastmod>
+        <lastmod>2012-09-06T23:01:39-05:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/nexus-7-field-testing/</loc>
-        <lastmod>2012-09-03T16:37:58-07:00</lastmod>
+        <lastmod>2012-09-06T23:15:52-05:00</lastmod>
     </url>
     <url>
         <loc>
             http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/
         </loc>
-        <lastmod>2012-09-03T19:55:00-07:00</lastmod>
+        <lastmod>2012-09-06T23:23:04-05:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/technology/meteor-meetup-talk-slides/</loc>
-        <lastmod>2012-09-03T20:03:58-07:00</lastmod>
+        <lastmod>2012-09-03T22:03:58-05:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/blog/archives/</loc>
-        <lastmod>2012-09-03T20:03:58-07:00</lastmod>
+        <lastmod>2012-09-06T23:23:04-05:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/</loc>
-        <lastmod>2012-09-03T20:03:58-07:00</lastmod>
+        <lastmod>2012-09-06T23:23:04-05:00</lastmod>
     </url>
 </urlset>
