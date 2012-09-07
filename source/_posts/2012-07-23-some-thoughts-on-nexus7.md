@@ -1,20 +1,19 @@
---- 
+---
 layout: post
 title: Some thoughts on Nexus 7
-tags: 
+tags:
 - Chat
 - Reviews
 - Technology
 status: publish
 type: post
 published: true
-meta: 
+meta:
   dsq_thread_id: "777706166"
   _edit_last: "1"
 ---
 I'm writing this post from my nexus in a sushi bar.
 
-&nbsp;
 <p style="text-align: center;"><a href="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49.jpg"><img class="aligncenter  wp-image-282" title="Nexus 7 in a sushi bar" src="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49-768x1024.jpg" alt="" width="292" height="389" /></a></p>
 Is it more convenient than writing on an iPhone? Not really. I still need to have one — for tethering.
 

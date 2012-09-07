@@ -1,12 +1,12 @@
---- 
+---
 layout: post
 title: iPad vs. iPad 2 vs. Kindle 3G Part 2
-tags: 
+tags:
 - Reviews
 status: publish
 type: post
 published: true
-meta: 
+meta:
   _edit_last: "1"
   dsq_thread_id: "396627505"
 ---

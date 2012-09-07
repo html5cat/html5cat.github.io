@@ -11,7 +11,7 @@ meta:
   _edit_last: "1"
   dsq_thread_id: "781326410"
 ---
-<em>Thanks for all the attention this post got on reddit! You guys rock! <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em>
+<em>Thanks for all the attention this post got on reddit! You guys rock! That's some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em>
 
 I've been arguing recently with a few folks that the reason Facebook mobile apps suck isn't because they chose HTML5 blend over pure native but rather due to poor execution on their side.
 
@@ -22,13 +22,11 @@ The problems outlined there make our today's hurtles laughable. Fitting a game i
 We are spoiled these days and some of us got too comfy thinking 3G and LTE can solve all those latency problems for you. The real answer to the problems with most mobile apps these days (including Facebook's) is Patrick's another great article – <a title="Reducing perceived latency" href="http://www.codeofhonor.com/blog/reducing-perceived-latency" rel="bookmark">Reducing perceived latency</a> and Mike Krieger's (Instagram) – <a href="https://speakerdeck.com/u/mikeyk/p/secrets-to-lightning-fast-mobile-design?slide=1">Secrets to Lightning Fast Mobile Design</a> slide deck.
 
 Slide 25 sums it up nicely in three 'easy' steps:
-<blockquote>
-<ol>
-	<li>perform actions optimistically</li>
-	<li>adaptively pre-load content</li>
-	<li>move bits when no-one's watching</li>
-</ol>
-</blockquote>
+
+1. perform actions optimistically
+2. adaptively pre-load content
+3. move bits when no-one's watching
+
 The later two are pretty self-explanatory, but I'd like to elaborate a bit more on the first one. First time I saw it I assumed it ment optimizations, but what it really means is optimism.
 
 Be optimistic about the and make the user feel productive. Here's one of the slides:
