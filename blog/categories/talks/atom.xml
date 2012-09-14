@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talks | Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/blog/categories/talks/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2012-09-14T11:39:22-07:00</updated>
+  <updated>2012-09-14T14:10:39-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Screencast of my meteor meetup talk]]></title>
+    <link href="http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk/"/>
+    <updated>2012-09-14T14:00:00-07:00</updated>
+    <id>http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk</id>
+    <content type="html"><![CDATA[<p>Screencast of the talk + Q&amp;A session:</p>
+
+<iframe src="http://player.vimeo.com/video/49433252" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>More informtion on the meetup <a href="www.meetup.com/VanDev/events/75032692/">here</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Slides from my meteor.js meetup talk]]></title>
