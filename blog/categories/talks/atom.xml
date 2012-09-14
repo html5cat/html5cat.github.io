@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: talks | Yuriy Dybskiy]]></title>
+  <link href="http://dybskiy.com/blog/categories/talks/atom.xml" rel="self"/>
+  <link href="http://dybskiy.com/"/>
+  <updated>2012-09-14T11:39:22-07:00</updated>
+  <id>http://dybskiy.com/</id>
+  <author>
+    <name><![CDATA[Yuriy Dybskiy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Slides from my meteor.js meetup talk]]></title>
+    <link href="http://dybskiy.com/talks/meteor-meetup-talk-slides/"/>
+    <updated>2012-08-30T00:00:00-07:00</updated>
+    <id>http://dybskiy.com/talks/meteor-meetup-talk-slides</id>
+    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="http://dybskiy.com//speakerdeck.com/assets/embed.js"></script>
+
+]]></content>
+  </entry>
+  
+</feed>

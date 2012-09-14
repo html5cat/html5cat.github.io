@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2012-09-06T23:24:10-05:00</updated>
+  <updated>2012-09-14T11:39:22-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Slides from my meteor.js meetup talk]]></title>
-    <link href="http://dybskiy.com/technology/meteor-meetup-talk-slides/"/>
-    <updated>2012-08-30T00:00:00-05:00</updated>
-    <id>http://dybskiy.com/technology/meteor-meetup-talk-slides</id>
+    <link href="http://dybskiy.com/talks/meteor-meetup-talk-slides/"/>
+    <updated>2012-08-30T00:00:00-07:00</updated>
+    <id>http://dybskiy.com/talks/meteor-meetup-talk-slides</id>
     <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="http://dybskiy.com//speakerdeck.com/assets/embed.js"></script>
 ]]></content>
   </entry>
@@ -25,7 +25,7 @@
   <entry>
     <title type="html"><![CDATA[Why most mobile apps suck or 'What mobile web devs can learn from game devs']]></title>
     <link href="http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
-    <updated>2012-07-26T00:00:00-05:00</updated>
+    <updated>2012-07-26T00:00:00-07:00</updated>
     <id>http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs</id>
     <content type="html"><![CDATA[<p><em>Thanks for all the attention this post got on reddit! You guys rock! That&#8217;s some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em></p>
 
@@ -86,7 +86,7 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   <entry>
     <title type="html"><![CDATA[Nexus 7 field testing]]></title>
     <link href="http://dybskiy.com/nexus-7-field-testing/"/>
-    <updated>2012-07-24T00:00:00-05:00</updated>
+    <updated>2012-07-24T00:00:00-07:00</updated>
     <id>http://dybskiy.com/nexus-7-field-testing</id>
     <content type="html"><![CDATA[<img class="size-large wp-image-286" title="Nexus 7 Field Test Part 1" src="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o-1024x682.jpeg" alt="" width="584" height="388" />
 <p>Nexus 7 and Joffre lake (c) Anton Bielousov</p>
@@ -99,7 +99,7 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   <entry>
     <title type="html"><![CDATA[Some thoughts on Nexus 7]]></title>
     <link href="http://dybskiy.com/some-thoughts-on-nexus7/"/>
-    <updated>2012-07-23T00:00:00-05:00</updated>
+    <updated>2012-07-23T00:00:00-07:00</updated>
     <id>http://dybskiy.com/some-thoughts-on-nexus7</id>
     <content type="html"><![CDATA[<p>I&#8217;m writing this post from my nexus in a sushi bar.</p>
 
@@ -132,7 +132,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[Think different]]></title>
     <link href="http://dybskiy.com/think-different/"/>
-    <updated>2011-10-13T00:00:00-05:00</updated>
+    <updated>2011-10-13T00:00:00-07:00</updated>
     <id>http://dybskiy.com/think-different</id>
     <content type="html"><![CDATA[<p>Think different, Toronto Subway. My small tribute to Steve</p>
 
@@ -143,7 +143,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 2]]></title>
     <link href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/"/>
-    <updated>2011-07-08T00:00:00-05:00</updated>
+    <updated>2011-07-08T00:00:00-07:00</updated>
     <id>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2</id>
     <content type="html"><![CDATA[<h2>iPad Wi-Fi + 3G 64GB – $550</h2>
 
@@ -202,7 +202,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 1]]></title>
     <link href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/"/>
-    <updated>2011-05-04T00:00:00-05:00</updated>
+    <updated>2011-05-04T00:00:00-07:00</updated>
     <id>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1</id>
     <content type="html"><![CDATA[For the last couple of months I&#8217;ve been using iPads quite extensively and a week ago I sold them all switching to Kindle. But first things first. Here is the chronology of the events:<!--more-->
 <h2>iPad Wi-Fi 16GB ~ $650</h2>
@@ -261,7 +261,7 @@ With the price of $800 you can add another couple of hundred dollars and get an 
   <entry>
     <title type="html"><![CDATA[Inception]]></title>
     <link href="http://dybskiy.com/hello-world/"/>
-    <updated>2010-07-25T00:00:00-05:00</updated>
+    <updated>2010-07-25T00:00:00-07:00</updated>
     <id>http://dybskiy.com/hello-world</id>
     <content type="html"><![CDATA[Hi everyone, it is finally time to remove some dust from this domain and bring it to life.
 

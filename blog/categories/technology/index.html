@@ -69,6 +69,7 @@
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/talks/">Talks</a></li>
 </ul>
 
 </nav>
@@ -91,22 +92,8 @@
 
 <article>
   
-<h1><a href="/technology/meteor-meetup-talk-slides/">Slides from my meteor.js meetup talk</a></h1>
-<time datetime="2012-08-30T00:00:00-05:00" pubdate><span class='month'>Aug</span> <span class='day'>30</span> <span class='year'>2012</span></time>
-
-<footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/technology/'>technology</a></span>
-</footer>
-
-
-</article>
-
-
-
-<article>
-  
 <h1><a href="/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/">Why most mobile apps suck or 'What mobile web devs can learn from game devs'</a></h1>
-<time datetime="2012-07-26T00:00:00-05:00" pubdate><span class='month'>Jul</span> <span class='day'>26</span> <span class='year'>2012</span></time>
+<time datetime="2012-07-26T00:00:00-07:00" pubdate><span class='month'>Jul</span> <span class='day'>26</span> <span class='year'>2012</span></time>
 
 <footer>
   <span class="categories">posted in <a class='category' href='/blog/categories/technology/'>technology</a></span>
@@ -136,6 +123,23 @@
 
   <p>Really looking forward to including new cities in this list.</p>
 </section>
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("dybskiy", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/dybskiy" class="twitter-follow-button" data-show-count="true">Follow @dybskiy</a>
+  
+</section>
+
 <section>
   <h1>Social</h1>
   <ul>
@@ -154,23 +158,6 @@
   </h1>
 </section>
 
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("dybskiy", 5, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/dybskiy" class="twitter-follow-button" data-show-count="true">Follow @dybskiy</a>
-  
-</section>
 
 
 
