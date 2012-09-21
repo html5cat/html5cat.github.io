@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2012-09-16T22:25:30-07:00</updated>
+  <updated>2012-09-20T20:24:44-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook World Hack Day Vancouver]]></title>
+    <link href="http://dybskiy.com/facebook-world-hack-day-vancouver-2012/"/>
+    <updated>2012-09-20T20:21:00-07:00</updated>
+    <id>http://dybskiy.com/facebook-world-hack-day-vancouver-2012</id>
+    <content type="html"><![CDATA[<p>My hack is available online at <a href="http://worldhack.meteor.com/">http://worldhack.meteor.com/</a></p>
+
+<p>Source code at github <a href="https://github.com/dybskiy/worldhack2012">dybskiy/worldhack2012</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Screencast of my meteor meetup talk]]></title>
