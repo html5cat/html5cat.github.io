@@ -5,7 +5,7 @@ date: 2012-09-20 20:21
 comments: true
 categories:
 ---
-{% img /images/worldhack.jpg "demo time" %}
+{% img /images/worldhack.jpg demo time %}
 
 My hack won the "Best use of 500px API" prize. Check it out here: [http://worldhack.meteor.com/](http://worldhack.meteor.com/)
 
