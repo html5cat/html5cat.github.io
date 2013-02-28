@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meteor aftermath"
+title: "Meteor aftermath (Meteor meetup at Mozilla)"
 date: 2013-02-15 01:01
 comments: true
 categories:
@@ -42,4 +42,4 @@ This Wednesday a group of 35 Vancouver developers and entrepreneurs got together
 ### Thanks to everyone who attended!
 Special thanks to [Jeff Griffiths](http://twitter.com/canuckistani) and **Mozilla** for providing this awesome space for the event.
 
-#### Join the [Meetup group](http://www.meetup.com/Meteor-Vancouver/) to get updates on the upcoming events (*[available in any major city near you](http://meetups.meteor.com/)*).
+#### Join the [Vancouver Meteor group](http://www.meetup.com/Meteor-Vancouver/) to get updates on the upcoming events (*[available in any major city near you](http://meetups.meteor.com/)*).
