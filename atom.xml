@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2013-02-15T02:09:24-08:00</updated>
+  <updated>2013-02-27T22:27:56-08:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -14,7 +14,45 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Meteor aftermath]]></title>
+    <title type="html"><![CDATA[First Portland Meteor meetup feat. PhoneGap team]]></title>
+    <link href="http://dybskiy.com/portland-meteor-meetup/"/>
+    <updated>2013-02-27T21:01:00-08:00</updated>
+    <id>http://dybskiy.com/portland-meteor-meetup</id>
+    <content type="html"><![CDATA[<p>Yesterday I hosted the fisrt Meteor meetup in Portland. We had an incredibly interesting crowd already and then PhoneGap team joined us to make it even more awesome!</p>
+
+<p><img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-1.jpg" title="Meteor + Cordova (PhoneGap)" ></p>
+
+<!-- more -->
+
+
+<h2>tl;dr</h2>
+
+<p>An amazing group of 20 showed up representing all the possible age, interest and experience groups. For the first time since I started giving talks about Meteor, half a year ago, I was not the only one to present an app written using Meteor – <a href="http://www.thisisjohnbrown.com/">John Brown</a> showed us his creation – <a href="http://writingoal-dev.meteor.com/">WritinGoal</a>.</p>
+
+<blockquote><p>I have had more fun programming with Meteor than I have in quite a while.</p><footer><strong>John Brown</strong> <cite>Portland Meteorite</cite></footer></blockquote>
+
+
+<h2>Photos or it didn&#8217;t happen</h2>
+
+<p><em>Vegan-gluten-free, vegetarian and meat pizzazz as well as 4 types of beer</em>
+<img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-2.jpg" title="Three types of pizza" ></p>
+
+<p><em>Yours truly showing <a href="http://van2go.meteor.com/">Van2Go</a> app</em>
+<img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-4.jpg"></p>
+
+<p><em>Group photo including, but not limited to: <a href="http://twitter.com/infil00p">@infil00p</a>, <a href="http://twitter.com/mwbrooks">@mwbrooks</a>, <a href="http://twitter.com/aniskadri">@aniskadri</a>, <a href="http://twitter.com/gordtanner">@gordtanner</a>, <a href="http://twitter.com/thisisjohnbrown">@thisisjohnbrown</a> and <a href="http://twitter.com/znmeb">@znmeb</a></em>
+<img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-5.jpg" title="Group photo" ></p>
+
+<h3>Thanks to everyone who attended!</h3>
+
+<p>Special thanks to <a href="https://twitter.com/thoward37">Troy Howard</a> for helping host the event at AppFog&#8217;s space. Troy is awesome.</p>
+
+<h4>Join the <a href="http://www.meetup.com/Meteor-Portland/">Portland Meteor group</a> to get updates on the upcoming events (<em><a href="http://meetups.meteor.com/">available in any major city near you</a></em>).</h4>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meteor aftermath (Meteor meetup at Mozilla)]]></title>
     <link href="http://dybskiy.com/meteor-aftermath/"/>
     <updated>2013-02-15T01:01:00-08:00</updated>
     <id>http://dybskiy.com/meteor-aftermath</id>
@@ -59,7 +97,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
 
 <p>Special thanks to <a href="http://twitter.com/canuckistani">Jeff Griffiths</a> and <strong>Mozilla</strong> for providing this awesome space for the event.</p>
 
-<h4>Join the <a href="http://www.meetup.com/Meteor-Vancouver/">Meetup group</a> to get updates on the upcoming events (<em><a href="http://meetups.meteor.com/">available in any major city near you</a></em>).</h4>
+<h4>Join the <a href="http://www.meetup.com/Meteor-Vancouver/">Vancouver Meteor group</a> to get updates on the upcoming events (<em><a href="http://meetups.meteor.com/">available in any major city near you</a></em>).</h4>
 ]]></content>
   </entry>
   
