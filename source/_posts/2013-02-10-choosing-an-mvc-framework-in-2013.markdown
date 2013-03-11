@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Choosing an MVC framework in 2013: Angular.js vs Ember.js"
+title: "Choosing an MVC framework in March 2013: Angular.js vs Ember.js"
 date: 2013-02-17 23:10
 published: false
 comments: true
@@ -19,6 +19,10 @@ Trek Glowacki, Ember core member http://trek.github.com/
 ###
 ###
 
+
+[EmberJS Confuses Me](http://wekeroad.com/2013/03/06/ember-confuses-me)
+
+[Advice on & Instruction in the Use Of Ember.js](http://trek.github.com/)
 
 <h1>HTML Ipsum Presents</h1>
 
