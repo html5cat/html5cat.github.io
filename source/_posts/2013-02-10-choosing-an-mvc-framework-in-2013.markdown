@@ -1,16 +1,28 @@
 ---
 layout: post
-title: "Choosing an MVC framework in March 2013: Angular.js vs Ember.js"
-date: 2013-02-17 23:10
+title: "Choosing a JS MVC framework: Angular.js vs Ember.js"
+date: 2013-03-13 23:10
 published: false
 comments: true
 categories:
 ---
 
-tl;dr
+## tl;dr
+As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say: *it's not fair to compare them*. But if you really don't have time to dig into – **use Angular.js**. If you absolutely love Ember – **use Ember.js**.
 
-Angular is a dream if you're accustomed to HTML data- style behavior like you find as part of Twitter Bootstrap's javascript
-Trek Glowacki, Ember core member http://trek.github.com/
+Quote from Ember core team member:
+
+{% blockquote Trek Glowacki http://trek.github.com/ %}
+AngularJS is a dream if you're accustomed to HTML data- style behavior like you find as part of Twitter Bootstrap's javascript
+{% endblockquote %}
+
+## Some context
+
+Year 2013 started with two great projects for me – building a basic version of an app dashboard using Angular and Ember. Think simplified version of Double-Click or Google Analytics. The app is purely client-side CRUD, talking to a few server APIs.
+
+You might have heard or seen the [talk by Double-Click team](http://www.youtube.com/watch?v=oJoAnVRIVQo) about moving to Angular.js.
+So have I and my gut feeling was that Angular would be a perfect fit for this project. Glancing into the future, or actually present, that assumption was spot on.
+
 
 
 ### Structured
@@ -23,6 +35,8 @@ Trek Glowacki, Ember core member http://trek.github.com/
 [EmberJS Confuses Me](http://wekeroad.com/2013/03/06/ember-confuses-me)
 
 [Advice on & Instruction in the Use Of Ember.js](http://trek.github.com/)
+
+http://discuss.emberjs.com/
 
 <h1>HTML Ipsum Presents</h1>
 
