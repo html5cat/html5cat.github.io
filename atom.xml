@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2013-04-11T18:02:20-07:00</updated>
+  <updated>2013-04-11T18:06:00-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Choosing a JS MVC framework: Angular.js vs Ember.js]]></title>
-    <link href="http://dybskiy.com/choosing-an-mvc-framework-in-2013/"/>
+    <link href="http://dybskiy.com/js-mvc-angular-vs-ember/"/>
     <updated>2013-04-11T14:00:00-07:00</updated>
-    <id>http://dybskiy.com/choosing-an-mvc-framework-in-2013</id>
+    <id>http://dybskiy.com/js-mvc-angular-vs-ember</id>
     <content type="html"><![CDATA[<h2>tl;dr</h2>
 
 <p>As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say with confidence: <strong>use AngularJS</strong>. Ember is not ready for prime time, <strong>yet</strong>.</p>
