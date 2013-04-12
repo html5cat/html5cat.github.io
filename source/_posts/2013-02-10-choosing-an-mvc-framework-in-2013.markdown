@@ -5,6 +5,8 @@ date: 2013-04-11 14:00
 published: false
 comments: true
 categories:
+keywords: javascript, angular, angularjs, angular.js, ember, ember.js, MVC, framework, js, web components
+description: Choosing a JavaScript MVC framework: Angular.js vs Ember.js
 ---
 
 ## tl;dr
@@ -16,31 +18,38 @@ AngularJS is a dream if you're accustomed to HTML data- style behavior like you 
 
 ## Some context
 
-Year 2013 started with two great projects for me – building a basic version of an app dashboard using Angular and Ember. Think simplified version of Double-Click or Google Analytics. The app is purely client-side single page JavaScript, talking to a few server APIs.
+Year 2013 started with a great R&D project for me.
+**The problem:** existing webapp codebase had too much technical debt and it was incredible hard to add new features without regression. **Solution:** re-write the app using MVC framework.
+
+**Problem #2:** which MVC framework to use? **Solution:** build a prototype using two most promising ones and decide. The app is purely client-side single page JavaScript app, talking to a few server APIs. Think simplified version of Double-Click or Google Analytics.
 
 You might have heard or seen the [talk by Double-Click team](http://www.youtube.com/watch?v=oJoAnVRIVQo) about moving to AngularJS.
-So have I and my gut feeling was that Angular would be a perfect fit for this project. Glancing into the future, or actually present, that assumption was spot on and it's Angular's sweet spot type of app.
+So have I and my gut feeling was that Angular would be a perfect fit for this project. Glancing into the future, or actually present, that assumption was spot on and it is Angular's sweet spot type of app.
 
-MVC framework comparison algorithm:
+#### MVC framework comparison algorithm:
 
 1. Check out available docs, blog posts and example apps
 1. Go through Tutorial
 1. Build app prototype
 1. Rinse and repeat
 
-Apart from the data-bindings and MVC awesomeness that both framworks bring to the table, here are three things that drew me to AngularJS:
+## How AngularJS won me over
+
+Apart from the data-bindings and MVC awesomeness that both frameworks bring to the table, here are three things that drew me to AngularJS:
 
 ### Focus on testing
 
-AngularJS team is using [Karma](http://karma-runner.github.io/) (formerly Testacular) to test the framework itself and go extra mile writing end-to-end and unit tests for all the steps in the [Tutorial](http://docs.angularjs.org/tutorial). Having testable code is part of AngularJS philosophy. Making it easy to write tests is crucial. I don't care how smart your code is – if it's not testable, it's useless in the long run.
+AngularJS team is using [Karma](http://karma-runner.github.io/) (formerly Testacular) to test the framework itself and go extra mile writing end-to-end and unit tests for all the steps in the [Tutorial](http://docs.angularjs.org/tutorial). Having testable code is part of AngularJS philosophy. Making it easy to write tests is crucial. I don't care how good your code is – if it's not testable, it's useless in the long run.
 
 ### App structure
 
-It might sound like a minor thing, but if you have a team of developers working on a project, having a scalable app structure right out of the box is very helpful. Key angular concepts translate naturally into ```controllers```, ```directives```, ```filters``` and ```services``` files or directories. I also like the way the app is broken into such concepts – seems very natural to me, unlike the Ember approach.
+It might sound like a minor thing, but if you have a team of developers working on a project, having a scalable app structure right out of the box is very helpful. Key Angular concepts translate naturally into ```controllers```, ```directives```, ```filters``` and ```services``` files or directories. I also like the way the app is broken into such concepts – seems very natural to me, unlike the Ember approach.
 
 ### Extending HTML
 
-I really like Angular's philosophy of extending HTML syntax instead of abstracting HTML away with another templating language – *Angular is what HTML would have been had it been designed for applications* (from [Docs/Overview](http://docs.angularjs.org/guide/overview))
+Angular's main philosophy is extending HTML syntax instead of abstracting HTML away with another templating language – *Angular is what HTML would have been had it been designed for applications* (from [Docs/Overview](http://docs.angularjs.org/guide/overview))
+
+
 
 ## What about Ember?
 
@@ -60,9 +69,12 @@ Here is a list of interesting posts in chronological order:
 
 1. [Ember... What If (Part 1)](http://wekeroad.com/2013/03/23/ember-what-if-part-1) – by [Rob Conery](https://twitter.com/robconery)
 
+Ember team is hard at work in bridging the gap of everyone's expectations and reality of getting up to speed with the framework.
 
 ## Final thoughts
 
-AngularJS is built in Google. Google has one of the strongest engineering cultures. Combine that with the resources that they have and with the power of open source and you get a really great combination.
+AngularJS is built by Google. Google has one of the strongest engineering cultures. Combine that with the resources that they have and with the power of open source and you get a really powerful mix.
 
-During the recent Angular meetup in Mountain View I've chatted quickly with the creator of AngularJS, [Miško Hevery](http://twitter.com/mhevery). He confirmed my assumptions that AngularJS team is in sync with Chrome Dev team and I think it has a very strong strategic advantage.
+The quality of documentation is really good and there are plenty of example code and apps out there which help tremendously in getting started.
+
+During the recent Angular meetup in Mountain View I've chatted quickly with the creator of AngularJS, [Miško Hevery](http://twitter.com/mhevery). He confirmed my assumptions that AngularJS team is in sync with Chrome Dev team and it is a very strong strategic advantage, considering interesting advances in Web Components.
