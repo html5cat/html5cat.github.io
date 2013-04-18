@@ -2,15 +2,14 @@
 layout: post
 title: "Choosing a JS MVC framework: Angular.js vs Ember.js"
 date: 2013-04-11 14:00
-published: false
+published: true
 comments: true
-categories:
 keywords: javascript, angular, angularjs, angular.js, ember, ember.js, MVC, framework, js, web components
-description: Choosing a JavaScript MVC framework: Angular.js vs Ember.js
+description: "Choosing a JavaScript MVC framework: Angular.js vs Ember.js"
 ---
 
 ## tl;dr
-As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say with confidence: **use AngularJS**. Ember is not ready for prime time, **yet**.
+As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say with confidence: **it's not fair to compare them**. But if you really don't have time to learn both – **use AngularJS**. Ember is not ready for prime time, **yet**.
 
 {% blockquote Trek Glowacki, Ember core team member http://trek.github.com/ %}
 AngularJS is a dream if you're accustomed to HTML data- style behavior like you find as part of Twitter Bootstrap's javascript
@@ -49,7 +48,7 @@ It might sound like a minor thing, but if you have a team of developers working 
 
 Angular's main philosophy is extending HTML syntax instead of abstracting HTML away with another templating language – *Angular is what HTML would have been had it been designed for applications* (from [Docs/Overview](http://docs.angularjs.org/guide/overview))
 
-
+If you are using the classical code quality measurement metric of WTFs/minute, Angular will make you happy.
 
 ## What about Ember?
 
