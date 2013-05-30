@@ -11,14 +11,19 @@ published: false
 
 {% img center http://instagr.am/p/ZTedAXFJgh/media/?size=l %}
 
-I just attended my first Google I/O and I want to take a moment, reflect on it and write down some things I've learned that might help you in the future I/O or other conferences.
+I just attended my first Google I/O and I want to take a moment, reflect on it and write down some things I've learned that might help you in the future at I/O or other conferences.
 
 <!-- more -->
 ## Plan, Prepare, Execute
 
-Here's a little story. The night before keynote I got an idea – put up a website like Hacker News, but specifically for Google I/O. Things were about to get crazy on Twitter and it would be great to have a way to keep track of useful links. So I stayed up all night launching [io13.meteor.com](http://io13.meteor.com/). I tweeted about it and within the next hour about 150 people came visiting. I was super excited! Couldn't sleep.
+Here's a little story. The night before keynote I got an idea – put up a website like Hacker News, but specifically for Google I/O. Things were about to get crazy on Twitter, and it would be great to have a way to keep track of useful links. So I stayed up all night launching [io13.meteor.com](http://io13.meteor.com/). I tweeted about it and within the next hour about 150 people came visiting. I was super excited! Couldn't sleep.
 
-Google I/O started and ... no-one was using my little app. Things got crazy on twitter with thousands tweets per minute. Tweeting about the app was like shouting in a busy club – no one would ever hear you or care to do anything :-). **Pivot!** Another "Eureka" moment – real-time collaborative note-taking and commenting of I/O sessions. I've updated the site and pushed social button again. Some people came, but no active discussions started.
+Google I/O started and ... no-one was using my little app. Things got crazy on twitter with thousands tweets per minute. Tweeting about the app was like shouting in a busy club – no one would ever hear you or care to do anything :-). **Pivot!** Another "Eureka" moment – real-time collaborative note-taking and commenting of I/O sessions. I updated the site
+
+and pushed social button again.
+  --What do you mean here? You sent the link out on your social networks?
+
+Some people came, but no active discussions started.
 
 _Recap_: 450 unique visitors came over two days and couple of dozen signed in and voted or left a comment.
 
@@ -27,15 +32,15 @@ _Recap_: 450 unique visitors came over two days and couple of dozen signed in an
 
 I find that these days tech talks get recorded very well and it's much more productive to watch them later at your own pace with the comfort of being able to pause and try some of the tools or tricks presented.
 
-It's also very rare that so many smart people come together so I think it's much better to use that opportunity to meet some of them. At the same time having an opportunity to discuss the newly revealed features or products right after the session might be very valuable so I'd love your input on it in the comments.
+Because it's very rare that so many smart people come together, I think it's much better to use the opportunity to meet some of them. At the same time having an opportunity to discuss the newly revealed features or products right after the session might be very valuable. I'd love to hear your opinion in the comments.
 
 ## Check out the Demo Stands
 
-With so many people around you, there are too many possibilities. One of the options I found is to start with the folks at demo stands. At first it seems that there's a lot, but once you start you'll notice how little time it takes to go across all of them. After all they are here to demo their products so they are very well prepared for that.
+With so many people around you, there are too many possibilities. One of the options I found is to start with the folks at demo stands. At first it seems that there are a lot, but once you start you'll notice how little time it takes to go across all of them. After all, they're here to demo their products, so they are very well prepared.
 
 ## Meet Google Engineers
 
-There are a lot of them at the event, they are very open and happy to show you stuff they've been working on and share some insights. This is probably one of the biggest perks of attending I/O. Do take advantage of such an amazing opportunity.
+There are a lot of them at the event, they are very open, happy to show you stuff they've been working on, and willing to share some insights. This is probably one of the biggest perks of attending I/O. Do take advantage of such an amazing opportunity.
 
 Sergey Brin – tired, yet awesome:
 
@@ -43,9 +48,9 @@ Sergey Brin – tired, yet awesome:
 
 ## Take breaks
 
-I've never attended a conference that gathered 6,000 people under one roof. It was incredibly amazing, intense and I've learned a lot in 3 days. Such amount of smart people and information can be very overwhelming.
+I've never attended a conference that gathered 6,000 people under one roof. It was incredibly amazing, intense, and it allowed me to learn lot in 3 days. The huge volume of smart people and information can be very overwhelming.
 
-One thing I found that really helps is stepping outside to the park across the street and grabbing some fresh air and relaxing under the sun. Bringing a friend or two with you makes it even better.
+One thing I found that really helps is stepping outside to the park across the street, grabbing some fresh air, and relaxing under the sun. Bringing a friend or two with you makes it even better.
 
 {% img center http://instagr.am/p/ZY8uyXFJoT/media/?size=l %}
 
