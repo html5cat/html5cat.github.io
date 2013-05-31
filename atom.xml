@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2013-05-18T23:55:50-07:00</updated>
+  <updated>2013-05-31T12:24:12-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -14,6 +14,71 @@
 
   
   <entry>
+    <title type="html"><![CDATA[How to get the most out of your next Google I/O]]></title>
+    <link href="http://dybskiy.com/google-io-2013/"/>
+    <updated>2013-05-18T18:14:00-07:00</updated>
+    <id>http://dybskiy.com/google-io-2013</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://instagr.am/p/ZTedAXFJgh/media/?size=l"></p>
+
+<p>I just attended my first Google I/O and I want to take a moment, reflect on it and write down some things I&#8217;ve learned that might help you in the future at I/O or other conferences.</p>
+
+<h3>tl;dr</h3>
+
+<ol>
+<li>Plan, Prepare, Execute</li>
+<li>Skip some Sessions</li>
+<li>Check out the Demo Stands</li>
+<li>Meet Google Engineers</li>
+<li>Take Breaks</li>
+</ol>
+
+
+<!-- more -->
+
+
+<h2>Plan, Prepare, Execute</h2>
+
+<p>Here&#8217;s a little story. The night before keynote I got an idea – create a website like Hacker News, but specifically for Google I/O. Things were about to get crazy on Twitter, and it would be great to have a way to keep track of useful links. So I stayed up all night launching <a href="http://io13.meteor.com/">io13.meteor.com</a>. I tweeted about it and within the next hour about 150 people came visiting. I was super excited! Couldn&#8217;t sleep.</p>
+
+<p>Google I/O started and &#8230; no-one was using my little app. Things got crazy on twitter with thousands tweets per minute. Tweeting about the app was like shouting in a busy club – no one would ever hear you or care to do anything :). <strong>Pivot!</strong> Another &#8220;Eureka&#8221; moment – real-time collaborative note-taking and commenting of I/O sessions. I updated the site and tweeted, facebooked and google plused the link.</p>
+
+<p><em>Results</em>: 450 unique visitors came over two days and several dozen voted or left a comment. Tools like Meteor allow you to build some amazing stuff fast, but nothing beats planning in advance and preparing well.</p>
+
+<h2>Skip some Sessions</h2>
+
+<p>I find that these days tech talks get recorded very well and it&#8217;s much more productive to watch them later at your own pace with the comfort of being able to pause and try some of the tools or tricks presented.</p>
+
+<p>Because it&#8217;s very rare that so many smart people come together, I think it&#8217;s much better to use the opportunity to meet some of them. At the same time having an opportunity to discuss the newly revealed features or products right after the session might be very valuable so balance is key here.</p>
+
+<h2>Check out the Demo Stands</h2>
+
+<p>With so many people around you, it might be hard to start a conversation. One of the options I found is to start talking to the folks at demo stands. After all, they&#8217;re here to demo their products, so they are very well prepared. At first it may seem that there are a lot of companies demoing, but once you start you&#8217;ll notice how little time it takes to go across all of them. You&#8217;ll learn a lot and not necessarily just about that particular company.</p>
+
+<h2>Meet Google Engineers</h2>
+
+<p>I wasn&#8217;t expecting this: there are a lot of Google engineers at the event, they are very open, happy to show you stuff they&#8217;ve been working on, and willing to share some insights. This is probably one of the biggest perks of attending I/O. Do take advantage of such an amazing opportunity.</p>
+
+<p>Sergey Brin – tired, yet awesome:</p>
+
+<p><img class="center" src="http://instagr.am/p/ZWyCDWlJux/media/?size=l"></p>
+
+<h2>Take Breaks</h2>
+
+<p>I&#8217;ve never attended a conference that gathered 6,000 people under one roof. It was incredibly intense, amazing, and it allowed me to learn lot in 3 days. The huge volume of smart people and information can be very overwhelming.</p>
+
+<p>One thing I found that really helps is stepping outside to the park across the street, grabbing some fresh air, and relaxing under the sun. Bringing a friend or two with you makes it even better. Playing ball with a lovely couple and homeless person is also an option:</p>
+
+<p><img class="center" src="http://instagr.am/p/ZY8uyXFJoT/media/?size=l"></p>
+
+<h2>Thanks!</h2>
+
+<p>Thanks to <a href="http://cloudant.com/">Cloudant</a> for covering my ticket to IO, more on this later. Thanks to <a href="https://twitter.com/KyleJamesKirwan">Kyle Kirwan</a> for reading this first and bug-fixing.</p>
+
+<p>Thanks to <em>you</em> for reading this far. I&#8217;m curious to hear about your experience at I/O or other big conferences – feel free to comment below or tweet at me.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Choosing a JS MVC framework: Angular.js vs Ember.js]]></title>
     <link href="http://dybskiy.com/js-mvc-angular-vs-ember/"/>
     <updated>2013-04-11T14:00:00-07:00</updated>
@@ -21,11 +86,6 @@
     <content type="html"><![CDATA[<h2>tl;dr</h2>
 
 <p>As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say with confidence: <strong>it&#8217;s not fair to compare them</strong>. But if you really don&#8217;t have time to learn both – <strong>use AngularJS</strong>. Ember is not ready for prime time, <strong>yet</strong>.</p>
-
-<!-- more -->
-
-
-
 
 <blockquote><p>AngularJS is a dream if you&#8217;re accustomed to HTML data- style behavior like you find as part of Twitter Bootstrap&#8217;s javascript</p><footer><strong>Trek Glowacki, Ember core team member</strong> <cite><a href='http://trek.github.com/'>trek.github.com/&hellip;</a></cite></footer></blockquote>
 
