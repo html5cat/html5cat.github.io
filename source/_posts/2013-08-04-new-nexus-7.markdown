@@ -6,14 +6,12 @@ comments: true
 categories:
 ---
 
-On Jul 24, 2013 Google announced the [new Nexus 7](http://www.google.com/nexus/7/) in a very small media event and a week later quietly made it available at Play Store and Best Buy. I was using it activly during the last week and here's my review.
+On Jul 24, 2013 Google announced the new Nexus 7 in a very small media event and a week later quietly made it available at Play Store and Best Buy. I was using it activly during the last week and here's my review.
 
 ###tl;dr
 1. The screen is fantastic at 323 ppi
 1. Multiple accounts feature is awesome
-1. Overall Andorid came a long way
-
-At $229 before tax I think it's the best tablet on the market.
+1. At $229 it's the best tablet on the market
 
 <!-- more -->
 <iframe style="display: block; margin: 0 auto;" src="//instagram.com/p/cSH2FolJs9/embed/" width="612" height="710" frameborder="0" scrolling="no"
@@ -21,5 +19,13 @@ allowtransparency="true"></iframe>
 
 
 ## The Screen
-Finally a retina screen in a 7" tablet! [A year ago](/some-thoughts-on-nexus7/) I got previous generation Nexus 7 and the only concern I had was the screen. It's actually funny how old Nexus 7's screen is slightly better than iPad Mini. I'm genuinely amazed at how people can use iPad Mini after having retina iPhones for a while.
+Finally a retina screen in a 7" tablet! [A year ago](/some-thoughts-on-nexus7/) I got previous generation Nexus 7 and the only concern I had was the screen. It's actually funny how old Nexus 7's screen is slightly better than iPad Mini's. I'm genuinely amazed at how people can use iPad Mini after having retina iPhones for a while.
 
+It's retina. It's gorgeous.
+
+## Multiple accounts
+Again, finally! One of the greatest features of Android 4.3 is Multiple accounts. Your phone and tablet hold a lot of personal information so giving it to a friend or acquaintance to play with can make you uncomfortable.
+
+### Links
+
+* [Official Site](http://www.google.com/nexus/7/)
