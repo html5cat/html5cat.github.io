@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2013-07-29T13:52:41-07:00</updated>
+  <updated>2013-10-28T18:36:45-04:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -14,9 +14,51 @@
 
   
   <entry>
+    <title type="html"><![CDATA[A week with the new Nexus 7]]></title>
+    <link href="http://dybskiy.com/new-nexus-7/"/>
+    <updated>2013-08-04T18:02:00-04:00</updated>
+    <id>http://dybskiy.com/new-nexus-7</id>
+    <content type="html"><![CDATA[<p>On Jul 24, 2013 Google announced the new Nexus 7 at a very small media event and a week later quietly made it available at Play Store and Best Buy. I was using it activly during the last week and here&#8217;s my review.</p>
+
+<h3>tl;dr</h3>
+
+<ol>
+<li>The screen is fantastic at 323 ppi</li>
+<li>Multiple accounts feature is awesome</li>
+<li>At $229 it&#8217;s the best tablet on the market</li>
+</ol>
+
+
+<!-- more -->
+
+
+<iframe style="display: block; margin: 0 auto;" src="http://dybskiy.com//instagram.com/p/cSH2FolJs9/embed/" width="612" height="710" frameborder="0" scrolling="no"
+allowtransparency="true"></iframe>
+
+
+<h2>The Screen</h2>
+
+<p>Finally a retina screen in a 7&#8221; tablet! <a href="http://dybskiy.com/some-thoughts-on-nexus7/">A year ago</a> I got previous generation Nexus 7 and the only concern I had was the screen. It&#8217;s actually funny how old Nexus 7&#8217;s screen is slightly better than iPad Mini&#8217;s. I&#8217;m genuinely amazed at how people can use iPad Mini after having retina iPhones for a while.</p>
+
+<p>It&#8217;s retina. It&#8217;s gorgeous.</p>
+
+<h2>Multiple accounts</h2>
+
+<p>Again, finally! One of the greatest features of Android 4.3 is Multiple accounts. Your phone and tablet hold a lot of personal information so giving it to a friend or acquaintance to play with can make you uncomfortable.</p>
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://www.google.com/nexus/7/">Official Site</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[How to get the most out of your next Google I/O]]></title>
     <link href="http://dybskiy.com/google-io-2013/"/>
-    <updated>2013-05-18T18:14:00-07:00</updated>
+    <updated>2013-05-18T18:14:00-04:00</updated>
     <id>http://dybskiy.com/google-io-2013</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://instagr.am/p/ZTedAXFJgh/media/?size=l"></p>
 
@@ -81,7 +123,7 @@
   <entry>
     <title type="html"><![CDATA[Choosing a JS MVC framework: Angular.js vs Ember.js]]></title>
     <link href="http://dybskiy.com/js-mvc-angular-vs-ember/"/>
-    <updated>2013-04-11T14:00:00-07:00</updated>
+    <updated>2013-04-11T14:00:00-04:00</updated>
     <id>http://dybskiy.com/js-mvc-angular-vs-ember</id>
     <content type="html"><![CDATA[<h2>tl;dr</h2>
 
@@ -159,7 +201,7 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
   <entry>
     <title type="html"><![CDATA[First Portland Meteor meetup feat. PhoneGap team]]></title>
     <link href="http://dybskiy.com/portland-meteor-meetup/"/>
-    <updated>2013-02-27T21:01:00-08:00</updated>
+    <updated>2013-02-27T21:01:00-05:00</updated>
     <id>http://dybskiy.com/portland-meteor-meetup</id>
     <content type="html"><![CDATA[<p>Yesterday I hosted the fisrt Meteor meetup in Portland. We had an incredibly interesting crowd already and then PhoneGap team joined us to make it even more awesome!</p>
 
@@ -197,7 +239,7 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
   <entry>
     <title type="html"><![CDATA[Meteor aftermath (Meteor meetup at Mozilla)]]></title>
     <link href="http://dybskiy.com/meteor-aftermath/"/>
-    <updated>2013-02-15T01:01:00-08:00</updated>
+    <updated>2013-02-15T01:01:00-05:00</updated>
     <id>http://dybskiy.com/meteor-aftermath</id>
     <content type="html"><![CDATA[<p><em>This week is definitely a week of Meteors!</em></p>
 
@@ -247,7 +289,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
   <entry>
     <title type="html"><![CDATA[Facebook World Hack Day Vancouver]]></title>
     <link href="http://dybskiy.com/facebook-world-hack-day-vancouver-2012/"/>
-    <updated>2012-09-20T20:21:00-07:00</updated>
+    <updated>2012-09-20T20:21:00-04:00</updated>
     <id>http://dybskiy.com/facebook-world-hack-day-vancouver-2012</id>
     <content type="html"><![CDATA[<p><img src="http://dybskiy.com/images/worldhack.jpg" title="demo time" ></p>
 
@@ -264,7 +306,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
   <entry>
     <title type="html"><![CDATA[Screencast of my meteor meetup talk]]></title>
     <link href="http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk/"/>
-    <updated>2012-09-14T14:00:00-07:00</updated>
+    <updated>2012-09-14T14:00:00-04:00</updated>
     <id>http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk</id>
     <content type="html"><![CDATA[<p>Screencast of the talk + Q&amp;A session:</p>
 
@@ -280,7 +322,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
   <entry>
     <title type="html"><![CDATA[Slides from my meteor.js meetup talk]]></title>
     <link href="http://dybskiy.com/talks/meteor-meetup-talk-slides/"/>
-    <updated>2012-08-30T00:00:00-07:00</updated>
+    <updated>2012-08-30T00:00:00-04:00</updated>
     <id>http://dybskiy.com/talks/meteor-meetup-talk-slides</id>
     <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="http://dybskiy.com//speakerdeck.com/assets/embed.js"></script>
 ]]></content>
@@ -289,7 +331,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
   <entry>
     <title type="html"><![CDATA[Why most mobile apps suck or 'What mobile web devs can learn from game devs']]></title>
     <link href="http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
-    <updated>2012-07-26T00:00:00-07:00</updated>
+    <updated>2012-07-26T00:00:00-04:00</updated>
     <id>http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs</id>
     <content type="html"><![CDATA[<p><em>Thanks for all the attention this post got on reddit! You guys rock! That&#8217;s some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em></p>
 
@@ -350,7 +392,7 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   <entry>
     <title type="html"><![CDATA[Nexus 7 field testing]]></title>
     <link href="http://dybskiy.com/nexus-7-field-testing/"/>
-    <updated>2012-07-24T00:00:00-07:00</updated>
+    <updated>2012-07-24T00:00:00-04:00</updated>
     <id>http://dybskiy.com/nexus-7-field-testing</id>
     <content type="html"><![CDATA[<img class="size-large wp-image-286" title="Nexus 7 Field Test Part 1" src="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o-1024x682.jpeg" alt="" width="584" height="388" />
 <p>Nexus 7 and Joffre lake (c) Anton Bielousov</p>
@@ -363,7 +405,7 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   <entry>
     <title type="html"><![CDATA[Some thoughts on Nexus 7]]></title>
     <link href="http://dybskiy.com/some-thoughts-on-nexus7/"/>
-    <updated>2012-07-23T00:00:00-07:00</updated>
+    <updated>2012-07-23T00:00:00-04:00</updated>
     <id>http://dybskiy.com/some-thoughts-on-nexus7</id>
     <content type="html"><![CDATA[<p>I&#8217;m writing this post from my nexus in a sushi bar.</p>
 
@@ -396,7 +438,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[Think different]]></title>
     <link href="http://dybskiy.com/think-different/"/>
-    <updated>2011-10-13T00:00:00-07:00</updated>
+    <updated>2011-10-13T00:00:00-04:00</updated>
     <id>http://dybskiy.com/think-different</id>
     <content type="html"><![CDATA[<p>Think different, Toronto Subway. My small tribute to Steve</p>
 
@@ -407,7 +449,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 2]]></title>
     <link href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/"/>
-    <updated>2011-07-08T00:00:00-07:00</updated>
+    <updated>2011-07-08T00:00:00-04:00</updated>
     <id>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2</id>
     <content type="html"><![CDATA[<h2>iPad Wi-Fi + 3G 64GB – $550</h2>
 
@@ -466,7 +508,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 1]]></title>
     <link href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/"/>
-    <updated>2011-05-04T00:00:00-07:00</updated>
+    <updated>2011-05-04T00:00:00-04:00</updated>
     <id>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1</id>
     <content type="html"><![CDATA[For the last couple of months I&#8217;ve been using iPads quite extensively and a week ago I sold them all switching to Kindle. But first things first. Here is the chronology of the events:<!--more-->
 <h2>iPad Wi-Fi 16GB ~ $650</h2>
@@ -525,7 +567,7 @@ With the price of $800 you can add another couple of hundred dollars and get an 
   <entry>
     <title type="html"><![CDATA[Inception]]></title>
     <link href="http://dybskiy.com/hello-world/"/>
-    <updated>2010-07-25T00:00:00-07:00</updated>
+    <updated>2010-07-25T00:00:00-04:00</updated>
     <id>http://dybskiy.com/hello-world</id>
     <content type="html"><![CDATA[Hi everyone, it is finally time to remove some dust from this domain and bring it to life.
 
