@@ -6,7 +6,7 @@ comments: true
 categories:
 ---
 
-On Jul 24, 2013 Google announced the new Nexus 7 in a very small media event and a week later quietly made it available at Play Store and Best Buy. I was using it activly during the last week and here's my review.
+On Jul 24, 2013 Google announced the new Nexus 7 at a very small media event and a week later quietly made it available at Play Store and Best Buy. I was using it activly during the last week and here's my review.
 
 ###tl;dr
 1. The screen is fantastic at 323 ppi
