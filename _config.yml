@@ -62,7 +62,7 @@ default_asides: [custom/asides/about.html, custom/asides/social.html, asides/goo
 # ----------------------- #
 
 # Github repositories
-github_user: dybskiy
+github_user: html5cat
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
