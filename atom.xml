@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2013-12-03T01:34:59-08:00</updated>
+  <updated>2013-12-03T02:01:15-08:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -312,7 +312,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
 
 <p>My hack won the &#8220;Best use of 500px API&#8221; prize. Check it out here: <a href="http://worldhack.meteor.com/">http://worldhack.meteor.com/</a></p>
 
-<p>Source code on github <a href="https://github.com/dybskiy/worldhack2012">dybskiy/worldhack2012</a>. Please keep in mind that we only had ~5 hours.</p>
+<p>Source code on github <a href="https://github.com/html5cat/worldhack2012">dybskiy/worldhack2012</a>. Please keep in mind that we only had ~5 hours.</p>
 
 <p>Thanks to <a href="http://meteor.com">Meteor</a> for an amazing JS framework – couldn&#8217;t have done it without it.</p>
 
