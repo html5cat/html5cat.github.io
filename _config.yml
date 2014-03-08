@@ -62,13 +62,13 @@ default_asides: [custom/asides/about.html, custom/asides/social.html, asides/goo
 # ----------------------- #
 
 # Github repositories
-github_user: html5cat
+github_user: dybskiy
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: html5cat
+twitter_user: dybskiy
 twitter_tweet_count: 0
 twitter_show_replies: false
 twitter_follow_button: true

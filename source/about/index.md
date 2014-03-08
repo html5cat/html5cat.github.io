@@ -6,7 +6,7 @@ published: true
 sharing: false
 ---
 ## Contact
-You can reach me via email at <a href="mailto:yuriy@dybskiy.com">yuriy@dybskiy.com</a> or twitter <a href="http://twitter.com/html5cat">@html5cat</a>
+You can reach me via email at <a href="mailto:yuriy@dybskiy.com">yuriy@dybskiy.com</a> or twitter <a href="http://twitter.com/dybskiy">@dybskiy</a>
 
 ## Bio
 <p>Worked with playhaven.com, unbounce.com, fabric-engine.com, kik.com and attachments.me.</p>

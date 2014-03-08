@@ -9,7 +9,7 @@ categories:
 
 My hack won the "Best use of 500px API" prize. Check it out here: [http://worldhack.meteor.com/](http://worldhack.meteor.com/)
 
-Source code on github [dybskiy/worldhack2012](https://github.com/html5cat/worldhack2012). Please keep in mind that we only had ~5 hours.
+Source code on github [dybskiy/worldhack2012](https://github.com/dybskiy/worldhack2012). Please keep in mind that we only had ~5 hours.
 
 Thanks to [Meteor](http://meteor.com) for an amazing JS framework – couldn't have done it without it.
 

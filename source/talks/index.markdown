@@ -15,4 +15,4 @@ footer: true
 * November 2013 – [Opening and closing remarks of Apache CouchDB Conf](http://conf.couchdb.org/)
 * December 2013 – [Lightning talks at SeattleJS](http://www.meetup.com/seattlejs/events/151742732/)
 * January 2014 – [First Buenos Aires Meteor meetup](http://www.meetup.com/Meteor-Buenos-Aires/events/162402312/)
-* February 2014 – [Meteor Workshop and Hackday in Buenos Aires](http://www.meetup.com/Meteor-Buenos-Aires/events/165981542/) – [slides](http://slid.es/html5cat/meteor-ba)
+* February 2014 – [Meteor Workshop and Hackday in Buenos Aires](http://www.meetup.com/Meteor-Buenos-Aires/events/165981542/) – [slides](http://slid.es/dybskiy/meteor-ba)
