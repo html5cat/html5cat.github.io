@@ -4,6 +4,7 @@ title: "A week with the new Nexus 7"
 date: 2013-08-04 18:02
 comments: true
 categories:
+published: false
 ---
 
 On Jul 24, 2013 Google announced the new Nexus 7 at a very small media event and a week later quietly made it available at Play Store and Best Buy. I was using it activly during the last week and here's my review.
