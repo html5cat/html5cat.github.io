@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/dybskiy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dybskiy.com
+  * I am dybskiy (https://keybase.io/dybskiy) on keybase.
+  * I have a public key with fingerprint 43B2 CFF6 F446 5C9C 938E  AC96 93CA 0292 8A89 E262
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "43b2cff6f4465c9c938eac9693ca02928a89e262",
+            "host": "keybase.io",
+            "key_id": "93CA02928A89E262",
+            "uid": "a8f007124052735e64bb1c6cb3eefd00",
+            "username": "dybskiy"
+        },
+        "service": {
+            "hostname": "dybskiy.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395870756,
+    "expire_in": 157680000,
+    "prev": "fc737e422d136f6eb9fdf0db7700ec7065c50aced3fa850a1124718788f16c00",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMU4+RTTpK7OR0mMpw98SGIINvZRqVZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSibGSUbJaWlmaSYmZqbJlsmWxhapicmWZpbGyYkGRpZGFokWlqlGZkZK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQ1NLY2RGs3tHC0hWivhQskWiRZmBgbmhk
+YmBqZG5smmpmkpRkmGyWnGScmpqWYmAAUlicWpSXmJsKVJ1SmVScnVmpVKujBBQs
+y0xOBTkZZDOqAr3k/FygzoKi/JL85PwcoERGSUmBFUhfSWUBSGF5alI81Ij4pMy8
+FKCvgRrKUouKM/PzlKwMgSqTSzJBZhoaW5pamBuYm5rpKKVWFGQWpcZnglSYmptZ
+GAAByJrUMqCRacnmxuapJkZGKYbGZmlmqUmWaSlpBilJ5uYGBqnJ5gbAADQ1SExO
+TTFOS7QAsgyBvjY3tDC3sEgzNEsGe7U4tTAvX8nKyAjozsR0oJnFmel5iSWlRalK
+tZ2MMiwMjFwMbKxMoIhj4OIUgEXnZVX2P5yViXyTvDT5vu5XTFi10j/x69fjH7Yb
+KscuXylxuni9vXlUyrENPRPVq8MX7OmfFzi3o71TnrFzuZTY3+R/TLYFUqHrg+49
+nbhEO4eDL0ZERH/nzuX+xocXbc5ir12VxLPtX+q1Df+Ebi7eM+lP4z6fhIgXU7Ys
+yZ24Uc/5Yezdrb1qkhkSzaJ7Oy98vREaHXPj+qqN3xdutWA97jDzyxOrP/+qK37N
+e6+8VG/t//QfbXyhf80muV0u+xpbM/fWnc4d7RNfvFlc+Ol39Rc2rT3/beesnr18
+Xcba6Mcf768oX/T97tZTXmz2vL0iC+fwnPI6/uDIIdmNN4VeqZi+k3ZZ94E75p/i
+qw27wmdnt886AAA=
+=KRSB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dybskiy
+
+==================================================================
