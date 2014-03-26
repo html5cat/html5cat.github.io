@@ -57,8 +57,6 @@ default_asides: [custom/asides/about.html, custom/asides/social.html, asides/goo
 # post_asides:
 # page_asides:
 
-include: [./source/.well-known/keybase.txt]
-
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
