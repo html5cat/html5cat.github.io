@@ -57,6 +57,8 @@ default_asides: [custom/asides/about.html, custom/asides/social.html, asides/goo
 # post_asides:
 # page_asides:
 
+include: [.well-known]
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
