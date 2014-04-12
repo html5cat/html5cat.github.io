@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2014-04-11T18:04:22-07:00</updated>
+  <updated>2014-04-12T14:02:23-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -18,17 +18,17 @@
     <link href="http://dybskiy.com/laptop-sticker-standard/"/>
     <updated>2014-04-11T17:21:00-07:00</updated>
     <id>http://dybskiy.com/laptop-sticker-standard</id>
-    <content type="html"><![CDATA[<p><strong>or:</strong> &#8220;How standards are made on small scale&#8221;</p>
+    <content type="html"><![CDATA[<p><strong>or:</strong> &ldquo;How standards are made on small scale&rdquo;</p>
 
 <p>Yesterday <a href="http://twitter.com/@maxogden">Max Ogden</a> stopped by EsriPDX offices and amongst other things showed his new laptop sticker collection. We quickly agreed that there should be a standard for them and that the most useful one seems to be 2&#8221;x1.75&#8221; hexagons. I tweeted it and the reaction was way more amazing than I expected.</p>
 
 <blockquote class="twitter-tweet" lang="en"><p>Laptop Sticker Standards Group (<a href="https://twitter.com/maxogden">@maxogden</a>): here&#39;a a new standard - 2&quot;x1.75&quot; hexagons. <a href="http://t.co/psodb1iCqS">pic.twitter.com/psodb1iCqS</a></p>&mdash; Yuriy Dybskiy (@dybskiy) <a href="https://twitter.com/dybskiy/statuses/454348392856944640">April 10, 2014</a></blockquote>
 
 
-<script async src="http://dybskiy.com//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<p>According to Twitter Analytics this tweet had &#8220;160x normal reach&#8221;.</p>
+<p>According to Twitter Analytics this tweet had &ldquo;160x normal reach&rdquo;.</p>
 
 <p>I think there are two forces at play here:
 1. Max is undeniably awesome.
@@ -36,19 +36,19 @@
 
 <p><a href="http://twitter.com/@terinjokes">Terin Stock</a> and <a href="http://twitter.com/@_jden">Jason Denizac</a> were fiddling with this idea as well and Terin created a GitHub repo with the possible spec: <a href="https://github.com/terinjokes/StickerConstructorSpec">https://github.com/terinjokes/StickerConstructorSpec</a></p>
 
-<p>It&#8217;s obviously a fun little experiment, but I&#8217;m very curious to see how it goes.
+<p>It&rsquo;s obviously a fun little experiment, but I&rsquo;m very curious to see how it goes.
 This could be a nice playground to see how standards are made and adopted.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[How to get the most out of your next Google I/O]]></title>
+    <title type="html"><![CDATA[How to Get the Most Out of Your Next Google I/O]]></title>
     <link href="http://dybskiy.com/google-io-2013/"/>
     <updated>2013-05-18T18:14:00-07:00</updated>
     <id>http://dybskiy.com/google-io-2013</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://instagr.am/p/ZTedAXFJgh/media/?size=l"></p>
 
-<p>I just attended my first Google I/O and I want to take a moment, reflect on it and write down some things I&#8217;ve learned that might help you in the future at I/O or other conferences.</p>
+<p>I just attended my first Google I/O and I want to take a moment, reflect on it and write down some things I&rsquo;ve learned that might help you in the future at I/O or other conferences.</p>
 
 <h3>tl;dr</h3>
 
@@ -66,25 +66,25 @@ This could be a nice playground to see how standards are made and adopted.</p>
 
 <h2>Plan, Prepare, Execute</h2>
 
-<p>Here&#8217;s a little story. The night before keynote I got an idea – create a website like Hacker News, but specifically for Google I/O. Things were about to get crazy on Twitter, and it would be great to have a way to keep track of useful links. So I stayed up all night launching <a href="http://io13.meteor.com/">io13.meteor.com</a>. I tweeted about it and within the next hour about 150 people came visiting. I was super excited! Couldn&#8217;t sleep.</p>
+<p>Here&rsquo;s a little story. The night before keynote I got an idea – create a website like Hacker News, but specifically for Google I/O. Things were about to get crazy on Twitter, and it would be great to have a way to keep track of useful links. So I stayed up all night launching <a href="http://io13.meteor.com/">io13.meteor.com</a>. I tweeted about it and within the next hour about 150 people came visiting. I was super excited! Couldn&rsquo;t sleep.</p>
 
-<p>Google I/O started and &#8230; no-one was using my little app. Things got crazy on twitter with thousands tweets per minute. Tweeting about the app was like shouting in a busy club – no one would ever hear you or care to do anything :). <strong>Pivot!</strong> Another &#8220;Eureka&#8221; moment – real-time collaborative note-taking and commenting of I/O sessions. I updated the site and tweeted, facebooked and google plused the link.</p>
+<p>Google I/O started and &hellip; no-one was using my little app. Things got crazy on twitter with thousands tweets per minute. Tweeting about the app was like shouting in a busy club – no one would ever hear you or care to do anything :). <strong>Pivot!</strong> Another &ldquo;Eureka&rdquo; moment – real-time collaborative note-taking and commenting of I/O sessions. I updated the site and tweeted, facebooked and google plused the link.</p>
 
 <p><em>Results</em>: 450 unique visitors came over two days and several dozen voted or left a comment. Tools like Meteor allow you to build some amazing stuff fast, but nothing beats planning in advance and preparing well.</p>
 
 <h2>Skip some Sessions</h2>
 
-<p>I find that these days tech talks get recorded very well and it&#8217;s much more productive to watch them later at your own pace with the comfort of being able to pause and try some of the tools or tricks presented.</p>
+<p>I find that these days tech talks get recorded very well and it&rsquo;s much more productive to watch them later at your own pace with the comfort of being able to pause and try some of the tools or tricks presented.</p>
 
-<p>Because it&#8217;s very rare that so many smart people come together, I think it&#8217;s much better to use the opportunity to meet some of them. At the same time having an opportunity to discuss the newly revealed features or products right after the session might be very valuable so balance is key here.</p>
+<p>Because it&rsquo;s very rare that so many smart people come together, I think it&rsquo;s much better to use the opportunity to meet some of them. At the same time having an opportunity to discuss the newly revealed features or products right after the session might be very valuable so balance is key here.</p>
 
 <h2>Check out the Demo Stands</h2>
 
-<p>With so many people around you, it might be hard to start a conversation. One of the options I found is to start talking to the folks at demo stands. After all, they&#8217;re here to demo their products, so they are very well prepared. At first it may seem that there are a lot of companies demoing, but once you start you&#8217;ll notice how little time it takes to go across all of them. You&#8217;ll learn a lot and not necessarily just about that particular company.</p>
+<p>With so many people around you, it might be hard to start a conversation. One of the options I found is to start talking to the folks at demo stands. After all, they&rsquo;re here to demo their products, so they are very well prepared. At first it may seem that there are a lot of companies demoing, but once you start you&rsquo;ll notice how little time it takes to go across all of them. You&rsquo;ll learn a lot and not necessarily just about that particular company.</p>
 
 <h2>Meet Google Engineers</h2>
 
-<p>I wasn&#8217;t expecting this: there are a lot of Google engineers at the event, they are very open, happy to show you stuff they&#8217;ve been working on, and willing to share some insights. This is probably one of the biggest perks of attending I/O. Do take advantage of such an amazing opportunity.</p>
+<p>I wasn&rsquo;t expecting this: there are a lot of Google engineers at the event, they are very open, happy to show you stuff they&rsquo;ve been working on, and willing to share some insights. This is probably one of the biggest perks of attending I/O. Do take advantage of such an amazing opportunity.</p>
 
 <p>Sergey Brin – tired, yet awesome:</p>
 
@@ -92,7 +92,7 @@ This could be a nice playground to see how standards are made and adopted.</p>
 
 <h2>Take Breaks</h2>
 
-<p>I&#8217;ve never attended a conference that gathered 6,000 people under one roof. It was incredibly intense, amazing, and it allowed me to learn lot in 3 days. The huge volume of smart people and information can be very overwhelming.</p>
+<p>I&rsquo;ve never attended a conference that gathered 6,000 people under one roof. It was incredibly intense, amazing, and it allowed me to learn lot in 3 days. The huge volume of smart people and information can be very overwhelming.</p>
 
 <p>One thing I found that really helps is stepping outside to the park across the street, grabbing some fresh air, and relaxing under the sun. Bringing a friend or two with you makes it even better. Playing ball with a lovely couple and homeless person is also an option:</p>
 
@@ -102,18 +102,18 @@ This could be a nice playground to see how standards are made and adopted.</p>
 
 <p>Thanks to <a href="http://cloudant.com/">Cloudant</a> for covering my ticket to IO, more on this later. Thanks to <a href="https://twitter.com/KyleJamesKirwan">Kyle Kirwan</a> for reading this first and bug-fixing.</p>
 
-<p>Thanks to <em>you</em> for reading this far. I&#8217;m curious to hear about your experience at I/O or other big conferences – feel free to comment below or tweet at me.</p>
+<p>Thanks to <em>you</em> for reading this far. I&rsquo;m curious to hear about your experience at I/O or other big conferences – feel free to comment below or tweet at me.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Choosing a JS MVC framework: Angular.js vs Ember.js]]></title>
+    <title type="html"><![CDATA[Choosing a JS MVC Framework: Angular.js vs Ember.js]]></title>
     <link href="http://dybskiy.com/js-mvc-angular-vs-ember/"/>
     <updated>2013-04-11T14:00:00-07:00</updated>
     <id>http://dybskiy.com/js-mvc-angular-vs-ember</id>
     <content type="html"><![CDATA[<h2>tl;dr</h2>
 
-<p>As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say with confidence: <strong>it&#8217;s not fair to compare them</strong>. But if you really don&#8217;t have time to learn both – <strong>use AngularJS</strong>. Ember is not ready for prime time, <strong>yet</strong>.</p>
+<p>As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say with confidence: <strong>it&rsquo;s not fair to compare them</strong>. But if you really don&rsquo;t have time to learn both – <strong>use AngularJS</strong>. Ember is not ready for prime time, <strong>yet</strong>.</p>
 
 <blockquote><p>AngularJS is a dream if you&#8217;re accustomed to HTML data- style behavior like you find as part of Twitter Bootstrap&#8217;s javascript</p><footer><strong>Trek Glowacki, Ember core team member</strong> <cite><a href='http://trek.github.com/'>trek.github.com/&hellip;</a></cite></footer></blockquote>
 
@@ -126,7 +126,7 @@ This could be a nice playground to see how standards are made and adopted.</p>
 <p><strong>Problem #2:</strong> which MVC framework to use? <strong>Solution:</strong> build a prototype using two most promising ones and decide. The app is purely client-side single page JavaScript app, talking to a few server APIs. Think simplified version of Double-Click or Google Analytics.</p>
 
 <p>You might have heard or seen the <a href="http://www.youtube.com/watch?v=oJoAnVRIVQo">talk by Double-Click team</a> about moving to AngularJS.
-So have I and my gut feeling was that Angular would be a perfect fit for this project. Glancing into the future, or actually present, that assumption was spot on and it is Angular&#8217;s sweet spot type of app.</p>
+So have I and my gut feeling was that Angular would be a perfect fit for this project. Glancing into the future, or actually present, that assumption was spot on and it is Angular&rsquo;s sweet spot type of app.</p>
 
 <h4>MVC framework comparison algorithm:</h4>
 
@@ -144,7 +144,7 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
 
 <h3>Focus on testing</h3>
 
-<p>AngularJS team is using <a href="http://karma-runner.github.io/">Karma</a> (formerly Testacular) to test the framework itself and go extra mile writing end-to-end and unit tests for all the steps in the <a href="http://docs.angularjs.org/tutorial">Tutorial</a>. Having testable code is part of AngularJS philosophy. Making it easy to write tests is crucial. I don&#8217;t care how good your code is – if it&#8217;s not testable, it&#8217;s useless in the long run.</p>
+<p>AngularJS team is using <a href="http://karma-runner.github.io/">Karma</a> (formerly Testacular) to test the framework itself and go extra mile writing end-to-end and unit tests for all the steps in the <a href="http://docs.angularjs.org/tutorial">Tutorial</a>. Having testable code is part of AngularJS philosophy. Making it easy to write tests is crucial. I don&rsquo;t care how good your code is – if it&rsquo;s not testable, it&rsquo;s useless in the long run.</p>
 
 <h3>App structure</h3>
 
@@ -152,27 +152,27 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
 
 <h3>Extending HTML</h3>
 
-<p>Angular&#8217;s main philosophy is extending HTML syntax instead of abstracting HTML away with another templating language – <em>Angular is what HTML would have been had it been designed for applications</em> (from <a href="http://docs.angularjs.org/guide/overview">Docs/Overview</a>)</p>
+<p>Angular&rsquo;s main philosophy is extending HTML syntax instead of abstracting HTML away with another templating language – <em>Angular is what HTML would have been had it been designed for applications</em> (from <a href="http://docs.angularjs.org/guide/overview">Docs/Overview</a>)</p>
 
 <p>If you are using the classical code quality measurement metric of WTFs/minute, Angular will make you happy.</p>
 
 <h2>What about Ember?</h2>
 
-<p>March was pretty rough for Ember team with a lot of angry posts about how confusing and hard it is getting started with it. Significant changes to the <code>router</code> didn&#8217;t help that either and the amount of up to date examples and articles was approaching 0. That being said, best way to resolve Ember questions appeared to be just reading its source code and comments there.</p>
+<p>March was pretty rough for Ember team with a lot of angry posts about how confusing and hard it is getting started with it. Significant changes to the <code>router</code> didn&rsquo;t help that either and the amount of up to date examples and articles was approaching 0. That being said, best way to resolve Ember questions appeared to be just reading its source code and comments there.</p>
 
 <p>Here is a list of interesting posts in chronological order:</p>
 
 <ol>
 <li><p><a href="http://wekeroad.com/2013/03/06/ember-confuses-me">EmberJS Confuses Me</a> – by <a href="https://twitter.com/robconery">Rob Conery</a> from Tekpub</p></li>
 <li><p><a href="http://wekeroad.com/2013/03/20/ember-baby-steps">Ember: Baby Steps</a> – by <a href="https://twitter.com/robconery">Rob Conery</a></p></li>
-<li><p><a href="http://discuss.emberjs.com/t/getting-started-with-ember-js-is-easy-no-it-isn-t/559">“GETTING STARTED WITH EMBER.JS IS EASY.” - no it isn’t</a> – discussion on Discourse which is built using Ember</p></li>
+<li><p><a href="http://discuss.emberjs.com/t/getting-started-with-ember-js-is-easy-no-it-isn-t/559">“GETTING STARTED WITH EMBER.JS IS EASY.” &ndash; no it isn’t</a> – discussion on Discourse which is built using Ember</p></li>
 <li><p><a href="http://emberjs.com/blog/2013/03/21/making-ember-easier.html">MAKING EMBER.JS EASIER</a> – response from Ember team</p></li>
 <li><p><a href="http://emberjs.com/blog/2013/03/22/stabilizing-ember-data.html">STABILIZING EMBER DATA</a> – another response from Ember team</p></li>
-<li><p><a href="http://wekeroad.com/2013/03/23/ember-what-if-part-1">Ember&#8230; What If (Part 1)</a> – by <a href="https://twitter.com/robconery">Rob Conery</a></p></li>
+<li><p><a href="http://wekeroad.com/2013/03/23/ember-what-if-part-1">Ember&hellip; What If (Part 1)</a> – by <a href="https://twitter.com/robconery">Rob Conery</a></p></li>
 </ol>
 
 
-<p>Ember team is hard at work in bridging the gap of everyone&#8217;s expectations and reality of getting up to speed with the framework.</p>
+<p>Ember team is hard at work in bridging the gap of everyone&rsquo;s expectations and reality of getting up to speed with the framework.</p>
 
 <h2>Final thoughts</h2>
 
@@ -180,12 +180,12 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
 
 <p>The quality of documentation is really good and there are plenty of example code and apps out there which help tremendously in getting started.</p>
 
-<p>During the recent Angular meetup in Mountain View I&#8217;ve chatted quickly with the creator of AngularJS, <a href="http://twitter.com/mhevery">Miško Hevery</a>. He confirmed my assumptions that AngularJS team is in sync with Chrome Dev team and it is a very strong strategic advantage, considering interesting advances in Web Components.</p>
+<p>During the recent Angular meetup in Mountain View I&rsquo;ve chatted quickly with the creator of AngularJS, <a href="http://twitter.com/mhevery">Miško Hevery</a>. He confirmed my assumptions that AngularJS team is in sync with Chrome Dev team and it is a very strong strategic advantage, considering interesting advances in Web Components.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[First Portland Meteor meetup feat. PhoneGap team]]></title>
+    <title type="html"><![CDATA[First Portland Meteor Meetup Feat. PhoneGap Team]]></title>
     <link href="http://dybskiy.com/portland-meteor-meetup/"/>
     <updated>2013-02-27T21:01:00-08:00</updated>
     <id>http://dybskiy.com/portland-meteor-meetup</id>
@@ -203,7 +203,7 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
 <blockquote><p>I have had more fun programming with Meteor than I have in quite a while.</p><footer><strong>John Brown</strong> <cite>Portland Meteorite</cite></footer></blockquote>
 
 
-<h2>Photos or it didn&#8217;t happen</h2>
+<h2>Photos or it didn&rsquo;t happen</h2>
 
 <p><em>Vegan-gluten-free, vegetarian and meat pizzazz as well as 4 types of beer</em>
 <img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-2.jpg" title="Three types of pizza" ></p>
@@ -216,14 +216,14 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
 
 <h3>Thanks to everyone who attended!</h3>
 
-<p>Special thanks to <a href="https://twitter.com/thoward37">Troy Howard</a> for helping host the event at AppFog&#8217;s space. Troy is awesome.</p>
+<p>Special thanks to <a href="https://twitter.com/thoward37">Troy Howard</a> for helping host the event at AppFog&rsquo;s space. Troy is awesome.</p>
 
 <h4>Join the <a href="http://www.meetup.com/Meteor-Portland/">Portland Meteor group</a> to get updates on the upcoming events (<em><a href="http://meetups.meteor.com/">available in any major city near you</a></em>).</h4>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Meteor aftermath (Meteor meetup at Mozilla)]]></title>
+    <title type="html"><![CDATA[Meteor Aftermath (Meteor Meetup at Mozilla)]]></title>
     <link href="http://dybskiy.com/meteor-aftermath/"/>
     <updated>2013-02-15T01:01:00-08:00</updated>
     <id>http://dybskiy.com/meteor-aftermath</id>
@@ -234,9 +234,9 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
 <iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/7c-0iwBEswE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-<p>We know that it&#8217;s actually late for the party that looked more like this:
+<p>We know that it&rsquo;s actually late for the party that looked more like this:
 <img src="http://dybskiy.com/photos/meteorMeetup/MeteorMozilla.png" title="Meteor @ Mozilla" >
-and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
+and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
 
 <!-- more -->
 
@@ -245,7 +245,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
 
 <p>This Wednesday a group of 35 Vancouver developers and entrepreneurs got together at Mozilla office for the first official Meteor meetup. We had great folks from <em>Mozilla, Mobify, Unbounce, Hootsuite</em> and other awesome local companies. 15 minute introduction to Meteor followed by a Q&amp;A session and discussion with everyone involved.</p>
 
-<h2>Photos or it didn&#8217;t happen</h2>
+<h2>Photos or it didn&rsquo;t happen</h2>
 
 <p><em>T-shirts and food for everyone</em>
 <img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-1.jpg" title="T-shirts for everyone" >
@@ -261,7 +261,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
 <img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-5.jpg">
 <img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-6.jpg"></p>
 
-<p><em>Group photo of those who stayed to hack and chat. We&#8217;ll do it in the beginning next time :)</em>
+<p><em>Group photo of those who stayed to hack and chat. We&rsquo;ll do it in the beginning next time :)</em>
 <img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-7.jpg" title="Group photo" ></p>
 
 <h3>Thanks to everyone who attended!</h3>
@@ -279,18 +279,18 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
     <id>http://dybskiy.com/facebook-world-hack-day-vancouver-2012</id>
     <content type="html"><![CDATA[<p><img src="http://dybskiy.com/images/worldhack.jpg" title="demo time" ></p>
 
-<p>My hack won the &#8220;Best use of 500px API&#8221; prize. Check it out here: <a href="http://worldhack.meteor.com/">http://worldhack.meteor.com/</a></p>
+<p>My hack won the &ldquo;Best use of 500px API&rdquo; prize. Check it out here: <a href="http://worldhack.meteor.com/">http://worldhack.meteor.com/</a></p>
 
 <p>Source code on github <a href="https://github.com/dybskiy/worldhack2012">dybskiy/worldhack2012</a>. Please keep in mind that we only had ~5 hours.</p>
 
-<p>Thanks to <a href="http://meteor.com">Meteor</a> for an amazing JS framework – couldn&#8217;t have done it without it.</p>
+<p>Thanks to <a href="http://meteor.com">Meteor</a> for an amazing JS framework – couldn&rsquo;t have done it without it.</p>
 
 <p>Thanks to <a href="http://500px.com">500px</a> for an awesome prize – <a href="http://www.bose.ca/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp">Bose QC 15 Headphones</a>!</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Screencast of my meteor meetup talk]]></title>
+    <title type="html"><![CDATA[Screencast of My Meteor Meetup Talk]]></title>
     <link href="http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk/"/>
     <updated>2012-09-14T14:00:00-07:00</updated>
     <id>http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk</id>
@@ -306,46 +306,46 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Slides from my meteor.js meetup talk]]></title>
+    <title type="html"><![CDATA[Slides From My meteor.js Meetup Talk]]></title>
     <link href="http://dybskiy.com/talks/meteor-meetup-talk-slides/"/>
     <updated>2012-08-30T00:00:00-07:00</updated>
     <id>http://dybskiy.com/talks/meteor-meetup-talk-slides</id>
-    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="http://dybskiy.com//speakerdeck.com/assets/embed.js"></script>
+    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Why most mobile apps suck or 'What mobile web devs can learn from game devs']]></title>
+    <title type="html"><![CDATA[Why Most Mobile Apps Suck or 'What Mobile Web Devs Can Learn From Game Devs']]></title>
     <link href="http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
     <updated>2012-07-26T00:00:00-07:00</updated>
     <id>http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs</id>
-    <content type="html"><![CDATA[<p><em>Thanks for all the attention this post got on reddit! You guys rock! That&#8217;s some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em></p>
+    <content type="html"><![CDATA[<p><em>Thanks for all the attention this post got on reddit! You guys rock! That&rsquo;s some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em></p>
 
-<p>I&#8217;ve been arguing recently with a few folks that the reason Facebook mobile apps suck isn&#8217;t because they chose HTML5 blend over pure native but rather due to poor execution on their side.</p>
+<p>I&rsquo;ve been arguing recently with a few folks that the reason Facebook mobile apps suck isn&rsquo;t because they chose HTML5 blend over pure native but rather due to poor execution on their side.</p>
 
-<p>There were a bunch of articles written to support both sides but arguing about it isn&#8217;t really productive, is it? Last night I read an amazing article by <a title="Patrick Wyatt" href="http://www.codeofhonor.com/blog/author/patrick-wyatt">Patrick Wyatt</a> – <a title="The making of Warcraft part 1" href="http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1" rel="bookmark">The making of Warcraft part 1</a>. I hope you played Warcraft or at least Warcraft 2.</p>
+<p>There were a bunch of articles written to support both sides but arguing about it isn&rsquo;t really productive, is it? Last night I read an amazing article by <a title="Patrick Wyatt" href="http://www.codeofhonor.com/blog/author/patrick-wyatt">Patrick Wyatt</a> – <a title="The making of Warcraft part 1" href="http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1" rel="bookmark">The making of Warcraft part 1</a>. I hope you played Warcraft or at least Warcraft 2.</p>
 
-<p>The problems outlined there make our today&#8217;s hurtles laughable. Fitting a game into 640Kb of memory, code versioning via &#8220;remembering which files are changed on that floppy disk&#8221;, huge multiplayer latencies.</p>
+<p>The problems outlined there make our today&rsquo;s hurtles laughable. Fitting a game into 640Kb of memory, code versioning via &ldquo;remembering which files are changed on that floppy disk&rdquo;, huge multiplayer latencies.</p>
 
-<p>We are spoiled these days and some of us got too comfy thinking 3G and LTE can solve all those latency problems for you. The real answer to the problems with most mobile apps these days (including Facebook&#8217;s) is Patrick&#8217;s another great article – <a title="Reducing perceived latency" href="http://www.codeofhonor.com/blog/reducing-perceived-latency" rel="bookmark">Reducing perceived latency</a> and Mike Krieger&#8217;s (Instagram) – <a href="https://speakerdeck.com/u/mikeyk/p/secrets-to-lightning-fast-mobile-design?slide=1">Secrets to Lightning Fast Mobile Design</a> slide deck.</p>
+<p>We are spoiled these days and some of us got too comfy thinking 3G and LTE can solve all those latency problems for you. The real answer to the problems with most mobile apps these days (including Facebook&rsquo;s) is Patrick&rsquo;s another great article – <a title="Reducing perceived latency" href="http://www.codeofhonor.com/blog/reducing-perceived-latency" rel="bookmark">Reducing perceived latency</a> and Mike Krieger&rsquo;s (Instagram) – <a href="https://speakerdeck.com/u/mikeyk/p/secrets-to-lightning-fast-mobile-design?slide=1">Secrets to Lightning Fast Mobile Design</a> slide deck.</p>
 
-<p>Slide 25 sums it up nicely in three &#8216;easy&#8217; steps:</p>
+<p>Slide 25 sums it up nicely in three &lsquo;easy&rsquo; steps:</p>
 
 <ol>
 <li>perform actions optimistically</li>
 <li>adaptively pre-load content</li>
-<li>move bits when no-one&#8217;s watching</li>
+<li>move bits when no-one&rsquo;s watching</li>
 </ol>
 
 
-<p>The later two are pretty self-explanatory, but I&#8217;d like to elaborate a bit more on the first one. First time I saw it I assumed it ment optimizations, but what it really means is optimism.</p>
+<p>The later two are pretty self-explanatory, but I&rsquo;d like to elaborate a bit more on the first one. First time I saw it I assumed it ment optimizations, but what it really means is optimism.</p>
 
-<p>Be optimistic about the and make the user feel productive. Here&#8217;s one of the slides:</p>
+<p>Be optimistic about the and make the user feel productive. Here&rsquo;s one of the slides:</p>
 
 <p style="text-align: center;"><img class="aligncenter  wp-image-318" title="Secrets to Lightning Fast Mobile Design – Slide 34" src="http://dybskiy.com/wp-content/uploads/2012/07/Instagram-slide-34.png" alt="" width="789" height="760" /></p>
 
 
-<p>Just like Ogre in Warcraft would say “Daboo” once you command to move, it didn&#8217;t really mean that all the requests had finished. It was a simple acknowledgment for the user that we got your command.</p>
+<p>Just like Ogre in Warcraft would say “Daboo” once you command to move, it didn&rsquo;t really mean that all the requests had finished. It was a simple acknowledgment for the user that we got your command.</p>
 
 <p>What if the request fails? Notify user unobtrusively:</p>
 
@@ -354,9 +354,9 @@ and happened on Wednesday at 6:30pm PST at Mozilla&#8217;s Vancouver office.</p>
 
 <p>At the end of the day, choosing tools you use is important but much more important is how you use them.</p>
 
-<p>In light of some Vancouver game studios shutting down I don&#8217;t think people need to be worried – it could be great for many companies if a game dev joined them.</p>
+<p>In light of some Vancouver game studios shutting down I don&rsquo;t think people need to be worried – it could be great for many companies if a game dev joined them.</p>
 
-<p>So if you are a dev looking for work in Vancouver – get in touch with <a href="http://twitter.com/bmann/">Boris Mann</a> or <a href="http://twitter.com/igorskee/">Igor Faletski</a>. They helped me find <a href="https://twitter.com/unbounce">Unbounce</a> team and I can&#8217;t recommend them enough.</p>
+<p>So if you are a dev looking for work in Vancouver – get in touch with <a href="http://twitter.com/bmann/">Boris Mann</a> or <a href="http://twitter.com/igorskee/">Igor Faletski</a>. They helped me find <a href="https://twitter.com/unbounce">Unbounce</a> team and I can&rsquo;t recommend them enough.</p>
 
 <p>If you read this far, follow me on twitter – <a href="http://twitter.com/dybskiy/">@dybskiy</a></p>
 
@@ -376,7 +376,7 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Nexus 7 field testing]]></title>
+    <title type="html"><![CDATA[Nexus 7 Field Testing]]></title>
     <link href="http://dybskiy.com/nexus-7-field-testing/"/>
     <updated>2012-07-24T00:00:00-07:00</updated>
     <id>http://dybskiy.com/nexus-7-field-testing</id>
@@ -389,11 +389,11 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Some thoughts on Nexus 7]]></title>
+    <title type="html"><![CDATA[Some Thoughts on Nexus 7]]></title>
     <link href="http://dybskiy.com/some-thoughts-on-nexus7/"/>
     <updated>2012-07-23T00:00:00-07:00</updated>
     <id>http://dybskiy.com/some-thoughts-on-nexus7</id>
-    <content type="html"><![CDATA[<p>I&#8217;m writing this post from my nexus in a sushi bar.</p>
+    <content type="html"><![CDATA[<p>I&rsquo;m writing this post from my nexus in a sushi bar.</p>
 
 <p style="text-align: center;"><a href="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49.jpg"><img class="aligncenter  wp-image-282" title="Nexus 7 in a sushi bar" src="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49-768x1024.jpg" alt="" width="292" height="389" /></a></p>
 
@@ -402,27 +402,27 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
 
 <p>The size is amazingly pleasant though. 7 inch narrow screen is very convenient.</p>
 
-<p>It&#8217;s a fun experiment — immersing yourself into a new ecosystem.
+<p>It&rsquo;s a fun experiment — immersing yourself into a new ecosystem.
 Being surrounded by Apple all the time, having an Android OS is nice for change.</p>
 
 <p>I wanted to have an android device ever since they came out, but iPhone was always superior to Google counterparts. Main reason is Google maps. I bike a lot so having a bike paths layer always appealed to me.</p>
 
-<p>Is nexus 7 superior to Apple&#8217;s iPad? Nope, built quality and screen quality are much lower. Price doesn&#8217;t really justify it.</p>
+<p>Is nexus 7 superior to Apple&rsquo;s iPad? Nope, built quality and screen quality are much lower. Price doesn&rsquo;t really justify it.</p>
 
-<p>What&#8217;s interesting is that Apple now has to defend the 7 inch niche and trust me, it&#8217;s here to stay.</p>
+<p>What&rsquo;s interesting is that Apple now has to defend the 7 inch niche and trust me, it&rsquo;s here to stay.</p>
 
-<p>Jelly Bean is fast. Most apps aren&#8217;t though. Chrome is a bit of a disappointment too — browsing in Firefox is much smoother.</p>
+<p>Jelly Bean is fast. Most apps aren&rsquo;t though. Chrome is a bit of a disappointment too — browsing in Firefox is much smoother.</p>
 
 <p>Gmail lacks unified inbox. I wonder for how long can Google pretend that people have only one account?</p>
 
-<p>Google maps aren&#8217;t very snappy either — apple is still unbeatable here, but the ability to cache certain part of the map really comes handy. I wish they could cache bike path too.</p>
+<p>Google maps aren&rsquo;t very snappy either — apple is still unbeatable here, but the ability to cache certain part of the map really comes handy. I wish they could cache bike path too.</p>
 
-<p>I&#8217;ll post the list of nice apps to have later, but for now I must say its a really comfortable form-factor so I&#8217;m looking forward to what apple will respond with.</p>
+<p>I&rsquo;ll post the list of nice apps to have later, but for now I must say its a really comfortable form-factor so I&rsquo;m looking forward to what apple will respond with.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Think different]]></title>
+    <title type="html"><![CDATA[Think Different]]></title>
     <link href="http://dybskiy.com/think-different/"/>
     <updated>2011-10-13T00:00:00-07:00</updated>
     <id>http://dybskiy.com/think-different</id>
@@ -458,21 +458,21 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
 
 <p><strong>Video calls</strong> you are much better off with the iPhone 4.</p>
 
-<p>[caption id=&#8221;attachment_192&#8221; align=&#8221;alignright&#8221; width=&#8221;560&#8221; caption=&#8221;Video call using an iPad 2&#8221;]<img class="size-full wp-image-192  " title="Taking photo using iPad" src="http://dybskiy.com/wp-content/uploads/2011/05/iPad-Обама-фото.jpeg" alt="Taking photo using iPad" width="560" height="374" />[/caption]</p>
+<p>[caption id=&ldquo;attachment_192&rdquo; align=&ldquo;alignright&rdquo; width=&ldquo;560&rdquo; caption=&ldquo;Video call using an iPad 2&rdquo;]<img class="size-full wp-image-192  " title="Taking photo using iPad" src="http://dybskiy.com/wp-content/uploads/2011/05/iPad-Обама-фото.jpeg" alt="Taking photo using iPad" width="560" height="374" />[/caption]</p>
 
-<p><strong>Reading </strong>really sucks on the iPad. I&#8217;m a huge fan of antiglare screens and unfortunately iPad&#8217;s screen is as glossy as it gets. Meaning that it is only readable inside with no direct light on it, otherwise you can use at as a mirror but definitely not as a reading device. Not to mention all the finger-trails you get directly on the screen from using it.</p>
+<p><strong>Reading </strong>really sucks on the iPad. I&rsquo;m a huge fan of antiglare screens and unfortunately iPad&rsquo;s screen is as glossy as it gets. Meaning that it is only readable inside with no direct light on it, otherwise you can use at as a mirror but definitely not as a reading device. Not to mention all the finger-trails you get directly on the screen from using it.</p>
 
 <h3>Verdict</h3>
 
 
-<p>Sold via craigslist. Don&#8217;t get me wrong, it&#8217;s a great device for showing photos, twitter and casual browsing. Just definitely not a reading device.</p>
+<p>Sold via craigslist. Don&rsquo;t get me wrong, it&rsquo;s a great device for showing photos, twitter and casual browsing. Just definitely not a reading device.</p>
 
 <h2>Kindle 3G – $189</h2>
 
 
-<p>Frankly speaking it&#8217;s not a direct comparison of these devices. It is more a combination comparison: &#8220;Macbook Pro and iPad&#8221; vs. &#8220;Macbook Air and Kindle&#8221;. There&#8217;s actually a third element involved – the iPhone, which is present in both setups by default which takes most of the potential iPad responsibilities.</p>
+<p>Frankly speaking it&rsquo;s not a direct comparison of these devices. It is more a combination comparison: &ldquo;Macbook Pro and iPad&rdquo; vs. &ldquo;Macbook Air and Kindle&rdquo;. There&rsquo;s actually a third element involved – the iPhone, which is present in both setups by default which takes most of the potential iPad responsibilities.</p>
 
-<p>I needed a mobile setup for work and reading, and in the end I realized that Macbook Air is what I need for mobile office and for reading I&#8217;d just get a dedicated device. My eyes are very happy I made that choice.</p>
+<p>I needed a mobile setup for work and reading, and in the end I realized that Macbook Air is what I need for mobile office and for reading I&rsquo;d just get a dedicated device. My eyes are very happy I made that choice.</p>
 
 <p>Two applications I use to send content to my Kindle:</p>
 
@@ -485,7 +485,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
 <h3>verdict</h3>
 
 
-<p>After three month of using it I realized one more thing. Having a dedicated reading device not only makes the reading experience great, it also increases the time you spend reading. You are now not distracted by emails, tweets, facebook updates – it&#8217;s just you and the book.</p>
+<p>After three month of using it I realized one more thing. Having a dedicated reading device not only makes the reading experience great, it also increases the time you spend reading. You are now not distracted by emails, tweets, facebook updates – it&rsquo;s just you and the book.</p>
 
 <p>Available at Amazon: <a title="Amazon Store Kindle 3G Wireless Reading Device, Free 3G + Wi-Fi" href="http://amzn.to/hOruFm" target="_blank">Kindle 3G </a></p>
 ]]></content>
