@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2014-04-11T18:00:23-07:00</updated>
+  <updated>2014-04-11T18:04:22-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -20,7 +20,7 @@
     <id>http://dybskiy.com/laptop-sticker-standard</id>
     <content type="html"><![CDATA[<p><strong>or:</strong> &#8220;How standards are made on small scale&#8221;</p>
 
-<p>Yesterday Max Ogden stopped by EsriPDX offices and amongst other things showed his new laptop sticker collection. We quickly agreed that there should be a standard for them and that the most useful one seems to be 2&#8221;x1.75&#8221; hexagons. I tweeted it and the reaction was way more amazing than I expected.</p>
+<p>Yesterday <a href="http://twitter.com/@maxogden">Max Ogden</a> stopped by EsriPDX offices and amongst other things showed his new laptop sticker collection. We quickly agreed that there should be a standard for them and that the most useful one seems to be 2&#8221;x1.75&#8221; hexagons. I tweeted it and the reaction was way more amazing than I expected.</p>
 
 <blockquote class="twitter-tweet" lang="en"><p>Laptop Sticker Standards Group (<a href="https://twitter.com/maxogden">@maxogden</a>): here&#39;a a new standard - 2&quot;x1.75&quot; hexagons. <a href="http://t.co/psodb1iCqS">pic.twitter.com/psodb1iCqS</a></p>&mdash; Yuriy Dybskiy (@dybskiy) <a href="https://twitter.com/dybskiy/statuses/454348392856944640">April 10, 2014</a></blockquote>
 
@@ -34,7 +34,10 @@
 1. Max is undeniably awesome.
 2. Laptop sticker sizes are indeed in need of some standards.</p>
 
-<p><a href="@terinjokes">Terin Stock</a> and <a href="@_jden">Jason Denizac</a> were fiddling with this idea as well and Terin created a GitHub repo with the possible spec: <a href="https://github.com/terinjokes/StickerConstructorSpec">https://github.com/terinjokes/StickerConstructorSpec</a></p>
+<p><a href="http://twitter.com/@terinjokes">Terin Stock</a> and <a href="http://twitter.com/@_jden">Jason Denizac</a> were fiddling with this idea as well and Terin created a GitHub repo with the possible spec: <a href="https://github.com/terinjokes/StickerConstructorSpec">https://github.com/terinjokes/StickerConstructorSpec</a></p>
+
+<p>It&#8217;s obviously a fun little experiment, but I&#8217;m very curious to see how it goes.
+This could be a nice playground to see how standards are made and adopted.</p>
 ]]></content>
   </entry>
   
