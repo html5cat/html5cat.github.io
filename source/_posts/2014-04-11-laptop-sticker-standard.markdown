@@ -20,8 +20,9 @@ Yesterday [Max Ogden](http://twitter.com/@maxogden) stopped by EsriPDX offices a
 According to Twitter Analytics this tweet had "160x normal reach".
 
 I think there are two forces at play here:
-1. Max is undeniably awesome.
-2. Laptop sticker sizes are indeed in need of some standards.
+
+1.  Max is undeniably awesome.
+2.  Laptop sticker sizes are indeed in need of some standards.
 
 [Terin Stock](http://twitter.com/@terinjokes) and [Jason Denizac](http://twitter.com/@_jden) were fiddling with this idea as well and Terin created a GitHub repo with the possible spec: [https://github.com/terinjokes/StickerConstructorSpec](https://github.com/terinjokes/StickerConstructorSpec)
 
