@@ -17,7 +17,7 @@ Yesterday [Max Ogden](http://twitter.com/@maxogden) stopped by EsriPDX offices a
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-According to Twitter Analytics this tweet had "160x normal reach".
+According to Twitter Analytics this tweet had "160x normal reach" (*Update* 285x as of Apr. 14).
 
 I think there are two forces at play here:
 
