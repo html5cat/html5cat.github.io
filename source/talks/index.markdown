@@ -16,3 +16,4 @@ footer: true
 * December 2013 – [Lightning talks at SeattleJS](http://www.meetup.com/seattlejs/events/151742732/)
 * January 2014 – [First Buenos Aires Meteor meetup](http://www.meetup.com/Meteor-Buenos-Aires/events/162402312/)
 * February 2014 – [Meteor Workshop and Hackday in Buenos Aires](http://www.meetup.com/Meteor-Buenos-Aires/events/165981542/) – [slides](http://slid.es/dybskiy/meteor-ba)
+* April 2014 – [Lightning Talk at Meteor Devshop](/meteor-devshop-lightning-talk/) – [video](http://www.youtube.com/watch?v=zQhX5Tp6dcU&feature=share&t=1h36m25s)
