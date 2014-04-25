@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2014-04-22T20:54:15-07:00</updated>
+  <updated>2014-04-25T11:32:26-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meteor Devshop Lightning Talk]]></title>
+    <link href="http://dybskiy.com/meteor-devshop-lightning-talk/"/>
+    <updated>2014-04-25T11:12:24-07:00</updated>
+    <id>http://dybskiy.com/meteor-devshop-lightning-talk</id>
+    <content type="html"><![CDATA[<p>Since August 2012 I&rsquo;ve talked at and hosted Meteor events in Vancouver, Portland, Seattle and Buenos Aires.
+In this lightning talk I&rsquo;m sharing my experiences and why you might want to host or attend a Meteor event too.</p>
+
+<!-- more -->
+
+
+<p>Video (<a href="http://www.youtube.com/watch?v=zQhX5Tp6dcU&amp;feature=share&amp;t=1h36m25s">on YouTube</a>):</p>
+
+<iframe width="720" height="406" src="//www.youtube-nocookie.com/embed/zQhX5Tp6dcU?start=5785" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Slides (<a href="http://slides.com/dybskiy/hosting-meteor-events">on slides.com</a>):</p>
+
+<iframe src="//slides.com/dybskiy/hosting-meteor-events/embed" width="720" height="540" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Laptop Sticker Standard]]></title>
