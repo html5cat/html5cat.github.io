@@ -11,7 +11,7 @@ In this lightning talk I'm sharing my experiences and why you might want to host
 
 <!-- more -->
 Video ([on YouTube](http://www.youtube.com/watch?v=zQhX5Tp6dcU&feature=share&t=1h36m25s)):
-<iframe width="720" height="406" src="//www.youtube-nocookie.com/embed/zQhX5Tp6dcU?start=5785" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="406" src="//www.youtube-nocookie.com/embed/w9AOwbcsc0M" frameborder="0" allowfullscreen></iframe>
 
 Slides ([on slides.com](http://slides.com/dybskiy/hosting-meteor-events)):
 <iframe src="//slides.com/dybskiy/hosting-meteor-events/embed" width="720" height="540" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
