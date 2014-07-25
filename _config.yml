@@ -4,7 +4,7 @@
 
 url: http://dybskiy.com
 title: Yuriy Dybskiy
-subtitle: Curious JavaScript Engineer
+subtitle: Curious JavaScript Engineer, html5cat
 author: Yuriy Dybskiy
 simple_search: http://google.com/search
 description:
@@ -69,13 +69,13 @@ include: [.well-known]
 # ----------------------- #
 
 # Github repositories
-github_user: dybskiy
+github_user: html5cat
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: dybskiy
+twitter_user: html5cat
 twitter_tweet_count: 0
 twitter_show_replies: false
 twitter_follow_button: true
