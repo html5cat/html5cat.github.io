@@ -9,7 +9,7 @@
   <meta name="author" content="Yuriy Dybskiy">
 
   
-  <meta name="description" content="Yesterday I hosted the fisrt Meteor meetup in Portland. We had an incredibly interesting crowd already and then PhoneGap team joined us to make it &hellip;">
+  <meta name="description" content="Thanks for all the attention this post got on reddit! You guys rock! That&rsquo;s some 6,584 rocking people :) Join the discussion. I&rsquo;ve been &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -86,7 +86,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/portland-meteor-meetup/">First Portland Meteor Meetup Feat. PhoneGap Team</a></h1>
+      <h1 class="entry-title"><a href="/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/">Why Most Mobile Apps Suck or &#8216;What Mobile Web Devs Can Learn From Game Devs&#8217;</a></h1>
     
     
       <p class="meta">
@@ -102,22 +102,247 @@
   
 
 
-<time datetime="2013-02-27T21:01:00-05:00" pubdate data-updated="true">Feb 27<span>th</span>, 2013</time>
+<time datetime="2012-07-26T00:00:00-04:00" pubdate data-updated="true"></time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>Yesterday I hosted the fisrt Meteor meetup in Portland. We had an incredibly interesting crowd already and then PhoneGap team joined us to make it even more awesome!</p>
+  <div class="entry-content"><p><em>Thanks for all the attention this post got on reddit! You guys rock! That&rsquo;s some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em></p>
 
-<p><img src="/photos/meteorMeetup/MeteorMeetupPdx-1.jpg" title="Meteor + Cordova (PhoneGap)" ></p>
+<p>I&rsquo;ve been arguing recently with a few folks that the reason Facebook mobile apps suck isn&rsquo;t because they chose HTML5 blend over pure native but rather due to poor execution on their side.</p>
+
+<p>There were a bunch of articles written to support both sides but arguing about it isn&rsquo;t really productive, is it? Last night I read an amazing article by <a title="Patrick Wyatt" href="http://www.codeofhonor.com/blog/author/patrick-wyatt">Patrick Wyatt</a> – <a title="The making of Warcraft part 1" href="http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1" rel="bookmark">The making of Warcraft part 1</a>. I hope you played Warcraft or at least Warcraft 2.</p>
+
+<p>The problems outlined there make our today&rsquo;s hurtles laughable. Fitting a game into 640Kb of memory, code versioning via &ldquo;remembering which files are changed on that floppy disk&rdquo;, huge multiplayer latencies.</p>
+
+<p>We are spoiled these days and some of us got too comfy thinking 3G and LTE can solve all those latency problems for you. The real answer to the problems with most mobile apps these days (including Facebook&rsquo;s) is Patrick&rsquo;s another great article – <a title="Reducing perceived latency" href="http://www.codeofhonor.com/blog/reducing-perceived-latency" rel="bookmark">Reducing perceived latency</a> and Mike Krieger&rsquo;s (Instagram) – <a href="https://speakerdeck.com/u/mikeyk/p/secrets-to-lightning-fast-mobile-design?slide=1">Secrets to Lightning Fast Mobile Design</a> slide deck.</p>
+
+<p>Slide 25 sums it up nicely in three &lsquo;easy&rsquo; steps:</p>
+
+<ol>
+<li>perform actions optimistically</li>
+<li>adaptively pre-load content</li>
+<li>move bits when no-one&rsquo;s watching</li>
+</ol>
+
+
+<p>The later two are pretty self-explanatory, but I&rsquo;d like to elaborate a bit more on the first one. First time I saw it I assumed it ment optimizations, but what it really means is optimism.</p>
+
+<p>Be optimistic about the and make the user feel productive. Here&rsquo;s one of the slides:</p>
+
+<p style="text-align: center;"><img class="aligncenter  wp-image-318" title="Secrets to Lightning Fast Mobile Design – Slide 34" src="http://dybskiy.com/wp-content/uploads/2012/07/Instagram-slide-34.png" alt="" width="789" height="760" /></p>
+
+
+<p>Just like Ogre in Warcraft would say “Daboo” once you command to move, it didn&rsquo;t really mean that all the requests had finished. It was a simple acknowledgment for the user that we got your command.</p>
+
+<p>What if the request fails? Notify user unobtrusively:</p>
+
+<p style="text-align: center;"><img class="aligncenter  wp-image-320" title="Slide 38" src="http://dybskiy.com/wp-content/uploads/2012/07/Slide-38.png" alt="" width="272" height="381" /></p>
+
+
+<p>At the end of the day, choosing tools you use is important but much more important is how you use them.</p>
+
+<p>In light of some Vancouver game studios shutting down I don&rsquo;t think people need to be worried – it could be great for many companies if a game dev joined them.</p>
+
+<p>So if you are a dev looking for work in Vancouver – get in touch with <a href="http://twitter.com/bmann/">Boris Mann</a> or <a href="http://twitter.com/igorskee/">Igor Faletski</a>. They helped me find <a href="https://twitter.com/unbounce">Unbounce</a> team and I can&rsquo;t recommend them enough.</p>
+
+<p>If you read this far, follow me on twitter – <a href="http://twitter.com/dybskiy/">@dybskiy</a></p>
+
+<p>Thanks to sidcool1234 for submitting to <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">reddit</a>.</p>
+
+<p><strong>Update 1:</strong> reddit reader <a href="http://www.reddit.com/user/barsoap">barsoap</a> pointed out the following:</p>
+
+<blockquote>There&#8217;s one keyword here: <em>Immersion</em>.
+
+Immersion breakers kill every game, and while break of workflow might not kill an application, it&#8217;s definitely going to make it suck.
+
+The difference in game vs. app developers here is that game developers focus on immersion from the get-go, even design their games around it, while app developers start off with a set of functionality and, at least hopefully, consider immersion as an afterthought.
+
+Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? Those were designed around immersion, not functionality.</blockquote>
 
 </div>
   
   
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/nexus-7-field-testing/">Nexus 7 Field Testing</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-24T00:00:00-04:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><img class="size-large wp-image-286" title="Nexus 7 Field Test Part 1" src="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o-1024x682.jpeg" alt="" width="584" height="388" />
+<p>Nexus 7 and Joffre lake (c) Anton Bielousov</p>
+
+<img class="size-full wp-image-287" title="Nexus 7 Field Test Part 2" src="http://dybskiy.com/wp-content/uploads/2012/07/376328_10151043797211037_1014366157_n.jpeg" alt="" width="640" height="960" />
+<p>Nexus 7 on the rocks (c) juliedoro.com</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/some-thoughts-on-nexus7/">Some Thoughts on Nexus 7</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-23T00:00:00-04:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I&rsquo;m writing this post from my nexus in a sushi bar.</p>
+
+<p style="text-align: center;"><a href="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49.jpg"><img class="aligncenter  wp-image-282" title="Nexus 7 in a sushi bar" src="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49-768x1024.jpg" alt="" width="292" height="389" /></a></p>
+
+
+<p>Is it more convenient than writing on an iPhone? Not really. I still need to have one — for tethering.</p>
+
+<p>The size is amazingly pleasant though. 7 inch narrow screen is very convenient.</p>
+
+<p>It&rsquo;s a fun experiment — immersing yourself into a new ecosystem.
+Being surrounded by Apple all the time, having an Android OS is nice for change.</p>
+
+<p>I wanted to have an android device ever since they came out, but iPhone was always superior to Google counterparts. Main reason is Google maps. I bike a lot so having a bike paths layer always appealed to me.</p>
+
+<p>Is nexus 7 superior to Apple&rsquo;s iPad? Nope, built quality and screen quality are much lower. Price doesn&rsquo;t really justify it.</p>
+
+<p>What&rsquo;s interesting is that Apple now has to defend the 7 inch niche and trust me, it&rsquo;s here to stay.</p>
+
+<p>Jelly Bean is fast. Most apps aren&rsquo;t though. Chrome is a bit of a disappointment too — browsing in Firefox is much smoother.</p>
+
+<p>Gmail lacks unified inbox. I wonder for how long can Google pretend that people have only one account?</p>
+
+<p>Google maps aren&rsquo;t very snappy either — apple is still unbeatable here, but the ability to cache certain part of the map really comes handy. I wish they could cache bike path too.</p>
+
+<p>I&rsquo;ll post the list of nice apps to have later, but for now I must say its a really comfortable form-factor so I&rsquo;m looking forward to what apple will respond with.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/think-different/">Think Different</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-10-13T00:00:00-04:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Think different, Toronto Subway. My small tribute to Steve</p>
+
+<img title="Think different" src="http://dybskiy.com/wp-content/uploads/2011/10/DSC_3014-1024x680.jpg" alt="" width="584" height="387" />
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/ipad-vs-ipad-2-vs-kindle-3g-part-2/">iPad vs. iPad 2 vs. Kindle 3G Part 2</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-07-08T00:00:00-04:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h2>iPad Wi-Fi + 3G 64GB – $550</h2>
+
+
+<p>Right after the release of iPad 2, as expected, the used market for the original iPads got pretty crowded and the prices started to drop. Sure, there were still sellers asking $450 for the Wi-Fi only 16 Gb iPad which was selling at Apple store for $399. But there are always more adequate sellers and I got the top of the line first generation iPad 3G for just $550 including a nice red cover case and Apple warranty. Could not be more happy, right?</div>
+  
+  
     <footer>
-      <a rel="full-article" href="/portland-meteor-meetup/">Read on &rarr;</a>
+      <a rel="full-article" href="/ipad-vs-ipad-2-vs-kindle-3g-part-2/">Read on &rarr;</a>
     </footer>
   
 
@@ -129,7 +354,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/meteor-aftermath/">Meteor Aftermath (Meteor Meetup at Mozilla)</a></h1>
+      <h1 class="entry-title"><a href="/ipad-vs-ipad-2-vs-kindle-3g-part-1/">iPad vs. iPad 2 vs. Kindle 3G Part 1</a></h1>
     
     
       <p class="meta">
@@ -145,29 +370,18 @@
   
 
 
-<time datetime="2013-02-15T01:01:00-05:00" pubdate data-updated="true">Feb 15<span>th</span>, 2013</time>
+<time datetime="2011-05-04T00:00:00-04:00" pubdate data-updated="true"></time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><em>This week is definitely a week of Meteors!</em></p>
-
-<p>While the world is amazed by this:</p>
-
-<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/7c-0iwBEswE?rel=0" frameborder="0" allowfullscreen></iframe>
-
-
-<p>We know that it&rsquo;s actually late for the party that looked more like this:
-<img src="/photos/meteorMeetup/MeteorMozilla.png" title="Meteor @ Mozilla" >
-and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
-
-</div>
+  <div class="entry-content">For the last couple of months I&#8217;ve been using iPads quite extensively and a week ago I sold them all switching to Kindle. But first things first. Here is the chronology of the events:</div>
   
   
     <footer>
-      <a rel="full-article" href="/meteor-aftermath/">Read on &rarr;</a>
+      <a rel="full-article" href="/ipad-vs-ipad-2-vs-kindle-3g-part-1/">Read on &rarr;</a>
     </footer>
   
 
@@ -179,7 +393,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/facebook-world-hack-day-vancouver-2012/">Facebook World Hack Day Vancouver</a></h1>
+      <h1 class="entry-title"><a href="/hello-world/">Inception</a></h1>
     
     
       <p class="meta">
@@ -195,101 +409,26 @@ and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
   
 
 
-<time datetime="2012-09-20T20:21:00-04:00" pubdate data-updated="true">Sep 20<span>th</span>, 2012</time>
+<time datetime="2010-07-25T00:00:00-04:00" pubdate data-updated="true"></time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><img src="/images/worldhack.jpg" title="demo time" ></p>
+  <div class="entry-content">Hi everyone, it is finally time to remove some dust from this domain and bring it to life.
 
-<p>My hack won the &ldquo;Best use of 500px API&rdquo; prize. Check it out here: <a href="http://worldhack.meteor.com/">http://worldhack.meteor.com/</a></p>
+What will I post here? First of all, everything related to Photography. I really love it and would like to share my experience as much as possible.  Photos will be posted here obviously, some technical reviews.
 
-<p>Source code on github <a href="https://github.com/dybskiy/worldhack2012">dybskiy/worldhack2012</a>. Please keep in mind that we only had ~5 hours.</p>
+Mobile development is another huge topic I would cover.
 
-<p>Thanks to <a href="http://meteor.com">Meteor</a> for an amazing JS framework – couldn&rsquo;t have done it without it.</p>
+You are very welcome to leave comments if you want to suggest something or just to say &#8220;hi&#8221;!
 
-<p>Thanks to <a href="http://500px.com">500px</a> for an awesome prize – <a href="http://www.bose.ca/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp">Bose QC 15 Headphones</a>!</p>
-</div>
-  
-  
+どぞよろしくおねがいたします。
 
+P.s.: Here is how my first site looked like in 1998 – <a href="http://dybskiy.com/TokyoKaraKonnitiva/index.htm" target="_blank">turn on time machine</a>.
 
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/talks/screencast-of-my-meteor-meetup-talk/">Screencast of My Meteor Meetup Talk</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-09-14T14:00:00-04:00" pubdate data-updated="true">Sep 14<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Screencast of the talk + Q&amp;A session:</p>
-
-<iframe src="http://player.vimeo.com/video/49433252" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-
-<p><a href="https://www.dropbox.com/s/mrg7smkdo4gpo6s/Meteor-talk.m4v">Video of the talk</a>.</p>
-
-<p>More informtion on the meetup <a href="http://www.meetup.com/VanDev/events/75032692/">here</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/talks/meteor-meetup-talk-slides/">Slides From My meteor.js Meetup Talk</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-08-30T00:00:00-04:00" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+P.p.s.: Inception was a nice movie indeed.
 </div>
   
   
@@ -298,8 +437,6 @@ and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
     </article>
   
   <div class="pagination">
-    
-      <a class="prev" href="/blog/page/3/">&larr; Older</a>
     
     <a href="/blog/archives">Blog Archives</a>
     
