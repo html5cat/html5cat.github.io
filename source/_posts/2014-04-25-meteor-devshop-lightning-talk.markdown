@@ -14,4 +14,4 @@ Video ([on YouTube](http://www.youtube.com/watch?v=zQhX5Tp6dcU&feature=share&t=1
 <iframe width="720" height="406" src="//www.youtube-nocookie.com/embed/w9AOwbcsc0M" frameborder="0" allowfullscreen></iframe>
 
 Slides ([on slides.com](http://slides.com/dybskiy/hosting-meteor-events)):
-<iframe src="//slides.com/dybskiy/hosting-meteor-events/embed" width="720" height="540" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//slides.com/html5cat/hosting-meteor-events/embed" width="720" height="540" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
