@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2014-07-25T14:12:45-04:00</updated>
+  <updated>2014-09-27T00:44:48-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Today We Mourn]]></title>
     <link href="http://dybskiy.com/663399becca/"/>
-    <updated>2014-06-12T18:52:01-04:00</updated>
+    <updated>2014-06-12T15:52:01-07:00</updated>
     <id>http://dybskiy.com/663399becca</id>
     <content type="html"><![CDATA[<p>Following <a href="http://meyerweb.com/">Eric Meyer</a>&rsquo;s posts during the last couple of weeks was very hearbreaking.
 Brings a lot of perspective to day-to-day problems we have.</p>
@@ -30,7 +30,7 @@ Brings a lot of perspective to day-to-day problems we have.</p>
   <entry>
     <title type="html"><![CDATA[Meteor Devshop Lightning Talk]]></title>
     <link href="http://dybskiy.com/meteor-devshop-lightning-talk/"/>
-    <updated>2014-04-25T14:12:24-04:00</updated>
+    <updated>2014-04-25T11:12:24-07:00</updated>
     <id>http://dybskiy.com/meteor-devshop-lightning-talk</id>
     <content type="html"><![CDATA[<p>Since August 2012 I&rsquo;ve talked at and hosted Meteor events in Vancouver, Portland, Seattle and Buenos Aires.
 In this lightning talk I&rsquo;m sharing my experiences and why you might want to host or attend a Meteor event too.</p>
@@ -45,7 +45,7 @@ In this lightning talk I&rsquo;m sharing my experiences and why you might want t
 
 <p>Slides (<a href="http://slides.com/dybskiy/hosting-meteor-events">on slides.com</a>):</p>
 
-<iframe src="//slides.com/dybskiy/hosting-meteor-events/embed" width="720" height="540" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//slides.com/html5cat/hosting-meteor-events/embed" width="720" height="540" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ]]></content>
   </entry>
@@ -53,7 +53,7 @@ In this lightning talk I&rsquo;m sharing my experiences and why you might want t
   <entry>
     <title type="html"><![CDATA[Laptop Sticker Standard]]></title>
     <link href="http://dybskiy.com/laptop-sticker-standard/"/>
-    <updated>2014-04-11T17:21:00-04:00</updated>
+    <updated>2014-04-11T17:21:00-07:00</updated>
     <id>http://dybskiy.com/laptop-sticker-standard</id>
     <content type="html"><![CDATA[<p><strong>or:</strong> &ldquo;How standards are made on small scale&rdquo;</p>
 
@@ -85,7 +85,7 @@ This could be a nice playground to see how standards are made and adopted.</p>
   <entry>
     <title type="html"><![CDATA[How to Get the Most Out of Your Next Google I/O]]></title>
     <link href="http://dybskiy.com/google-io-2013/"/>
-    <updated>2013-05-18T18:14:00-04:00</updated>
+    <updated>2013-05-18T18:14:00-07:00</updated>
     <id>http://dybskiy.com/google-io-2013</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://instagr.am/p/ZTedAXFJgh/media/?size=l"></p>
 
@@ -150,7 +150,7 @@ This could be a nice playground to see how standards are made and adopted.</p>
   <entry>
     <title type="html"><![CDATA[Choosing a JS MVC Framework: Angular.js vs Ember.js]]></title>
     <link href="http://dybskiy.com/js-mvc-angular-vs-ember/"/>
-    <updated>2013-04-11T14:00:00-04:00</updated>
+    <updated>2013-04-11T14:00:00-07:00</updated>
     <id>http://dybskiy.com/js-mvc-angular-vs-ember</id>
     <content type="html"><![CDATA[<h2>tl;dr</h2>
 
@@ -228,7 +228,7 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
   <entry>
     <title type="html"><![CDATA[First Portland Meteor Meetup Feat. PhoneGap Team]]></title>
     <link href="http://dybskiy.com/portland-meteor-meetup/"/>
-    <updated>2013-02-27T21:01:00-05:00</updated>
+    <updated>2013-02-27T21:01:00-08:00</updated>
     <id>http://dybskiy.com/portland-meteor-meetup</id>
     <content type="html"><![CDATA[<p>Yesterday I hosted the fisrt Meteor meetup in Portland. We had an incredibly interesting crowd already and then PhoneGap team joined us to make it even more awesome!</p>
 
@@ -266,7 +266,7 @@ So have I and my gut feeling was that Angular would be a perfect fit for this pr
   <entry>
     <title type="html"><![CDATA[Meteor Aftermath (Meteor Meetup at Mozilla)]]></title>
     <link href="http://dybskiy.com/meteor-aftermath/"/>
-    <updated>2013-02-15T01:01:00-05:00</updated>
+    <updated>2013-02-15T01:01:00-08:00</updated>
     <id>http://dybskiy.com/meteor-aftermath</id>
     <content type="html"><![CDATA[<p><em>This week is definitely a week of Meteors!</em></p>
 
@@ -316,7 +316,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
   <entry>
     <title type="html"><![CDATA[Facebook World Hack Day Vancouver]]></title>
     <link href="http://dybskiy.com/facebook-world-hack-day-vancouver-2012/"/>
-    <updated>2012-09-20T20:21:00-04:00</updated>
+    <updated>2012-09-20T20:21:00-07:00</updated>
     <id>http://dybskiy.com/facebook-world-hack-day-vancouver-2012</id>
     <content type="html"><![CDATA[<p><img src="http://dybskiy.com/images/worldhack.jpg" title="demo time" ></p>
 
@@ -333,7 +333,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
   <entry>
     <title type="html"><![CDATA[Screencast of My Meteor Meetup Talk]]></title>
     <link href="http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk/"/>
-    <updated>2012-09-14T14:00:00-04:00</updated>
+    <updated>2012-09-14T14:00:00-07:00</updated>
     <id>http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk</id>
     <content type="html"><![CDATA[<p>Screencast of the talk + Q&amp;A session:</p>
 
@@ -349,7 +349,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
   <entry>
     <title type="html"><![CDATA[Slides From My meteor.js Meetup Talk]]></title>
     <link href="http://dybskiy.com/talks/meteor-meetup-talk-slides/"/>
-    <updated>2012-08-30T00:00:00-04:00</updated>
+    <updated>2012-08-30T00:00:00-07:00</updated>
     <id>http://dybskiy.com/talks/meteor-meetup-talk-slides</id>
     <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 ]]></content>
@@ -358,7 +358,7 @@ and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
   <entry>
     <title type="html"><![CDATA[Why Most Mobile Apps Suck or 'What Mobile Web Devs Can Learn From Game Devs']]></title>
     <link href="http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
-    <updated>2012-07-26T00:00:00-04:00</updated>
+    <updated>2012-07-26T00:00:00-07:00</updated>
     <id>http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs</id>
     <content type="html"><![CDATA[<p><em>Thanks for all the attention this post got on reddit! You guys rock! That&rsquo;s some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em></p>
 
@@ -419,7 +419,7 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   <entry>
     <title type="html"><![CDATA[Nexus 7 Field Testing]]></title>
     <link href="http://dybskiy.com/nexus-7-field-testing/"/>
-    <updated>2012-07-24T00:00:00-04:00</updated>
+    <updated>2012-07-24T00:00:00-07:00</updated>
     <id>http://dybskiy.com/nexus-7-field-testing</id>
     <content type="html"><![CDATA[<img class="size-large wp-image-286" title="Nexus 7 Field Test Part 1" src="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o-1024x682.jpeg" alt="" width="584" height="388" />
 <p>Nexus 7 and Joffre lake (c) Anton Bielousov</p>
@@ -432,7 +432,7 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
   <entry>
     <title type="html"><![CDATA[Some Thoughts on Nexus 7]]></title>
     <link href="http://dybskiy.com/some-thoughts-on-nexus7/"/>
-    <updated>2012-07-23T00:00:00-04:00</updated>
+    <updated>2012-07-23T00:00:00-07:00</updated>
     <id>http://dybskiy.com/some-thoughts-on-nexus7</id>
     <content type="html"><![CDATA[<p>I&rsquo;m writing this post from my nexus in a sushi bar.</p>
 
@@ -465,7 +465,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[Think Different]]></title>
     <link href="http://dybskiy.com/think-different/"/>
-    <updated>2011-10-13T00:00:00-04:00</updated>
+    <updated>2011-10-13T00:00:00-07:00</updated>
     <id>http://dybskiy.com/think-different</id>
     <content type="html"><![CDATA[<p>Think different, Toronto Subway. My small tribute to Steve</p>
 
@@ -476,7 +476,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 2]]></title>
     <link href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/"/>
-    <updated>2011-07-08T00:00:00-04:00</updated>
+    <updated>2011-07-08T00:00:00-07:00</updated>
     <id>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2</id>
     <content type="html"><![CDATA[<h2>iPad Wi-Fi + 3G 64GB – $550</h2>
 
@@ -535,7 +535,7 @@ Being surrounded by Apple all the time, having an Android OS is nice for change.
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 1]]></title>
     <link href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/"/>
-    <updated>2011-05-04T00:00:00-04:00</updated>
+    <updated>2011-05-04T00:00:00-07:00</updated>
     <id>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1</id>
     <content type="html"><![CDATA[For the last couple of months I&#8217;ve been using iPads quite extensively and a week ago I sold them all switching to Kindle. But first things first. Here is the chronology of the events:<!--more-->
 <h2>iPad Wi-Fi 16GB ~ $650</h2>
@@ -594,7 +594,7 @@ With the price of $800 you can add another couple of hundred dollars and get an 
   <entry>
     <title type="html"><![CDATA[Inception]]></title>
     <link href="http://dybskiy.com/hello-world/"/>
-    <updated>2010-07-25T00:00:00-04:00</updated>
+    <updated>2010-07-25T00:00:00-07:00</updated>
     <id>http://dybskiy.com/hello-world</id>
     <content type="html"><![CDATA[Hi everyone, it is finally time to remove some dust from this domain and bring it to life.
 
