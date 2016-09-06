@@ -4,11 +4,7 @@
   <title><![CDATA[Category: talks | Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/blog/categories/talks/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-<<<<<<< HEAD
   <updated>2016-09-06T14:42:48-04:00</updated>
-=======
-  <updated>2014-09-27T00:44:48-07:00</updated>
->>>>>>> 3a2e59321ce1af3915d31809d1c243acb5dd7828
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -20,11 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Screencast of my meteor meetup talk]]></title>
     <link href="http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk/"/>
-<<<<<<< HEAD
     <updated>2012-09-14T14:00:00-04:00</updated>
-=======
-    <updated>2012-09-14T14:00:00-07:00</updated>
->>>>>>> 3a2e59321ce1af3915d31809d1c243acb5dd7828
     <id>http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk</id>
     <content type="html"><![CDATA[<p>Screencast of the talk + Q&amp;A session:</p>
 
@@ -40,11 +32,7 @@
   <entry>
     <title type="html"><![CDATA[Slides from my meteor.js meetup talk]]></title>
     <link href="http://dybskiy.com/talks/meteor-meetup-talk-slides/"/>
-<<<<<<< HEAD
     <updated>2012-08-30T00:00:00-04:00</updated>
-=======
-    <updated>2012-08-30T00:00:00-07:00</updated>
->>>>>>> 3a2e59321ce1af3915d31809d1c243acb5dd7828
     <id>http://dybskiy.com/talks/meteor-meetup-talk-slides</id>
     <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
