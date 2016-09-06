@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2016-09-06T14:55:33-04:00</updated>
+  <updated>2016-09-06T15:20:21-04:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -12,20 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Today We Mourn]]></title>
-    <link href="http://dybskiy.com/663399becca/"/>
-    <updated>2014-06-12T18:52:01-04:00</updated>
-    <id>http://dybskiy.com/663399becca</id>
-    <content type="html"><![CDATA[<p>Following <a href="http://meyerweb.com/">Eric Meyer</a>&rsquo;s posts during the last couple of weeks was very hearbreaking.
-Brings a lot of perspective to day-to-day problems we have.</p>
-
-<p>Today we mourn.</p>
-
-<h3><a href="https://twitter.com/hashtag/663399Becca?src=hash">#663399Becca</a></h3>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meteor Devshop Lightning Talk]]></title>
