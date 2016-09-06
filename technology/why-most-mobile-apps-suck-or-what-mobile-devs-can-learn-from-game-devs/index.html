@@ -1,0 +1,321 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Why Most Mobile Apps Suck or 'What Mobile Web Devs Can Learn From Game Devs' - Yuriy Dybskiy</title>
+  <meta name="author" content="Yuriy Dybskiy">
+
+  
+  <meta name="description" content="Thanks for all the attention this post got on reddit! You guys rock! That&rsquo;s some 6,584 rocking people :) Join the discussion. I&rsquo;ve been &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Yuriy Dybskiy" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script src="/javascripts/open-in-blank.js"></script>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-11804452-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Yuriy Dybskiy</a></h1>
+  
+    <h2>Curious JavaScript Engineer, html5cat</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dybskiy.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/talks/">Talks</a></li>
+  <li><a href="/about/">About</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Why Most Mobile Apps Suck or 'What Mobile Web Devs Can Learn From Game Devs'</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-26T00:00:00-04:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><em>Thanks for all the attention this post got on reddit! You guys rock! That&rsquo;s some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em></p>
+
+<p>I&rsquo;ve been arguing recently with a few folks that the reason Facebook mobile apps suck isn&rsquo;t because they chose HTML5 blend over pure native but rather due to poor execution on their side.</p>
+
+<p>There were a bunch of articles written to support both sides but arguing about it isn&rsquo;t really productive, is it? Last night I read an amazing article by <a title="Patrick Wyatt" href="http://www.codeofhonor.com/blog/author/patrick-wyatt">Patrick Wyatt</a> – <a title="The making of Warcraft part 1" href="http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1" rel="bookmark">The making of Warcraft part 1</a>. I hope you played Warcraft or at least Warcraft 2.</p>
+
+<p>The problems outlined there make our today&rsquo;s hurtles laughable. Fitting a game into 640Kb of memory, code versioning via &ldquo;remembering which files are changed on that floppy disk&rdquo;, huge multiplayer latencies.</p>
+
+<p>We are spoiled these days and some of us got too comfy thinking 3G and LTE can solve all those latency problems for you. The real answer to the problems with most mobile apps these days (including Facebook&rsquo;s) is Patrick&rsquo;s another great article – <a title="Reducing perceived latency" href="http://www.codeofhonor.com/blog/reducing-perceived-latency" rel="bookmark">Reducing perceived latency</a> and Mike Krieger&rsquo;s (Instagram) – <a href="https://speakerdeck.com/u/mikeyk/p/secrets-to-lightning-fast-mobile-design?slide=1">Secrets to Lightning Fast Mobile Design</a> slide deck.</p>
+
+<p>Slide 25 sums it up nicely in three &lsquo;easy&rsquo; steps:</p>
+
+<ol>
+<li>perform actions optimistically</li>
+<li>adaptively pre-load content</li>
+<li>move bits when no-one&rsquo;s watching</li>
+</ol>
+
+
+<p>The later two are pretty self-explanatory, but I&rsquo;d like to elaborate a bit more on the first one. First time I saw it I assumed it ment optimizations, but what it really means is optimism.</p>
+
+<p>Be optimistic about the and make the user feel productive. Here&rsquo;s one of the slides:</p>
+
+<p style="text-align: center;"><img class="aligncenter  wp-image-318" title="Secrets to Lightning Fast Mobile Design – Slide 34" src="http://dybskiy.com/wp-content/uploads/2012/07/Instagram-slide-34.png" alt="" width="789" height="760" /></p>
+
+
+<p>Just like Ogre in Warcraft would say “Daboo” once you command to move, it didn&rsquo;t really mean that all the requests had finished. It was a simple acknowledgment for the user that we got your command.</p>
+
+<p>What if the request fails? Notify user unobtrusively:</p>
+
+<p style="text-align: center;"><img class="aligncenter  wp-image-320" title="Slide 38" src="http://dybskiy.com/wp-content/uploads/2012/07/Slide-38.png" alt="" width="272" height="381" /></p>
+
+
+<p>At the end of the day, choosing tools you use is important but much more important is how you use them.</p>
+
+<p>In light of some Vancouver game studios shutting down I don&rsquo;t think people need to be worried – it could be great for many companies if a game dev joined them.</p>
+
+<p>So if you are a dev looking for work in Vancouver – get in touch with <a href="http://twitter.com/bmann/">Boris Mann</a> or <a href="http://twitter.com/igorskee/">Igor Faletski</a>. They helped me find <a href="https://twitter.com/unbounce">Unbounce</a> team and I can&rsquo;t recommend them enough.</p>
+
+<p>If you read this far, follow me on twitter – <a href="http://twitter.com/dybskiy/">@dybskiy</a></p>
+
+<p>Thanks to sidcool1234 for submitting to <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">reddit</a>.</p>
+
+<p><strong>Update 1:</strong> reddit reader <a href="http://www.reddit.com/user/barsoap">barsoap</a> pointed out the following:</p>
+
+<blockquote>There&#8217;s one keyword here: <em>Immersion</em>.
+
+Immersion breakers kill every game, and while break of workflow might not kill an application, it&#8217;s definitely going to make it suck.
+
+The difference in game vs. app developers here is that game developers focus on immersion from the get-go, even design their games around it, while app developers start off with a set of functionality and, at least hopefully, consider immersion as an afterthought.
+
+Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? Those were designed around immersion, not functionality.</blockquote>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Yuriy Dybskiy</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-26T00:00:00-04:00" pubdate data-updated="true"></time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/technology/'>technology</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/" data-via="html5cat" data-counturl="http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/nexus-7-field-testing/" title="Previous Post: Nexus 7 field testing">&laquo; Nexus 7 field testing</a>
+      
+      
+        <a class="basic-alignment right" href="/talks/meteor-meetup-talk-slides/" title="Next Post: Slides from my meteor.js meetup talk">Slides from my meteor.js meetup talk &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <img src="/photos/me-500px.jpg">
+  <h1>About Me</h1>
+  <p>Front-end engineer by day, photographer and tango dancer at night.</p>
+  <p>Live in sunny Vancouver, Canada.
+  <br>Love to travel. <a href="http://dybskiy.com/where-is-yuriy/">Where is Yuriy?</a></p>
+</section>
+<section>
+  <ul>
+    <li>GitHub: <a href="https://github.com/html5cat" rel="me">Code</a></li>
+    <li>Instagram: <a href="http://instagram.com/dybskiy" rel="me">Photos</a></li>
+    <li>Google+: <a href="http://plus.google.com/107290594765463806793/">G+</a></li>
+    <li>LinkedIn: <a href="http://ca.linkedin.com/in/dybskiy">Yuriy Dybskiy</a></li>
+  </ul>
+</section>
+
+<section class="googleplus googleplus-hidden">
+  <h1>
+    <a href="https://plus.google.com/107290594765463806793?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+    <a href="https://twitter.com/html5cat" rel="me" class="twitter-follow-button" data-show-count="true">Follow @html5cat</a>
+  
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2016 - Yuriy Dybskiy
+  - <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  - <span class="credit">Hosted on <a href="http://pages.github.com/">GitHub Pages</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'dybskiy';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/';
+        var disqus_url = 'http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
