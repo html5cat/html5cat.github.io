@@ -1,0 +1,332 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Choosing a JS MVC Framework: Angular.js vs Ember.js - Yuriy Dybskiy</title>
+  <meta name="author" content="Yuriy Dybskiy">
+
+  
+  <meta name="description" content="Choosing a JavaScript MVC framework: Angular.js vs Ember.js">
+  <meta name="keywords" content="javascript, angular, angularjs, angular.js, ember, ember.js, MVC, framework, js, web components">
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dybskiy.com/js-mvc-angular-vs-ember">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Yuriy Dybskiy" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script src="/javascripts/open-in-blank.js"></script>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-11804452-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Yuriy Dybskiy</a></h1>
+  
+    <h2>Curious JavaScript Engineer, html5cat</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dybskiy.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/talks/">Talks</a></li>
+  <li><a href="/about/">About</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Choosing a JS MVC Framework: Angular.js vs Ember.js</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-04-11T14:00:00-07:00" pubdate data-updated="true">Apr 11<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><h2>tl;dr</h2>
+
+<p>As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say with confidence: <strong>it&rsquo;s not fair to compare them</strong>. But if you really don&rsquo;t have time to learn both – <strong>use AngularJS</strong>. Ember is not ready for prime time, <strong>yet</strong>.</p>
+
+<blockquote><p>AngularJS is a dream if you&#8217;re accustomed to HTML data- style behavior like you find as part of Twitter Bootstrap&#8217;s javascript</p><footer><strong>Trek Glowacki, Ember core team member</strong> <cite><a href='http://trek.github.com/'>trek.github.com/&hellip;</a></cite></footer></blockquote>
+
+
+<h2>Some context</h2>
+
+<p>Year 2013 started with a great R&amp;D project for me.
+<strong>The problem:</strong> existing webapp codebase had too much technical debt and it was incredible hard to add new features without regression. <strong>Solution:</strong> re-write the app using MVC framework.</p>
+
+<p><strong>Problem #2:</strong> which MVC framework to use? <strong>Solution:</strong> build a prototype using two most promising ones and decide. The app is purely client-side single page JavaScript app, talking to a few server APIs. Think simplified version of Double-Click or Google Analytics.</p>
+
+<p>You might have heard or seen the <a href="http://www.youtube.com/watch?v=oJoAnVRIVQo">talk by Double-Click team</a> about moving to AngularJS.
+So have I and my gut feeling was that Angular would be a perfect fit for this project. Glancing into the future, or actually present, that assumption was spot on and it is Angular&rsquo;s sweet spot type of app.</p>
+
+<h4>MVC framework comparison algorithm:</h4>
+
+<ol>
+<li>Check out available docs, blog posts and example apps</li>
+<li>Go through Tutorial</li>
+<li>Build app prototype</li>
+<li>Rinse and repeat</li>
+</ol>
+
+
+<h2>How AngularJS won me over</h2>
+
+<p>Apart from the data-bindings and MVC awesomeness that both frameworks bring to the table, here are three things that drew me to AngularJS:</p>
+
+<h3>Focus on testing</h3>
+
+<p>AngularJS team is using <a href="http://karma-runner.github.io/">Karma</a> (formerly Testacular) to test the framework itself and go extra mile writing end-to-end and unit tests for all the steps in the <a href="http://docs.angularjs.org/tutorial">Tutorial</a>. Having testable code is part of AngularJS philosophy. Making it easy to write tests is crucial. I don&rsquo;t care how good your code is – if it&rsquo;s not testable, it&rsquo;s useless in the long run.</p>
+
+<h3>App structure</h3>
+
+<p>It might sound like a minor thing, but if you have a team of developers working on a project, having a scalable app structure right out of the box is very helpful. Key Angular concepts translate naturally into <code>controllers</code>, <code>directives</code>, <code>filters</code> and <code>services</code> files or directories. I also like the way the app is broken into such concepts – seems very natural to me, unlike the Ember approach.</p>
+
+<h3>Extending HTML</h3>
+
+<p>Angular&rsquo;s main philosophy is extending HTML syntax instead of abstracting HTML away with another templating language – <em>Angular is what HTML would have been had it been designed for applications</em> (from <a href="http://docs.angularjs.org/guide/overview">Docs/Overview</a>)</p>
+
+<p>If you are using the classical code quality measurement metric of WTFs/minute, Angular will make you happy.</p>
+
+<h2>What about Ember?</h2>
+
+<p>March was pretty rough for Ember team with a lot of angry posts about how confusing and hard it is getting started with it. Significant changes to the <code>router</code> didn&rsquo;t help that either and the amount of up to date examples and articles was approaching 0. That being said, best way to resolve Ember questions appeared to be just reading its source code and comments there.</p>
+
+<p>Here is a list of interesting posts in chronological order:</p>
+
+<ol>
+<li><p><a href="http://wekeroad.com/2013/03/06/ember-confuses-me">EmberJS Confuses Me</a> – by <a href="https://twitter.com/robconery">Rob Conery</a> from Tekpub</p></li>
+<li><p><a href="http://wekeroad.com/2013/03/20/ember-baby-steps">Ember: Baby Steps</a> – by <a href="https://twitter.com/robconery">Rob Conery</a></p></li>
+<li><p><a href="http://discuss.emberjs.com/t/getting-started-with-ember-js-is-easy-no-it-isn-t/559">“GETTING STARTED WITH EMBER.JS IS EASY.” &ndash; no it isn’t</a> – discussion on Discourse which is built using Ember</p></li>
+<li><p><a href="http://emberjs.com/blog/2013/03/21/making-ember-easier.html">MAKING EMBER.JS EASIER</a> – response from Ember team</p></li>
+<li><p><a href="http://emberjs.com/blog/2013/03/22/stabilizing-ember-data.html">STABILIZING EMBER DATA</a> – another response from Ember team</p></li>
+<li><p><a href="http://wekeroad.com/2013/03/23/ember-what-if-part-1">Ember&hellip; What If (Part 1)</a> – by <a href="https://twitter.com/robconery">Rob Conery</a></p></li>
+</ol>
+
+
+<p>Ember team is hard at work in bridging the gap of everyone&rsquo;s expectations and reality of getting up to speed with the framework.</p>
+
+<h2>Final thoughts</h2>
+
+<p>AngularJS is built by Google. Google has one of the strongest engineering cultures. Combine that with the resources that they have and with the power of open source and you get a really powerful mix.</p>
+
+<p>The quality of documentation is really good and there are plenty of example code and apps out there which help tremendously in getting started.</p>
+
+<p>During the recent Angular meetup in Mountain View I&rsquo;ve chatted quickly with the creator of AngularJS, <a href="http://twitter.com/mhevery">Miško Hevery</a>. He confirmed my assumptions that AngularJS team is in sync with Chrome Dev team and it is a very strong strategic advantage, considering interesting advances in Web Components.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Yuriy Dybskiy</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-04-11T14:00:00-07:00" pubdate data-updated="true">Apr 11<span>th</span>, 2013</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://dybskiy.com/js-mvc-angular-vs-ember/" data-via="html5cat" data-counturl="http://dybskiy.com/js-mvc-angular-vs-ember/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/portland-meteor-meetup/" title="Previous Post: First Portland Meteor meetup feat. PhoneGap team">&laquo; First Portland Meteor meetup feat. PhoneGap team</a>
+      
+      
+        <a class="basic-alignment right" href="/google-io-2013/" title="Next Post: How to get the most out of your next Google I/O">How to get the most out of your next Google I/O &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <img src="/photos/me-500px.jpg">
+  <h1>About Me</h1>
+  <p>Front-end engineer by day, photographer and tango dancer at night.</p>
+  <p>Live in sunny Vancouver, Canada.
+  <br>Love to travel. <a href="http://dybskiy.com/where-is-yuriy/">Where is Yuriy?</a></p>
+</section>
+<section>
+  <ul>
+    <li>GitHub: <a href="https://github.com/html5cat" rel="me">Code</a></li>
+    <li>Instagram: <a href="http://instagram.com/dybskiy" rel="me">Photos</a></li>
+    <li>Google+: <a href="http://plus.google.com/107290594765463806793/">G+</a></li>
+    <li>LinkedIn: <a href="http://ca.linkedin.com/in/dybskiy">Yuriy Dybskiy</a></li>
+  </ul>
+</section>
+
+<section class="googleplus googleplus-hidden">
+  <h1>
+    <a href="https://plus.google.com/107290594765463806793?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+    <a href="https://twitter.com/html5cat" rel="me" class="twitter-follow-button" data-show-count="true">Follow @html5cat</a>
+  
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2016 - Yuriy Dybskiy
+  - <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  - <span class="credit">Hosted on <a href="http://pages.github.com/">GitHub Pages</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'dybskiy';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://dybskiy.com/js-mvc-angular-vs-ember/';
+        var disqus_url = 'http://dybskiy.com/js-mvc-angular-vs-ember/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

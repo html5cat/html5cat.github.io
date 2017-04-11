@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Yuriy Dybskiy]]></title>
-  <link href="http://dybskiy.github.com/atom.xml" rel="self"/>
-  <link href="http://dybskiy.github.com/"/>
-  <updated>2012-09-03T16:07:41-07:00</updated>
-  <id>http://dybskiy.github.com/</id>
+  <link href="http://dybskiy.com/atom.xml" rel="self"/>
+  <link href="http://dybskiy.com/"/>
+  <updated>2016-11-18T21:09:58-08:00</updated>
+  <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
     
@@ -14,15 +14,30 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Build your next HTML5 web app using Meteor]]></title>
-    <link href="http://dybskiy.github.com/blog/2012/08/30/build-your-next-html5-web-app-using-meteor/"/>
-    <updated>2012-08-30T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2012/08/30/build-your-next-html5-web-app-using-meteor</id>
-    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="http://dybskiy.github.com//speakerdeck.com/assets/embed.js"></script>
+    <title type="html"><![CDATA[Meteor Devshop Lightning Talk]]></title>
+    <link href="http://dybskiy.com/meteor-devshop-lightning-talk/"/>
+    <updated>2014-04-25T11:12:24-07:00</updated>
+    <id>http://dybskiy.com/meteor-devshop-lightning-talk</id>
+    <content type="html"><![CDATA[<p>Since August 2012 I&rsquo;ve talked at and hosted Meteor events in Vancouver, Portland, Seattle and Buenos Aires.
+In this lightning talk I&rsquo;m sharing my experiences and why you might want to host or attend a Meteor event too.</p>
+
+<!-- more -->
+
+
+<p>Video (<a href="http://www.youtube.com/watch?v=zQhX5Tp6dcU&amp;feature=share&amp;t=1h36m25s">on YouTube</a>):</p>
+
+<iframe width="720" height="406" src="//www.youtube-nocookie.com/embed/w9AOwbcsc0M" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Slides (<a href="http://slides.com/dybskiy/hosting-meteor-events">on slides.com</a>):</p>
+
+<iframe src="//slides.com/html5cat/hosting-meteor-events/embed" width="720" height="540" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ]]></content>
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Why most mobile apps suck or 'What mobile web devs can learn from game devs']]></title>
     <link href="http://dybskiy.github.com/blog/2012/07/26/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
     <updated>2012-07-26T00:00:00-07:00</updated>
@@ -71,10 +86,41 @@ Immersion breakers kill every game, and while break of workflow might not kill a
 The difference in game vs. app developers here is that game developers focus on immersion from the get-go, even design their games around it, while app developers start off with a set of functionality and, at least hopefully, consider immersion as an afterthought.
 
 Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? Those were designed around immersion, not functionality.</blockquote>
+=======
+    <title type="html"><![CDATA[Laptop Sticker Standard]]></title>
+    <link href="http://dybskiy.com/laptop-sticker-standard/"/>
+    <updated>2014-04-11T17:21:00-07:00</updated>
+    <id>http://dybskiy.com/laptop-sticker-standard</id>
+    <content type="html"><![CDATA[<p><strong>or:</strong> &ldquo;How standards are made on small scale&rdquo;</p>
+
+<p>Yesterday <a href="http://twitter.com/@maxogden">Max Ogden</a> stopped by EsriPDX offices and amongst other things showed his new laptop sticker collection. We quickly agreed that there should be a standard for them and that the most useful one seems to be 2&#8221;x1.75&#8221; hexagons. I tweeted it and the reaction was way more amazing than I expected.</p>
+
+<blockquote class="twitter-tweet" lang="en"><p>Laptop Sticker Standards Group (<a href="https://twitter.com/maxogden">@maxogden</a>): here&#39;a a new standard - 2&quot;x1.75&quot; hexagons. <a href="http://t.co/psodb1iCqS">pic.twitter.com/psodb1iCqS</a></p>&mdash; Yuriy Dybskiy (@dybskiy) <a href="https://twitter.com/dybskiy/statuses/454348392856944640">April 10, 2014</a></blockquote>
+
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>According to Twitter Analytics this tweet had &ldquo;160x normal reach&rdquo; (<em>Update</em> 285x as of Apr. 14).</p>
+
+<p>I think there are two forces at play here:</p>
+
+<ol>
+<li>Max is undeniably awesome.</li>
+<li>Laptop sticker sizes are indeed in need of some standards.</li>
+</ol>
+
+
+<p><a href="http://twitter.com/@terinjokes">Terin Stock</a> and <a href="http://twitter.com/@_jden">Jason Denizac</a> were fiddling with this idea as well and Terin created a GitHub repo with the possible spec: <a href="https://github.com/terinjokes/StickerConstructorSpec">https://github.com/terinjokes/StickerConstructorSpec</a></p>
+
+<p>I&rsquo;m very curious to see how this experiment goes.
+This could be a nice playground to see how standards are made and adopted.</p>
+>>>>>>> 88090467b465f20de27f0eb8186853659c4d8d0d
 ]]></content>
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Nexus 7 field testing]]></title>
     <link href="http://dybskiy.github.com/blog/2012/07/24/nexus-7-field-testing/"/>
     <updated>2012-07-24T00:00:00-07:00</updated>
@@ -82,10 +128,74 @@ Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? T
     <content type="html"><![CDATA[[caption id=&#8221;attachment_286&#8221; align=&#8221;aligncenter&#8221; width=&#8221;584&#8221;]<a href="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o.jpeg"><img class="size-large wp-image-286" title="Nexus 7 Field Test Part 1" src="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o-1024x682.jpeg" alt="" width="584" height="388" /></a> Nexus 7 and Joffre lake (c) Anton Bielousov[/caption]
 
 [caption id=&#8221;attachment_287&#8221; align=&#8221;aligncenter&#8221; width=&#8221;640&#8221;]<a href="http://dybskiy.com/wp-content/uploads/2012/07/376328_10151043797211037_1014366157_n.jpeg"><img class="size-full wp-image-287" title="Nexus 7 Field Test Part 2" src="http://dybskiy.com/wp-content/uploads/2012/07/376328_10151043797211037_1014366157_n.jpeg" alt="" width="640" height="960" /></a> Nexus 7 on the rocks (c) juliedoro.com[/caption]
+=======
+    <title type="html"><![CDATA[How to Get the Most Out of Your Next Google I/O]]></title>
+    <link href="http://dybskiy.com/google-io-2013/"/>
+    <updated>2013-05-18T18:14:00-07:00</updated>
+    <id>http://dybskiy.com/google-io-2013</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://instagr.am/p/ZTedAXFJgh/media/?size=l"></p>
+
+<p>I just attended my first Google I/O and I want to take a moment, reflect on it and write down some things I&rsquo;ve learned that might help you in the future at I/O or other conferences.</p>
+
+<h3>tl;dr</h3>
+
+<ol>
+<li>Plan, Prepare, Execute</li>
+<li>Skip some Sessions</li>
+<li>Check out the Demo Stands</li>
+<li>Meet Google Engineers</li>
+<li>Take Breaks</li>
+</ol>
+
+
+<!-- more -->
+
+
+<h2>Plan, Prepare, Execute</h2>
+
+<p>Here&rsquo;s a little story. The night before keynote I got an idea – create a website like Hacker News, but specifically for Google I/O. Things were about to get crazy on Twitter, and it would be great to have a way to keep track of useful links. So I stayed up all night launching <a href="http://io13.meteor.com/">io13.meteor.com</a>. I tweeted about it and within the next hour about 150 people came visiting. I was super excited! Couldn&rsquo;t sleep.</p>
+
+<p>Google I/O started and &hellip; no-one was using my little app. Things got crazy on twitter with thousands tweets per minute. Tweeting about the app was like shouting in a busy club – no one would ever hear you or care to do anything :). <strong>Pivot!</strong> Another &ldquo;Eureka&rdquo; moment – real-time collaborative note-taking and commenting of I/O sessions. I updated the site and tweeted, facebooked and google plused the link.</p>
+
+<p><em>Results</em>: 450 unique visitors came over two days and several dozen voted or left a comment. Tools like Meteor allow you to build some amazing stuff fast, but nothing beats planning in advance and preparing well.</p>
+
+<h2>Skip some Sessions</h2>
+
+<p>I find that these days tech talks get recorded very well and it&rsquo;s much more productive to watch them later at your own pace with the comfort of being able to pause and try some of the tools or tricks presented.</p>
+
+<p>Because it&rsquo;s very rare that so many smart people come together, I think it&rsquo;s much better to use the opportunity to meet some of them. At the same time having an opportunity to discuss the newly revealed features or products right after the session might be very valuable so balance is key here.</p>
+
+<h2>Check out the Demo Stands</h2>
+
+<p>With so many people around you, it might be hard to start a conversation. One of the options I found is to start talking to the folks at demo stands. After all, they&rsquo;re here to demo their products, so they are very well prepared. At first it may seem that there are a lot of companies demoing, but once you start you&rsquo;ll notice how little time it takes to go across all of them. You&rsquo;ll learn a lot and not necessarily just about that particular company.</p>
+
+<h2>Meet Google Engineers</h2>
+
+<p>I wasn&rsquo;t expecting this: there are a lot of Google engineers at the event, they are very open, happy to show you stuff they&rsquo;ve been working on, and willing to share some insights. This is probably one of the biggest perks of attending I/O. Do take advantage of such an amazing opportunity.</p>
+
+<p>Sergey Brin – tired, yet awesome:</p>
+
+<p><img class="center" src="http://instagr.am/p/ZWyCDWlJux/media/?size=l"></p>
+
+<h2>Take Breaks</h2>
+
+<p>I&rsquo;ve never attended a conference that gathered 6,000 people under one roof. It was incredibly intense, amazing, and it allowed me to learn lot in 3 days. The huge volume of smart people and information can be very overwhelming.</p>
+
+<p>One thing I found that really helps is stepping outside to the park across the street, grabbing some fresh air, and relaxing under the sun. Bringing a friend or two with you makes it even better. Playing ball with a lovely couple and homeless person is also an option:</p>
+
+<p><img class="center" src="http://instagr.am/p/ZY8uyXFJoT/media/?size=l"></p>
+
+<h2>Thanks!</h2>
+
+<p>Thanks to <a href="http://cloudant.com/">Cloudant</a> for covering my ticket to IO, more on this later. Thanks to <a href="https://twitter.com/KyleJamesKirwan">Kyle Kirwan</a> for reading this first and bug-fixing.</p>
+
+<p>Thanks to <em>you</em> for reading this far. I&rsquo;m curious to hear about your experience at I/O or other big conferences – feel free to comment below or tweet at me.</p>
+>>>>>>> 88090467b465f20de27f0eb8186853659c4d8d0d
 ]]></content>
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Some thoughts on Nexus 7]]></title>
     <link href="http://dybskiy.github.com/blog/2012/07/23/some-thoughts-on-nexus7/"/>
     <updated>2012-07-23T00:00:00-07:00</updated>
@@ -114,19 +224,125 @@ Gmail lacks unified inbox. I wonder for how long can Google pretend that people 
 Google maps aren&#8217;t very snappy either — apple is still unbeatable here, but the ability to cache certain part of the map really comes handy. I wish they could cache bike path too.
 
 I&#8217;ll post the list of nice apps to have later, but for now I must say its a really comfortable form-factor so I&#8217;m looking forward to what apple will respond with.
+=======
+    <title type="html"><![CDATA[Choosing a JS MVC Framework: Angular.js vs Ember.js]]></title>
+    <link href="http://dybskiy.com/js-mvc-angular-vs-ember/"/>
+    <updated>2013-04-11T14:00:00-07:00</updated>
+    <id>http://dybskiy.com/js-mvc-angular-vs-ember</id>
+    <content type="html"><![CDATA[<h2>tl;dr</h2>
+
+<p>As of late March 2013, after spending a month with each project, digging into documentation and examples available, I can say with confidence: <strong>it&rsquo;s not fair to compare them</strong>. But if you really don&rsquo;t have time to learn both – <strong>use AngularJS</strong>. Ember is not ready for prime time, <strong>yet</strong>.</p>
+
+<blockquote><p>AngularJS is a dream if you&#8217;re accustomed to HTML data- style behavior like you find as part of Twitter Bootstrap&#8217;s javascript</p><footer><strong>Trek Glowacki, Ember core team member</strong> <cite><a href='http://trek.github.com/'>trek.github.com/&hellip;</a></cite></footer></blockquote>
+
+
+<h2>Some context</h2>
+
+<p>Year 2013 started with a great R&amp;D project for me.
+<strong>The problem:</strong> existing webapp codebase had too much technical debt and it was incredible hard to add new features without regression. <strong>Solution:</strong> re-write the app using MVC framework.</p>
+
+<p><strong>Problem #2:</strong> which MVC framework to use? <strong>Solution:</strong> build a prototype using two most promising ones and decide. The app is purely client-side single page JavaScript app, talking to a few server APIs. Think simplified version of Double-Click or Google Analytics.</p>
+
+<p>You might have heard or seen the <a href="http://www.youtube.com/watch?v=oJoAnVRIVQo">talk by Double-Click team</a> about moving to AngularJS.
+So have I and my gut feeling was that Angular would be a perfect fit for this project. Glancing into the future, or actually present, that assumption was spot on and it is Angular&rsquo;s sweet spot type of app.</p>
+
+<h4>MVC framework comparison algorithm:</h4>
+
+<ol>
+<li>Check out available docs, blog posts and example apps</li>
+<li>Go through Tutorial</li>
+<li>Build app prototype</li>
+<li>Rinse and repeat</li>
+</ol>
+
+
+<h2>How AngularJS won me over</h2>
+
+<p>Apart from the data-bindings and MVC awesomeness that both frameworks bring to the table, here are three things that drew me to AngularJS:</p>
+
+<h3>Focus on testing</h3>
+
+<p>AngularJS team is using <a href="http://karma-runner.github.io/">Karma</a> (formerly Testacular) to test the framework itself and go extra mile writing end-to-end and unit tests for all the steps in the <a href="http://docs.angularjs.org/tutorial">Tutorial</a>. Having testable code is part of AngularJS philosophy. Making it easy to write tests is crucial. I don&rsquo;t care how good your code is – if it&rsquo;s not testable, it&rsquo;s useless in the long run.</p>
+
+<h3>App structure</h3>
+
+<p>It might sound like a minor thing, but if you have a team of developers working on a project, having a scalable app structure right out of the box is very helpful. Key Angular concepts translate naturally into <code>controllers</code>, <code>directives</code>, <code>filters</code> and <code>services</code> files or directories. I also like the way the app is broken into such concepts – seems very natural to me, unlike the Ember approach.</p>
+
+<h3>Extending HTML</h3>
+
+<p>Angular&rsquo;s main philosophy is extending HTML syntax instead of abstracting HTML away with another templating language – <em>Angular is what HTML would have been had it been designed for applications</em> (from <a href="http://docs.angularjs.org/guide/overview">Docs/Overview</a>)</p>
+
+<p>If you are using the classical code quality measurement metric of WTFs/minute, Angular will make you happy.</p>
+
+<h2>What about Ember?</h2>
+
+<p>March was pretty rough for Ember team with a lot of angry posts about how confusing and hard it is getting started with it. Significant changes to the <code>router</code> didn&rsquo;t help that either and the amount of up to date examples and articles was approaching 0. That being said, best way to resolve Ember questions appeared to be just reading its source code and comments there.</p>
+
+<p>Here is a list of interesting posts in chronological order:</p>
+
+<ol>
+<li><p><a href="http://wekeroad.com/2013/03/06/ember-confuses-me">EmberJS Confuses Me</a> – by <a href="https://twitter.com/robconery">Rob Conery</a> from Tekpub</p></li>
+<li><p><a href="http://wekeroad.com/2013/03/20/ember-baby-steps">Ember: Baby Steps</a> – by <a href="https://twitter.com/robconery">Rob Conery</a></p></li>
+<li><p><a href="http://discuss.emberjs.com/t/getting-started-with-ember-js-is-easy-no-it-isn-t/559">“GETTING STARTED WITH EMBER.JS IS EASY.” &ndash; no it isn’t</a> – discussion on Discourse which is built using Ember</p></li>
+<li><p><a href="http://emberjs.com/blog/2013/03/21/making-ember-easier.html">MAKING EMBER.JS EASIER</a> – response from Ember team</p></li>
+<li><p><a href="http://emberjs.com/blog/2013/03/22/stabilizing-ember-data.html">STABILIZING EMBER DATA</a> – another response from Ember team</p></li>
+<li><p><a href="http://wekeroad.com/2013/03/23/ember-what-if-part-1">Ember&hellip; What If (Part 1)</a> – by <a href="https://twitter.com/robconery">Rob Conery</a></p></li>
+</ol>
+
+
+<p>Ember team is hard at work in bridging the gap of everyone&rsquo;s expectations and reality of getting up to speed with the framework.</p>
+
+<h2>Final thoughts</h2>
+
+<p>AngularJS is built by Google. Google has one of the strongest engineering cultures. Combine that with the resources that they have and with the power of open source and you get a really powerful mix.</p>
+
+<p>The quality of documentation is really good and there are plenty of example code and apps out there which help tremendously in getting started.</p>
+
+<p>During the recent Angular meetup in Mountain View I&rsquo;ve chatted quickly with the creator of AngularJS, <a href="http://twitter.com/mhevery">Miško Hevery</a>. He confirmed my assumptions that AngularJS team is in sync with Chrome Dev team and it is a very strong strategic advantage, considering interesting advances in Web Components.</p>
+>>>>>>> 88090467b465f20de27f0eb8186853659c4d8d0d
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Think different]]></title>
-    <link href="http://dybskiy.github.com/blog/2011/10/13/think-different/"/>
-    <updated>2011-10-13T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2011/10/13/think-different</id>
-    <content type="html"><![CDATA[[caption id=&#8221;attachment_256&#8221; align=&#8221;aligncenter&#8221; width=&#8221;584&#8221; caption=&#8221;Think different, Toronto Subway. My small tribute to Steve&#8221;]<a href="http://500px.com/photo/2553180" target="_blank"><img class="size-large wp-image-256  " title="Think different" src="http://dybskiy.com/wp-content/uploads/2011/10/DSC_3014-1024x680.jpg" alt="" width="584" height="387" /></a>[/caption]
+    <title type="html"><![CDATA[First Portland Meteor Meetup Feat. PhoneGap Team]]></title>
+    <link href="http://dybskiy.com/portland-meteor-meetup/"/>
+    <updated>2013-02-27T21:01:00-08:00</updated>
+    <id>http://dybskiy.com/portland-meteor-meetup</id>
+    <content type="html"><![CDATA[<p>Yesterday I hosted the fisrt Meteor meetup in Portland. We had an incredibly interesting crowd already and then PhoneGap team joined us to make it even more awesome!</p>
+
+<p><img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-1.jpg" title="Meteor + Cordova (PhoneGap)" ></p>
+
+<!-- more -->
+
+
+<h2>tl;dr</h2>
+
+<p>An amazing group of 20 showed up representing all the possible age, interest and experience groups. For the first time since I started giving talks about Meteor, half a year ago, I was not the only one to present an app written using Meteor – <a href="http://www.thisisjohnbrown.com/">John Brown</a> showed us his creation – <a href="http://writingoal-dev.meteor.com/">WritinGoal</a>.</p>
+
+<blockquote><p>I have had more fun programming with Meteor than I have in quite a while.</p><footer><strong>John Brown</strong> <cite>Portland Meteorite</cite></footer></blockquote>
+
+
+<h2>Photos or it didn&rsquo;t happen</h2>
+
+<p><em>Vegan-gluten-free, vegetarian and meat pizzazz as well as 4 types of beer</em>
+<img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-2.jpg" title="Three types of pizza" ></p>
+
+<p><em>Yours truly showing <a href="http://van2go.meteor.com/">Van2Go</a> app</em>
+<img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-4.jpg"></p>
+
+<p><em>Group photo including, but not limited to: <a href="http://twitter.com/infil00p">@infil00p</a>, <a href="http://twitter.com/mwbrooks">@mwbrooks</a>, <a href="http://twitter.com/aniskadri">@aniskadri</a>, <a href="http://twitter.com/gordtanner">@gordtanner</a>, <a href="http://twitter.com/thisisjohnbrown">@thisisjohnbrown</a> and <a href="http://twitter.com/znmeb">@znmeb</a></em>
+<img src="http://dybskiy.com/photos/meteorMeetup/MeteorMeetupPdx-5.jpg" title="Group photo" ></p>
+
+<h3>Thanks to everyone who attended!</h3>
+
+<p>Special thanks to <a href="https://twitter.com/thoward37">Troy Howard</a> for helping host the event at AppFog&rsquo;s space. Troy is awesome.</p>
+
+<h4>Join the <a href="http://www.meetup.com/Meteor-Portland/">Portland Meteor group</a> to get updates on the upcoming events (<em><a href="http://meetups.meteor.com/">available in any major city near you</a></em>).</h4>
 ]]></content>
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Getting Hired Like a Boss (draft, updates coming)]]></title>
     <link href="http://dybskiy.github.com/blog/2011/08/25/getting-hired/"/>
     <updated>2011-08-25T00:00:00-07:00</updated>
@@ -141,10 +357,59 @@ A few G+ Photo Albums of the recent tech events:
 	<li><a title="HAPIHACK G+ Album" href="https://plus.google.com/photos/107290594765463806793/albums/5641555427035191585" target="_blank">HAPIHACK</a>, event website <a title="hAPIhack page" href="http://hapihack.com" target="_blank">here</a></li>
 	<li><a title="SF Tech Talks G+ Album" href="https://plus.google.com/photos/107290594765463806793/albums/5641932617440079953" target="_blank">SF Tech Talks</a>, official website with archive <a title="sftechtalks.com" href="http://sftechtalks.com/" target="_blank">here</a></li>
 </ul>
+=======
+    <title type="html"><![CDATA[Meteor Aftermath (Meteor Meetup at Mozilla)]]></title>
+    <link href="http://dybskiy.com/meteor-aftermath/"/>
+    <updated>2013-02-15T01:01:00-08:00</updated>
+    <id>http://dybskiy.com/meteor-aftermath</id>
+    <content type="html"><![CDATA[<p><em>This week is definitely a week of Meteors!</em></p>
+
+<p>While the world is amazed by this:</p>
+
+<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/7c-0iwBEswE?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+<p>We know that it&rsquo;s actually late for the party that looked more like this:
+<img src="http://dybskiy.com/photos/meteorMeetup/MeteorMozilla.png" title="Meteor @ Mozilla" >
+and happened on Wednesday at 6:30pm PST at Mozilla&rsquo;s Vancouver office.</p>
+
+<!-- more -->
+
+
+<h2>tl;dr</h2>
+
+<p>This Wednesday a group of 35 Vancouver developers and entrepreneurs got together at Mozilla office for the first official Meteor meetup. We had great folks from <em>Mozilla, Mobify, Unbounce, Hootsuite</em> and other awesome local companies. 15 minute introduction to Meteor followed by a Q&amp;A session and discussion with everyone involved.</p>
+
+<h2>Photos or it didn&rsquo;t happen</h2>
+
+<p><em>T-shirts and food for everyone</em>
+<img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-1.jpg" title="T-shirts for everyone" >
+<img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-4.jpg" title="Food" ></p>
+
+<p><em>Introductory talk</em>
+<img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-2.jpg" title="Intro talk" ></p>
+
+<p><em><a href="http://blog.ascher.ca/">David Ascher</a></em>
+<img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-3.jpg"></p>
+
+<p><em>Let the discussions and coding begin!</em>
+<img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-5.jpg">
+<img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-6.jpg"></p>
+
+<p><em>Group photo of those who stayed to hack and chat. We&rsquo;ll do it in the beginning next time :)</em>
+<img src="http://dybskiy.com/photos/meteorMeetup/Meteor-Meetup-7.jpg" title="Group photo" ></p>
+
+<h3>Thanks to everyone who attended!</h3>
+
+<p>Special thanks to <a href="http://twitter.com/canuckistani">Jeff Griffiths</a> and <strong>Mozilla</strong> for providing this awesome space for the event.</p>
+
+<h4>Join the <a href="http://www.meetup.com/Meteor-Vancouver/">Vancouver Meteor group</a> to get updates on the upcoming events (<em><a href="http://meetups.meteor.com/">available in any major city near you</a></em>).</h4>
+>>>>>>> 88090467b465f20de27f0eb8186853659c4d8d0d
 ]]></content>
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[San Francisco]]></title>
     <link href="http://dybskiy.github.com/blog/2011/08/05/san-francisco/"/>
     <updated>2011-08-05T00:00:00-07:00</updated>
@@ -175,13 +440,172 @@ Links:
 <ul>
 	<li>Tango in Bay area: <a href="http://tangomango.org/" target="_blank">tangomango.org</a></li>
 </ul>
+=======
+    <title type="html"><![CDATA[Facebook World Hack Day Vancouver]]></title>
+    <link href="http://dybskiy.com/facebook-world-hack-day-vancouver-2012/"/>
+    <updated>2012-09-20T20:21:00-07:00</updated>
+    <id>http://dybskiy.com/facebook-world-hack-day-vancouver-2012</id>
+    <content type="html"><![CDATA[<p><img src="http://dybskiy.com/images/worldhack.jpg" title="demo time" ></p>
+
+<p>My hack won the &ldquo;Best use of 500px API&rdquo; prize. Check it out here: <a href="http://worldhack.meteor.com/">http://worldhack.meteor.com/</a></p>
+
+<p>Source code on github <a href="https://github.com/dybskiy/worldhack2012">dybskiy/worldhack2012</a>. Please keep in mind that we only had ~5 hours.</p>
+
+<p>Thanks to <a href="http://meteor.com">Meteor</a> for an amazing JS framework – couldn&rsquo;t have done it without it.</p>
+
+<p>Thanks to <a href="http://500px.com">500px</a> for an awesome prize – <a href="http://www.bose.ca/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp">Bose QC 15 Headphones</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Screencast of My Meteor Meetup Talk]]></title>
+    <link href="http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk/"/>
+    <updated>2012-09-14T14:00:00-07:00</updated>
+    <id>http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk</id>
+    <content type="html"><![CDATA[<p>Screencast of the talk + Q&amp;A session:</p>
+
+<iframe src="http://player.vimeo.com/video/49433252" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p><a href="https://www.dropbox.com/s/mrg7smkdo4gpo6s/Meteor-talk.m4v">Video of the talk</a>.</p>
+
+<p>More informtion on the meetup <a href="http://www.meetup.com/VanDev/events/75032692/">here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Slides From My meteor.js Meetup Talk]]></title>
+    <link href="http://dybskiy.com/talks/meteor-meetup-talk-slides/"/>
+    <updated>2012-08-30T00:00:00-07:00</updated>
+    <id>http://dybskiy.com/talks/meteor-meetup-talk-slides</id>
+    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="503f2bafa5952a0002039e88" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why Most Mobile Apps Suck or 'What Mobile Web Devs Can Learn From Game Devs']]></title>
+    <link href="http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/"/>
+    <updated>2012-07-26T00:00:00-07:00</updated>
+    <id>http://dybskiy.com/technology/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs</id>
+    <content type="html"><![CDATA[<p><em>Thanks for all the attention this post got on reddit! You guys rock! That&rsquo;s some 6,584 rocking people :) <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">Join the discussion</a>.</em></p>
+
+<p>I&rsquo;ve been arguing recently with a few folks that the reason Facebook mobile apps suck isn&rsquo;t because they chose HTML5 blend over pure native but rather due to poor execution on their side.</p>
+
+<p>There were a bunch of articles written to support both sides but arguing about it isn&rsquo;t really productive, is it? Last night I read an amazing article by <a title="Patrick Wyatt" href="http://www.codeofhonor.com/blog/author/patrick-wyatt">Patrick Wyatt</a> – <a title="The making of Warcraft part 1" href="http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1" rel="bookmark">The making of Warcraft part 1</a>. I hope you played Warcraft or at least Warcraft 2.</p>
+
+<p>The problems outlined there make our today&rsquo;s hurtles laughable. Fitting a game into 640Kb of memory, code versioning via &ldquo;remembering which files are changed on that floppy disk&rdquo;, huge multiplayer latencies.</p>
+
+<p>We are spoiled these days and some of us got too comfy thinking 3G and LTE can solve all those latency problems for you. The real answer to the problems with most mobile apps these days (including Facebook&rsquo;s) is Patrick&rsquo;s another great article – <a title="Reducing perceived latency" href="http://www.codeofhonor.com/blog/reducing-perceived-latency" rel="bookmark">Reducing perceived latency</a> and Mike Krieger&rsquo;s (Instagram) – <a href="https://speakerdeck.com/u/mikeyk/p/secrets-to-lightning-fast-mobile-design?slide=1">Secrets to Lightning Fast Mobile Design</a> slide deck.</p>
+
+<p>Slide 25 sums it up nicely in three &lsquo;easy&rsquo; steps:</p>
+
+<ol>
+<li>perform actions optimistically</li>
+<li>adaptively pre-load content</li>
+<li>move bits when no-one&rsquo;s watching</li>
+</ol>
+
+
+<p>The later two are pretty self-explanatory, but I&rsquo;d like to elaborate a bit more on the first one. First time I saw it I assumed it ment optimizations, but what it really means is optimism.</p>
+
+<p>Be optimistic about the and make the user feel productive. Here&rsquo;s one of the slides:</p>
+
+<p style="text-align: center;"><img class="aligncenter  wp-image-318" title="Secrets to Lightning Fast Mobile Design – Slide 34" src="http://dybskiy.com/wp-content/uploads/2012/07/Instagram-slide-34.png" alt="" width="789" height="760" /></p>
+
+
+<p>Just like Ogre in Warcraft would say “Daboo” once you command to move, it didn&rsquo;t really mean that all the requests had finished. It was a simple acknowledgment for the user that we got your command.</p>
+
+<p>What if the request fails? Notify user unobtrusively:</p>
+
+<p style="text-align: center;"><img class="aligncenter  wp-image-320" title="Slide 38" src="http://dybskiy.com/wp-content/uploads/2012/07/Slide-38.png" alt="" width="272" height="381" /></p>
+
+
+<p>At the end of the day, choosing tools you use is important but much more important is how you use them.</p>
+
+<p>In light of some Vancouver game studios shutting down I don&rsquo;t think people need to be worried – it could be great for many companies if a game dev joined them.</p>
+
+<p>So if you are a dev looking for work in Vancouver – get in touch with <a href="http://twitter.com/bmann/">Boris Mann</a> or <a href="http://twitter.com/igorskee/">Igor Faletski</a>. They helped me find <a href="https://twitter.com/unbounce">Unbounce</a> team and I can&rsquo;t recommend them enough.</p>
+
+<p>If you read this far, follow me on twitter – <a href="http://twitter.com/dybskiy/">@dybskiy</a></p>
+
+<p>Thanks to sidcool1234 for submitting to <a href="http://www.reddit.com/r/programming/comments/x9c8m/why_most_mobile_apps_suck_or_what_mobile_web_devs/">reddit</a>.</p>
+
+<p><strong>Update 1:</strong> reddit reader <a href="http://www.reddit.com/user/barsoap">barsoap</a> pointed out the following:</p>
+
+<blockquote>There&#8217;s one keyword here: <em>Immersion</em>.
+
+Immersion breakers kill every game, and while break of workflow might not kill an application, it&#8217;s definitely going to make it suck.
+
+The difference in game vs. app developers here is that game developers focus on immersion from the get-go, even design their games around it, while app developers start off with a set of functionality and, at least hopefully, consider immersion as an afterthought.
+
+Do you remember Kai Krause&#8217;s early work, such as Kai&#8217;s Photo Soap? Those were designed around immersion, not functionality.</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nexus 7 Field Testing]]></title>
+    <link href="http://dybskiy.com/nexus-7-field-testing/"/>
+    <updated>2012-07-24T00:00:00-07:00</updated>
+    <id>http://dybskiy.com/nexus-7-field-testing</id>
+    <content type="html"><![CDATA[<img class="size-large wp-image-286" title="Nexus 7 Field Test Part 1" src="http://dybskiy.com/wp-content/uploads/2012/07/337165_10151078907084415_1332202223_o-1024x682.jpeg" alt="" width="584" height="388" />
+<p>Nexus 7 and Joffre lake (c) Anton Bielousov</p>
+
+<img class="size-full wp-image-287" title="Nexus 7 Field Test Part 2" src="http://dybskiy.com/wp-content/uploads/2012/07/376328_10151043797211037_1014366157_n.jpeg" alt="" width="640" height="960" />
+<p>Nexus 7 on the rocks (c) juliedoro.com</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Some Thoughts on Nexus 7]]></title>
+    <link href="http://dybskiy.com/some-thoughts-on-nexus7/"/>
+    <updated>2012-07-23T00:00:00-07:00</updated>
+    <id>http://dybskiy.com/some-thoughts-on-nexus7</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m writing this post from my nexus in a sushi bar.</p>
+
+<p style="text-align: center;"><a href="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49.jpg"><img class="aligncenter  wp-image-282" title="Nexus 7 in a sushi bar" src="http://dybskiy.com/wp-content/uploads/2012/07/2012-07-23-22.29.49-768x1024.jpg" alt="" width="292" height="389" /></a></p>
+
+
+<p>Is it more convenient than writing on an iPhone? Not really. I still need to have one — for tethering.</p>
+
+<p>The size is amazingly pleasant though. 7 inch narrow screen is very convenient.</p>
+
+<p>It&rsquo;s a fun experiment — immersing yourself into a new ecosystem.
+Being surrounded by Apple all the time, having an Android OS is nice for change.</p>
+
+<p>I wanted to have an android device ever since they came out, but iPhone was always superior to Google counterparts. Main reason is Google maps. I bike a lot so having a bike paths layer always appealed to me.</p>
+
+<p>Is nexus 7 superior to Apple&rsquo;s iPad? Nope, built quality and screen quality are much lower. Price doesn&rsquo;t really justify it.</p>
+
+<p>What&rsquo;s interesting is that Apple now has to defend the 7 inch niche and trust me, it&rsquo;s here to stay.</p>
+
+<p>Jelly Bean is fast. Most apps aren&rsquo;t though. Chrome is a bit of a disappointment too — browsing in Firefox is much smoother.</p>
+
+<p>Gmail lacks unified inbox. I wonder for how long can Google pretend that people have only one account?</p>
+
+<p>Google maps aren&rsquo;t very snappy either — apple is still unbeatable here, but the ability to cache certain part of the map really comes handy. I wish they could cache bike path too.</p>
+
+<p>I&rsquo;ll post the list of nice apps to have later, but for now I must say its a really comfortable form-factor so I&rsquo;m looking forward to what apple will respond with.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Think Different]]></title>
+    <link href="http://dybskiy.com/think-different/"/>
+    <updated>2011-10-13T00:00:00-07:00</updated>
+    <id>http://dybskiy.com/think-different</id>
+    <content type="html"><![CDATA[<p>Think different, Toronto Subway. My small tribute to Steve</p>
+
+<img title="Think different" src="http://dybskiy.com/wp-content/uploads/2011/10/DSC_3014-1024x680.jpg" alt="" width="584" height="387" />
+>>>>>>> 88090467b465f20de27f0eb8186853659c4d8d0d
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 2]]></title>
-    <link href="http://dybskiy.github.com/blog/2011/07/08/ipad-vs-ipad-2-vs-kindle-3g-part-2/"/>
+    <link href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/"/>
     <updated>2011-07-08T00:00:00-07:00</updated>
+<<<<<<< HEAD
     <id>http://dybskiy.github.com/blog/2011/07/08/ipad-vs-ipad-2-vs-kindle-3g-part-2</id>
     <content type="html"><![CDATA[<h2>iPad Wi-Fi + 3G 64GB – $550</h2>
 Right after the release of iPad 2, as expected, the used market for the original iPads got pretty crowded and the prices started to drop. Sure, there were still sellers asking $450 for the Wi-Fi only 16 Gb iPad which was selling at Apple store for $399. But there are always more adequate sellers and I got the top of the line first generation iPad 3G for just $550 including a nice red cover case and Apple warranty. Could not be more happy, right?<!--more-->
@@ -215,13 +639,68 @@ Two applications I use to send content to my Kindle:
 After three month of using it I realized one more thing. Having a dedicated reading device not only makes the reading experience great, it also increases the time you spend reading. You are now not distracted by emails, tweets, facebook updates – it&#8217;s just you and the book.
 
 Available at Amazon: <a title="Amazon Store Kindle 3G Wireless Reading Device, Free 3G + Wi-Fi" href="http://amzn.to/hOruFm" target="_blank">Kindle 3G </a>
+=======
+    <id>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2</id>
+    <content type="html"><![CDATA[<h2>iPad Wi-Fi + 3G 64GB – $550</h2>
+
+
+<p>Right after the release of iPad 2, as expected, the used market for the original iPads got pretty crowded and the prices started to drop. Sure, there were still sellers asking $450 for the Wi-Fi only 16 Gb iPad which was selling at Apple store for $399. But there are always more adequate sellers and I got the top of the line first generation iPad 3G for just $550 including a nice red cover case and Apple warranty. Could not be more happy, right?<!--more--></p>
+
+<h3>One month later&#8230;</h3>
+
+
+<p>After using iPad extensively for one month I came to a sad realisation that it is not a substitute for the three main needs I chose it for:</p>
+
+<ul>
+    <li>Email on the go</li>
+    <li>Video calls (mostly Skype)</li>
+    <li>Reading</li>
+</ul>
+
+
+<p><strong>Email</strong> is nice to read, especially in lanscape orientation but a pain to write. God forbid you want to copy and paste some of the text from the other email. Good luck doing that. A lot has been said about typing on the virtual keyboard. Some users even get an external bluetooth keyboard for that matter practically ruining the whole purpose of compactness. iPhone on the other hand offers almost the same email experience but is always with you.</p>
+
+<p><strong>Video calls</strong> you are much better off with the iPhone 4.</p>
+
+<p>[caption id=&ldquo;attachment_192&rdquo; align=&ldquo;alignright&rdquo; width=&ldquo;560&rdquo; caption=&ldquo;Video call using an iPad 2&rdquo;]<img class="size-full wp-image-192  " title="Taking photo using iPad" src="http://dybskiy.com/wp-content/uploads/2011/05/iPad-Обама-фото.jpeg" alt="Taking photo using iPad" width="560" height="374" />[/caption]</p>
+
+<p><strong>Reading </strong>really sucks on the iPad. I&rsquo;m a huge fan of antiglare screens and unfortunately iPad&rsquo;s screen is as glossy as it gets. Meaning that it is only readable inside with no direct light on it, otherwise you can use at as a mirror but definitely not as a reading device. Not to mention all the finger-trails you get directly on the screen from using it.</p>
+
+<h3>Verdict</h3>
+
+
+<p>Sold via craigslist. Don&rsquo;t get me wrong, it&rsquo;s a great device for showing photos, twitter and casual browsing. Just definitely not a reading device.</p>
+
+<h2>Kindle 3G – $189</h2>
+
+
+<p>Frankly speaking it&rsquo;s not a direct comparison of these devices. It is more a combination comparison: &ldquo;Macbook Pro and iPad&rdquo; vs. &ldquo;Macbook Air and Kindle&rdquo;. There&rsquo;s actually a third element involved – the iPhone, which is present in both setups by default which takes most of the potential iPad responsibilities.</p>
+
+<p>I needed a mobile setup for work and reading, and in the end I realized that Macbook Air is what I need for mobile office and for reading I&rsquo;d just get a dedicated device. My eyes are very happy I made that choice.</p>
+
+<p>Two applications I use to send content to my Kindle:</p>
+
+<ol>
+    <li><a title="Send to Kindle" href="https://chrome.google.com/webstore/detail/ipkfnchcgalnafehpglfbommidgmalan" target="_blank">Send to Kindle</a> Chrome extension</li>
+    <li><a title="Calibre App" href="http://calibre-ebook.com/" target="_blank">Calibre</a> – free and open source e-book library management application</li>
+</ol>
+
+
+<h3>verdict</h3>
+
+
+<p>After three month of using it I realized one more thing. Having a dedicated reading device not only makes the reading experience great, it also increases the time you spend reading. You are now not distracted by emails, tweets, facebook updates – it&rsquo;s just you and the book.</p>
+
+<p>Available at Amazon: <a title="Amazon Store Kindle 3G Wireless Reading Device, Free 3G + Wi-Fi" href="http://amzn.to/hOruFm" target="_blank">Kindle 3G </a></p>
+>>>>>>> 88090467b465f20de27f0eb8186853659c4d8d0d
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[iPad vs. iPad 2 vs. Kindle 3G Part 1]]></title>
-    <link href="http://dybskiy.github.com/blog/2011/05/04/ipad-vs-ipad-2-vs-kindle-3g-part-1/"/>
+    <link href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/"/>
     <updated>2011-05-04T00:00:00-07:00</updated>
+<<<<<<< HEAD
     <id>http://dybskiy.github.com/blog/2011/05/04/ipad-vs-ipad-2-vs-kindle-3g-part-1</id>
     <content type="html"><![CDATA[For the last couple of months I&#8217;ve been using iPads quite extensively and a week ago I sold them all switching to Kindle. But first things first. Here is the chronology of the events:<!--more-->
 <h2>iPad Wi-Fi 16GB ~ $650</h2>
@@ -273,23 +752,68 @@ My two reasons to get the iPad 2 were cameras and speed. Skyping on iPad appeare
 <h3>Summary</h3>
 With the price of $800 you can add another couple of hundred dollars and get an 11&#8221; or even a 13&#8221; Macbook Air not sacrificing much in terms of size but gaining a lot of functionality. The iPad 2 was returned to Futureshop and here comes the next purchase.
 
+=======
+    <id>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1</id>
+    <content type="html"><![CDATA[For the last couple of months I&#8217;ve been using iPads quite extensively and a week ago I sold them all switching to Kindle. But first things first. Here is the chronology of the events:<!--more-->
+<h2>iPad Wi-Fi 16GB ~ $650</h2>
+[caption id=&#8221;attachment_163&#8221; align=&#8221;alignright&#8221; width=&#8221;358&#8221; caption=&#8221;Apple iPad Wi-Fi 16Gb&#8221;]<img class="size-full wp-image-163" title="iPad Wi-Fi 16Gb" src="http://dybskiy.com/wp-content/uploads/2011/04/iPad-Wi-Fi-16Gb.jpeg" alt="Apple iPad Wi-Fi 16Gb" width="358" height="268" />[/caption]
+
+This device was the first tablet I bought, few days before the launch of iPad 2. I&#8217;ve been thinking about it for quite a while and since there was a really low chance of getting an-oh-so-wanted iPad 2 within the first month after Canadian debut I decided to give it a go. Futureshop has a nice two week return policy so it&#8217;s always safe to buy there to test things out. I also didn&#8217;t really care about the cameras of the new iPad, nor about the 15% weight loss.
+
+The total bill came to $643.79 which included the iPad, Apple Case, Screen Protector and <abbr title="Harmonized Sales Tax">HST</abbr>. Happy owner of the new device walked home not knowing what awaits him.
+<h3>Setup</h3>
+Quiz for you:
+<blockquote>Would you like to restore the iPad from iPhone backup or setup as new iPad?</blockquote>
+Frankly speaking this was an unexpected question. Usually Apple tries to make any choices easy for the user (a.k.a. <a title="Book by Steve Krug, Don't Make Me Think: A Common Sense Approach to Web Usability" href="http://amzn.to/hOy8nI" target="_blank">Don&#8217;t make me think</a>), but this time only Google could solve this mystery. Details aside, appears it is better to set it up as new. Maybe because it *is* new? Apart from that strange question the rest is an easy Apple setup as usual – up and running in no time.
+<h3>Initial Impressions</h3>
+Cool, this this thing is really cool! Just a big iPhone? You bet it is. By the way, iPhone starts to feel really tiny after using iPad.
+
+Applications that I&#8217;ve used mostly included the following: Safari, Mail, iBooks, Skype, Twitter and Facebook. Speaking of the later one, there is no official app yet and the third party ones just style the touch.facebook.com site which makes them quite unpleasant to use. The touch version of facebook deserves a separate post. So far iPhone App looks like the best mobile options, regardless to all its faults.
+
+<strong>Safari</strong> – generally nice feeling of browsing and scrolling with swiping, but switching between the tabs really takes a while. Three or four finger swipe would be a better option. Very nice experience nonetheless.
+
+<strong>Mail</strong> – absolutely unusable in portrait orientation and nice in landscape.
+
+[caption id=&#8221;attachment_166&#8221; align=&#8221;alignright&#8221; width=&#8221;300&#8221; caption=&#8221;iPad mail app in lanscape and portrait orientation&#8221;]<img class="size-medium wp-image-166" title="iPad Mail" src="http://dybskiy.com/wp-content/uploads/2011/04/iPad-Mail-300x189.png" alt="Apple iPad mail application in lanscape and portrait orientation" width="300" height="189" />[/caption]
+
+<strong>iBooks</strong> – books can be downloaded from one source, you know which. Sure, you can upload PDFs, but you&#8217;ll get quite irritated by having to zoom again and again every time you flip the page.
+
+<strong>Skype</strong> – for the lack of video cameras and native app for the iPad is better off using on the iPhone or laptop.
+
+<strong>Twitter</strong> – now Twitter for iPad is something. It&#8217;s better then safari for browsing. Probably one of the best iOS apps I&#8217;ve ever seen. Pure pleasure to use.
+<h3>Summary</h3>
+Wi-Fi is great when you have it, but if you are on the go you would really want to have 3G with it. Not every café in Toronto has Wi-Fi. Apple Case is good if you want to rest your iPad on the table but if you want to hand hold it I&#8217;d get one where you can easily take it off. Naked iPad feels so much better.
+
+If you are looking for this model, I would get it refurbished from Apple for $350+tax <a title="Refurbished iPad 16Gb at Apple Store" href="http://store.apple.com/us/product/FB292LL/A" target="_blank">here</a>.
+<h2>iPad 2 Wi-Fi + 3G 16GB ~ $800</h2>
+Surprisingly enough I managed to get a grip on the iPad 2 the day it came out in Canada. Whilst the line in the Eaton Centre Apple store was huge the lineup in the Futureshop was very manageable.
+
+[caption id=&#8221;&#8221; align=&#8221;alignright&#8221; width=&#8221;300&#8221; caption=&#8221;The lineup in Eaton centre. Follow the link to Flickr to see where Apple store actually is on this photo&#8221;]<a href="http://www.flickr.com/photos/imuttoo/5561367012/"><img class=" " title="Apple Store lineup on iPad 2 launch" src="http://farm6.static.flickr.com/5100/5561367012_0b0d1901e6.jpg" alt="Photo of the Eaton Centre Apple Store lineup on iPad 2 launch in Toronto, Canada" width="300" height="268" /></a>[/caption]
+
+The total for the iPad 2 3G 16gb, Smart Cover, screen protector and taxes was $800.85.
+<h3>Key Differences vs. iPad</h3>
+iPad 2 is noticeably thinner, lighter and faster if you hold it right next with the original iPad. You don&#8217;t really notice these differences right away if you only hold one of the iPads at a time.
+
+iPad 2 has two cameras and Smart Cover comes very handy. 3G is definitely a useful feature as well and after a little negotiation with Rogers I was all set.
+<h3>Is it useful?</h3>
+Short answer – no more than original iPad. Longer version – weight, thickness and added cameras don&#8217;t shift the iPad into different category, neither does the speed increase. It still does not fit into any of your current pockets.
+
+The price tag, however reaches the lower boundary of Macbook Air which is a completely different piece of electronics.
+
+My two reasons to get the iPad 2 were cameras and speed. Skyping on iPad appeared to be absolutely unpleasant. I think you are much better off with the iPhone 4 for video chats. The speed increase is definitely noticeable but for the current possible tasks I don&#8217;t think it matters that much. Scrolling through a bunch of photos is much faster, but are you usually looking at photos at that speed?
+<h3>Summary</h3>
+With the price of $800 you can add another couple of hundred dollars and get an 11&#8221; or even a 13&#8221; Macbook Air not sacrificing much in terms of size but gaining a lot of functionality. The iPad 2 was returned to Futureshop and here comes the next purchase.
+
+>>>>>>> 88090467b465f20de27f0eb8186853659c4d8d0d
 <em>To be continued&#8230;</em>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Summer in Toronto]]></title>
-    <link href="http://dybskiy.github.com/blog/2010/07/27/summer-in-toronto/"/>
-    <updated>2010-07-27T00:00:00-07:00</updated>
-    <id>http://dybskiy.github.com/blog/2010/07/27/summer-in-toronto</id>
-    <content type="html"><![CDATA[[nggallery id=1]
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Inception]]></title>
-    <link href="http://dybskiy.github.com/blog/2010/07/25/hello-world/"/>
+    <link href="http://dybskiy.com/hello-world/"/>
     <updated>2010-07-25T00:00:00-07:00</updated>
+<<<<<<< HEAD
     <id>http://dybskiy.github.com/blog/2010/07/25/hello-world</id>
     <content type="html"><![CDATA[Hi everyone, it is finally time to remove some dust from this domain and bring it to life.
 
@@ -303,6 +827,21 @@ You are very welcome to leave comments if you want to suggest something or just 
 
 P.s.: Here is how my first site looked like in 1998 – <a href="http://dybskiy.com/TokyoKaraKonnitiva/index.htm" target="_blank">turn on time machine</a>.
 
+=======
+    <id>http://dybskiy.com/hello-world</id>
+    <content type="html"><![CDATA[Hi everyone, it is finally time to remove some dust from this domain and bring it to life.
+
+What will I post here? First of all, everything related to Photography. I really love it and would like to share my experience as much as possible.  Photos will be posted here obviously, some technical reviews.
+
+Mobile development is another huge topic I would cover.
+
+You are very welcome to leave comments if you want to suggest something or just to say &#8220;hi&#8221;!
+
+どぞよろしくおねがいたします。
+
+P.s.: Here is how my first site looked like in 1998 – <a href="http://dybskiy.com/TokyoKaraKonnitiva/index.htm" target="_blank">turn on time machine</a>.
+
+>>>>>>> 88090467b465f20de27f0eb8186853659c4d8d0d
 P.p.s.: Inception was a nice movie indeed.
 ]]></content>
   </entry>
