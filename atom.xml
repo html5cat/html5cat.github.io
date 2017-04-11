@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2017-04-11T14:49:48-07:00</updated>
+  <updated>2017-04-11T14:52:34-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -18,7 +18,9 @@
     <link href="http://dybskiy.com/getting-started-with-machine-learning/"/>
     <updated>2016-01-08T11:00:21-08:00</updated>
     <id>http://dybskiy.com/getting-started-with-machine-learning</id>
-    <content type="html"><![CDATA[<p>There’s a been a lot of attention directed to AI and Machine learning lately so I’d like to collect great materials to get you up to speed.</p>
+    <content type="html"><![CDATA[<p><em>Updated January 17, 2016 (<a href="https://github.com/html5cat/getting-started-with-machine-learning">GitHub</a> repo if you prefer)</em></p>
+
+<p>There’s a been a lot of attention directed to AI and Machine learning lately so I’d like to collect great materials to get you up to speed.</p>
 
 <p>Ping me if something is missing or shouldn’t be here.</p>
 
@@ -42,9 +44,13 @@
 
 <p>Natural Language Processing by Dan Jurafsky &amp; Christopher Manning – <a href="https://www.coursera.org/course/nlp">https://www.coursera.org/course/nlp</a></p>
 
-<p>Two books seem to be fundamental in this field:
-* Speech and Language Processing, by Chris Manning &amp; Hinrich Schütze
-* Foundations of Statistical Natural Language Processing, by Daniel Jurafsky &amp; James H. Martin</p>
+<p>Two books seem to be fundamental in this field:</p>
+
+<ul>
+<li>Speech and Language Processing, by Chris Manning &amp; Hinrich Schütze</li>
+<li>Foundations of Statistical Natural Language Processing, by Daniel Jurafsky &amp; James H. Martin</li>
+</ul>
+
 
 <h2>Datasets</h2>
 
