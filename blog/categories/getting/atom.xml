@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: getting | Yuriy Dybskiy]]></title>
+  <link href="http://dybskiy.com/blog/categories/getting/atom.xml" rel="self"/>
+  <link href="http://dybskiy.com/"/>
+  <updated>2017-04-11T14:49:48-07:00</updated>
+  <id>http://dybskiy.com/</id>
+  <author>
+    <name><![CDATA[Yuriy Dybskiy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Getting started with Computer Security]]></title>
+    <link href="http://dybskiy.com/computer/security,/getting/started/getting-started-with-computer-security/"/>
+    <updated>2016-01-08T10:33:11-08:00</updated>
+    <id>http://dybskiy.com/computer/security,/getting/started/getting-started-with-computer-security</id>
+    <content type="html"><![CDATA[<p>I had a conversation with my uncle Michael recently about getting started with Computer Security. Here are some notes from that call. Input is very much appreciated as I’d like to make it a useful guide 🤓</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Dear kids: If you want a job in 5 years, study computer science. If you want a job forever, study computer security.</p>&mdash; Aaron Levie (@levie) <a href="https://twitter.com/levie/status/547234465198526464">December 23, 2014</a></blockquote>
+
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>There doesn’t seem to be a single place/course that is a good starting point.
+Field is pretty much defined by constant education, constant new attack vectors.
+Michael’s specialty — forensics and identity management, sometimes border line legal work.
+It’s a huge field:
+* Cryptography — why hash, why salted separately, basics (mathematical architecture)
+* Compression, entropy of information
+* Database security
+* Identity management</p>
+
+<h3>Steps to get started</h3>
+
+<p>Identity management, Cryptography 101</p>
+
+<h3>Some links</h3>
+
+<p>Latest hacks – <a href="https://h1.sintheticlabs.com/">https://h1.sintheticlabs.com/</a>
+NIST site — <a href="http://csrc.nist.gov/">http://csrc.nist.gov/</a>
+<a href="http://sintheticlabs.com/tools.html">http://sintheticlabs.com/tools.html</a>
+<a href="https://h1.sintheticlabs.com/">https://h1.sintheticlabs.com/</a></p>
+
+<p>//update via Steve Woodrow</p>
+
+<ul>
+<li>Ryan McGeehan’s set of blog posts (security in the context of growing
+companies) — <a href="https://medium.com/@magoo">https://medium.com/@magoo</a></li>
+<li>OWASP — <a href="https://www.owasp.org">https://www.owasp.org</a></li>
+</ul>
+
+
+<h3>Security courses at universities:</h3>
+
+<ul>
+<li><a href="https://crypto.stanford.edu/cs155/syllabus.html">https://crypto.stanford.edu/cs155/syllabus.html</a></li>
+<li><p>6.857: Computer and Network Security &ndash; Massachusetts Institute of Technology &ndash; Spring 2015 – <a href="http://courses.csail.mit.edu/6.857/2015/handouts">http://courses.csail.mit.edu/6.857/2015/handouts</a></p></li>
+<li><p>6.858 / Fall 2015 / Schedule – <a href="http://css.csail.mit.edu/6.858/2015/schedule.html">http://css.csail.mit.edu/6.858/2015/schedule.html</a></p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
