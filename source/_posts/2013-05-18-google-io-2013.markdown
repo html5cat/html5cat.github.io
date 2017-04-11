@@ -1,0 +1,61 @@
+---
+layout: post
+title: "How to get the most out of your next Google I/O"
+date: 2013-05-18 18:14
+comments: true
+categories:
+keywords: googleio, io13, tips, startups, tricks,
+description: I just attended my first Google I/O and I want to take a moment, reflect on it and write down some things I've learned that might help you in the future at I/O or other conferences.
+published: true
+---
+
+{% img center http://instagr.am/p/ZTedAXFJgh/media/?size=l %}
+
+I just attended my first Google I/O and I want to take a moment, reflect on it and write down some things I've learned that might help you in the future at I/O or other conferences.
+
+### tl;dr
+1. Plan, Prepare, Execute
+1. Skip some Sessions
+1. Check out the Demo Stands
+1. Meet Google Engineers
+1. Take Breaks
+
+<!-- more -->
+## Plan, Prepare, Execute
+
+Here's a little story. The night before keynote I got an idea – create a website like Hacker News, but specifically for Google I/O. Things were about to get crazy on Twitter, and it would be great to have a way to keep track of useful links. So I stayed up all night launching [io13.meteor.com](http://io13.meteor.com/). I tweeted about it and within the next hour about 150 people came visiting. I was super excited! Couldn't sleep.
+
+Google I/O started and ... no-one was using my little app. Things got crazy on twitter with thousands tweets per minute. Tweeting about the app was like shouting in a busy club – no one would ever hear you or care to do anything :). **Pivot!** Another "Eureka" moment – real-time collaborative note-taking and commenting of I/O sessions. I updated the site and tweeted, facebooked and google plused the link.
+
+_Results_: 450 unique visitors came over two days and several dozen voted or left a comment. Tools like Meteor allow you to build some amazing stuff fast, but nothing beats planning in advance and preparing well.
+
+## Skip some Sessions
+
+I find that these days tech talks get recorded very well and it's much more productive to watch them later at your own pace with the comfort of being able to pause and try some of the tools or tricks presented.
+
+Because it's very rare that so many smart people come together, I think it's much better to use the opportunity to meet some of them. At the same time having an opportunity to discuss the newly revealed features or products right after the session might be very valuable so balance is key here.
+
+## Check out the Demo Stands
+
+With so many people around you, it might be hard to start a conversation. One of the options I found is to start talking to the folks at demo stands. After all, they're here to demo their products, so they are very well prepared. At first it may seem that there are a lot of companies demoing, but once you start you'll notice how little time it takes to go across all of them. You'll learn a lot and not necessarily just about that particular company.
+
+## Meet Google Engineers
+
+I wasn't expecting this: there are a lot of Google engineers at the event, they are very open, happy to show you stuff they've been working on, and willing to share some insights. This is probably one of the biggest perks of attending I/O. Do take advantage of such an amazing opportunity.
+
+Sergey Brin – tired, yet awesome:
+
+{% img center http://instagr.am/p/ZWyCDWlJux/media/?size=l %}
+
+## Take Breaks
+
+I've never attended a conference that gathered 6,000 people under one roof. It was incredibly intense, amazing, and it allowed me to learn lot in 3 days. The huge volume of smart people and information can be very overwhelming.
+
+One thing I found that really helps is stepping outside to the park across the street, grabbing some fresh air, and relaxing under the sun. Bringing a friend or two with you makes it even better. Playing ball with a lovely couple and homeless person is also an option:
+
+{% img center http://instagr.am/p/ZY8uyXFJoT/media/?size=l %}
+
+## Thanks!
+Thanks to [Cloudant](http://cloudant.com/) for covering my ticket to IO, more on this later. Thanks to [Kyle Kirwan](https://twitter.com/KyleJamesKirwan) for reading this first and bug-fixing.
+
+Thanks to *you* for reading this far. I'm curious to hear about your experience at I/O or other big conferences – feel free to comment below or tweet at me.
