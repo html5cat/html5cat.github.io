@@ -4,7 +4,7 @@
   <title><![CDATA[Yuriy Dybskiy]]></title>
   <link href="http://dybskiy.com/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2016-11-18T21:09:58-08:00</updated>
+  <updated>2017-04-10T19:46:57-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Driss Zouak on How to Write More]]></title>
+    <link href="http://dybskiy.com/how-to-write-more/"/>
+    <updated>2016-01-05T11:00:01-08:00</updated>
+    <id>http://dybskiy.com/how-to-write-more</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>Driss Zouak on how to write more
+Me: I keep running around instead of sitting down and writing code and posts. How do you get yourself to write so much?
+Is it something that needs to be forced in the beginning or once the proper project comes in, it will come naturally?</p>
+
+<hr />
+
+<p>Would you like a real but very metaphysical answer?
+It comes from realizing something, I believe.
+I travel through time, and through places, by writing.
+My body is limited in where I can go.
+My finances are limited in where I can go.
+But in the universe, you can fold every place unto itself, step from one end to the other, and then unfold it, and realize the distance you’ve traveled.
+Now, practically speaking, what that means is that I have built up the skill in thinking, really thinking.
+Stopping the world and thinking.
+Disengaging.
+And I get tremendous joy out of a well sculpted story.
+Some people feel the same way about painting or photography.
+My writing has now made me interested in seeing some places, so that I can imagine my characters there.
+I don’t know if that helps, but it is probably the most true answer I can give.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meteor Devshop Lightning Talk]]></title>
