@@ -6,6 +6,7 @@ comments: true
 tags: machine learning, getting started
 published: true
 ---
+*Updated January 17, 2016 ([GitHub](https://github.com/html5cat/getting-started-with-machine-learning) repo if you prefer)*
 
 There’s a been a lot of attention directed to AI and Machine learning lately so I’d like to collect great materials to get you up to speed.
 
@@ -30,6 +31,7 @@ You can use WEKA library if you use Java to develop. WEKA is wrapped also in R a
 Natural Language Processing by Dan Jurafsky & Christopher Manning – https://www.coursera.org/course/nlp
 
 Two books seem to be fundamental in this field:
+
 * Speech and Language Processing, by Chris Manning & Hinrich Schütze
 * Foundations of Statistical Natural Language Processing, by Daniel Jurafsky & James H. Martin
 
