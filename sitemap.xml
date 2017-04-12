@@ -13,6 +13,14 @@
         <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
+        <loc>http://dybskiy.com/san-francisco/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/getting-hired/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://dybskiy.com/think-different/</loc>
         <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
@@ -32,6 +40,10 @@
     </url>
     <url>
         <loc>http://dybskiy.com/talks/meteor-meetup-talk-slides/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/securing-your-meteor-app/</loc>
         <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
@@ -59,11 +71,27 @@
         <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
+        <loc>http://dybskiy.com/new-nexus-7/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/year-in-review/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/why-host-a-meetup/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://dybskiy.com/laptop-sticker-standard/</loc>
         <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/meteor-devshop-lightning-talk/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/quick-comparison-of-js-frameworks/</loc>
         <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
@@ -76,13 +104,15 @@
     </url>
     <url>
         <loc>
-            http://dybskiy.com/computer/security,/getting/started/getting-started-with-computer-security/
+            http://dybskiy.com/computer%20security/getting%20started/getting-started-with-computer-security/
         </loc>
-        <lastmod>2017-04-11T14:47:59-07:00</lastmod>
+        <lastmod>2017-04-11T21:10:27-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.com/getting-started-with-machine-learning/</loc>
-        <lastmod>2017-04-11T14:52:01-07:00</lastmod>
+        <loc>
+            http://dybskiy.com/machine%20learning/getting%20started/getting-started-with-machine-learning/
+        </loc>
+        <lastmod>2017-04-11T21:10:32-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/404.html</loc>
@@ -90,15 +120,15 @@
     </url>
     <url>
         <loc>http://dybskiy.com/about/</loc>
-        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+        <lastmod>2017-04-11T21:06:27-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/blog/archives/</loc>
-        <lastmod>2017-04-11T14:52:01-07:00</lastmod>
+        <lastmod>2017-04-11T21:10:32-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/</loc>
-        <lastmod>2017-04-11T14:52:01-07:00</lastmod>
+        <lastmod>2017-04-11T21:10:32-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/robots.txt</loc>

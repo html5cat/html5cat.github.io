@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: security, | Yuriy Dybskiy]]></title>
-  <link href="http://dybskiy.com/blog/categories/security/atom.xml" rel="self"/>
+  <title><![CDATA[Category: computer security | Yuriy Dybskiy]]></title>
+  <link href="http://dybskiy.com/blog/categories/computer-security/atom.xml" rel="self"/>
   <link href="http://dybskiy.com/"/>
-  <updated>2017-04-11T14:52:34-07:00</updated>
+  <updated>2017-04-11T21:11:01-07:00</updated>
   <id>http://dybskiy.com/</id>
   <author>
     <name><![CDATA[Yuriy Dybskiy]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting started with Computer Security]]></title>
-    <link href="http://dybskiy.com/computer/security,/getting/started/getting-started-with-computer-security/"/>
+    <link href="http://dybskiy.com/computer%20security/getting%20started/getting-started-with-computer-security/"/>
     <updated>2016-01-08T10:33:11-08:00</updated>
-    <id>http://dybskiy.com/computer/security,/getting/started/getting-started-with-computer-security</id>
+    <id>http://dybskiy.com/computer%20security/getting%20started/getting-started-with-computer-security</id>
     <content type="html"><![CDATA[<p>I had a conversation with my uncle Michael recently about getting started with Computer Security. Here are some notes from that call. Input is very much appreciated as I’d like to make it a useful guide 🤓</p>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Dear kids: If you want a job in 5 years, study computer science. If you want a job forever, study computer security.</p>&mdash; Aaron Levie (@levie) <a href="https://twitter.com/levie/status/547234465198526464">December 23, 2014</a></blockquote>
