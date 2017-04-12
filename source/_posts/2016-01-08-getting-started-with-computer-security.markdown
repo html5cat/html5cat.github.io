@@ -3,7 +3,7 @@ layout: post
 title: "Getting started with Computer Security"
 date: 2016-01-08 11:33:11 -0700
 comments: true
-categories: computer security, getting started
+categories: [computer security, getting started]
 ---
 
 I had a conversation with my uncle Michael recently about getting started with Computer Security. Here are some notes from that call. Input is very much appreciated as I’d like to make it a useful guide 🤓
