@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why most mobile apps suck or 'What mobile web devs can learn from game devs'
-categories:
+tags:
 - technology
 status: publish
 type: post

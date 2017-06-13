@@ -3,7 +3,7 @@ layout: post
 title: "Getting started with Machine Learning"
 date: 2016-01-08 12:00:21 -0700
 comments: true
-categories: [machine learning, getting started]
+tags: [machine learning, getting started]
 published: true
 ---
 *Updated January 17, 2016 ([GitHub](https://github.com/html5cat/getting-started-with-machine-learning) repo if you prefer)*
