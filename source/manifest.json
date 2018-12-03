@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Yuriy Dybskiy | Curious JavaScript Engineer, @html5cat",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://dybskiy.com/",
+    "short_name": "Yuriy Dybskiy",
+    "theme_color": "transparent",
+    "description": "Exploration mode for a bit. Formerly Dev. Relations @Lyft, @ParseIt + @Facebook, @meteorjs, @IBMcloudant.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        }
+    ]
+}
