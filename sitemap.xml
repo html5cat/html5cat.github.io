@@ -2,112 +2,140 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://dybskiy.com/hello-world/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-1/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/san-francisco/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/getting-hired/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/think-different/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/some-thoughts-on-nexus7/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/nexus-7-field-testing/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>
             http://dybskiy.com/why-most-mobile-apps-suck-or-what-mobile-devs-can-learn-from-game-devs/
         </loc>
-        <lastmod>2017-06-13T12:56:47-04:00</lastmod>
+        <lastmod>2017-06-13T09:56:47-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/talks/meteor-meetup-talk-slides/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/securing-your-meteor-app/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/talks/screencast-of-my-meteor-meetup-talk/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/facebook-world-hack-day-vancouver-2012/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/meteor-aftermath/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/portland-meteor-meetup/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/js-mvc-angular-vs-ember/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/google-io-2013/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/new-nexus-7/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/year-in-review/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/why-host-a-meetup/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/laptop-sticker-standard/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/meteor-devshop-lightning-talk/</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/quick-comparison-of-js-frameworks/</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/663399becca/</loc>
-        <lastmod>2017-04-11T17:29:31-04:00</lastmod>
+        <lastmod>2017-04-11T14:29:31-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/how-to-write-more/</loc>
-        <lastmod>2017-04-11T17:37:22-04:00</lastmod>
+        <lastmod>2017-04-11T14:37:22-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/getting-started-with-computer-security/</loc>
-        <lastmod>2017-06-13T12:56:19-04:00</lastmod>
+        <lastmod>2017-06-13T09:56:19-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/getting-started-with-machine-learning/</loc>
-        <lastmod>2017-06-13T12:56:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dybskiy.com/404.html</loc>
-        <lastmod>2017-04-10T22:52:24-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dybskiy.com/about/</loc>
-        <lastmod>2017-04-12T00:06:27-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dybskiy.com/blog/archives/</loc>
-        <lastmod>2017-06-13T12:56:47-04:00</lastmod>
+        <lastmod>2017-06-13T09:56:16-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/</loc>
-        <lastmod>2017-06-13T12:56:47-04:00</lastmod>
+        <lastmod>2017-06-13T09:56:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dybskiy.com/robots.txt</loc>
-        <lastmod>2017-04-10T22:52:25-04:00</lastmod>
+        <loc>http://dybskiy.com/404.html</loc>
+        <lastmod>2017-04-10T19:52:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/talks/</loc>
-        <lastmod>2017-04-12T00:18:44-04:00</lastmod>
+        <lastmod>2017-04-11T21:18:44-07:00</lastmod>
     </url>
     <url>
         <loc>http://dybskiy.com/talks/meteor-vandev-meetup.html</loc>
-        <lastmod>2017-04-10T22:52:25-04:00</lastmod>
+        <lastmod>2017-04-10T19:52:25-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/about/</loc>
+        <lastmod>2017-04-11T21:06:27-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/blog/archives/</loc>
+        <lastmod>2017-06-13T09:56:47-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dybskiy.com/robots.txt</loc>
+        <lastmod>2017-04-10T19:52:25-07:00</lastmod>
     </url>
 </urlset>

@@ -19,16 +19,17 @@
 
   
   <link rel="canonical" href="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2">
+  <link rel="manifest" href="manifest.json">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Yuriy Dybskiy" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <script src="/javascripts/open-in-blank.js"></script>
 
   
@@ -39,12 +40,20 @@
 
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      ga.src = 'https://ssl.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
 
 
+
+  <script src="https://polyfill.webmonetization.org/polyfill.js"></script>
+  <script src="https://cdn.coil.com/donate.js"></script>
+  <script>
+    window.WebMonetizationScripts.donate({
+      paymentPointer: '$twitter.xrptipbot.com/html5cat'
+    })
+  </script>
 </head>
 
 <body   >
@@ -99,7 +108,7 @@
   
 
 
-<time datetime="2011-07-08T00:00:00-04:00" pubdate data-updated="true"></time>
+<time datetime="2011-07-08T00:00:00-07:00" pubdate data-updated="true"></time>
         
       </p>
     
@@ -179,7 +188,7 @@
   
 
 
-<time datetime="2011-07-08T00:00:00-04:00" pubdate data-updated="true"></time>
+<time datetime="2011-07-08T00:00:00-07:00" pubdate data-updated="true"></time>
       
 
 
@@ -190,8 +199,6 @@
   <a href="//twitter.com/share" class="twitter-share-button" data-url="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/" data-via="html5cat" data-counturl="http://dybskiy.com/ipad-vs-ipad-2-vs-kindle-3g-part-2/" >Tweet</a>
   
   
-  <div class="g-plusone" data-size="medium"></div>
-  
   
 </div>
 
@@ -201,7 +208,7 @@
         <a class="basic-alignment left" href="/ipad-vs-ipad-2-vs-kindle-3g-part-1/" title="Previous Post: iPad vs. iPad 2 vs. Kindle 3G Part 1">&laquo; iPad vs. iPad 2 vs. Kindle 3G Part 1</a>
       
       
-        <a class="basic-alignment right" href="/think-different/" title="Next Post: Think different">Think different &raquo;</a>
+        <a class="basic-alignment right" href="/san-francisco/" title="Next Post: San Francisco">San Francisco &raquo;</a>
       
     </p>
   </footer>
@@ -220,22 +227,10 @@
 <section>
   <ul>
     <li>GitHub: <a href="https://github.com/html5cat" rel="me">Code</a></li>
-    <li>Instagram: <a href="http://instagram.com/html5cat" rel="me">Photos</a></li>
-    <li>Google+: <a href="http://plus.google.com/107290594765463806793/">G+</a></li>
-    <li>LinkedIn: <a href="http://ca.linkedin.com/in/dybskiy">Yuriy Dybskiy</a></li>
+    <li>Instagram: <a href="http://instagram.com/yurik" rel="me">Photos</a></li>
+    <li>LinkedIn: <a href="http://linkedin.com/in/dybskiy">Yuriy Dybskiy</a></li>
   </ul>
 </section>
-
-<section class="googleplus googleplus-hidden">
-  <h1>
-    <a href="https://plus.google.com/107290594765463806793?rel=author">
-      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
-      Google+
-    </a>
-  </h1>
-</section>
-
-
 
   
     <a href="https://twitter.com/html5cat" rel="me" class="twitter-follow-button" data-show-count="true">Follow @html5cat</a>
@@ -250,7 +245,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2017 - Yuriy Dybskiy
+  Copyright &copy; 2018 - Yuriy Dybskiy
   - <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
   - <span class="credit">Hosted on <a href="http://pages.github.com/">GitHub Pages</a></span>
 </p>
@@ -266,7 +261,7 @@
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      dsq.src = 'https://' + disqus_shortname + '.disqus.com/' + disqus_script;
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
 </script>
@@ -275,14 +270,6 @@
 
 
 
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
 
 
   <script type="text/javascript">
@@ -290,7 +277,7 @@
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      twitterWidgets.src = 'https://platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>
