@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: dybskiy.com
+Token: 114e5eb3ced7dfaa6fdfba411e765cb8171003847ebced655482c34bea49c496
